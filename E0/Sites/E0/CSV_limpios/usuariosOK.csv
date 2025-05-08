@@ -26,7 +26,7 @@ nombre,run,dv,correo,contrasena,nombre_usuario,telefono_contacto,puntos
 "Sra. Graciela Lozano Aparicio",19786219,0,Sra.aparicio@wass.com,f6Fh65zTU4APLUV,sra.1107,"+56 2 6014 5293",1013
 "Sr. Graciela Aguayo Porras",11228187,8,Sr.porras@viajesanma.com,HZjbh3SSl6oE,Sr.porras,"+56 2 6948 6440",1915
 "Daniel Llamas Espino",23174998,5,Danielespino@edubus.cal,D9NiFftWewq4YEi,daniel115,"+56 2 5851 6852",4979
-"Carla Lomeli Roldán",1438951,x,caloro@marmol.com,KOeOdXukZ95Rrk,x,+56-2-8865-3439,x
+"Carla Lomeli Roldán",1438951,2,caloro@marmol.com,KOeOdXukZ95Rrk,caloro,"+56 2 8865 3439",3625
 "Tomás Magaña Cruz",4221888,0,tomacr@edubus.cal,TlqizFH4u3WXdHq3,tomás978,"+56 9 1019 0668",3735
 "Manuel Palacios Bustamante",23772488,7,mapabu@viajesanma.com,oj7aLTKMP,Manuelbustamante,"+56 9 9646 0493",3565
 "Virginia Lozada Alcántar",2413329,0,viloal@marmol.com,BK5grO8F8,virginia722,"+56 2 2243 4536",6226
@@ -58,7 +58,7 @@ nombre,run,dv,correo,contrasena,nombre_usuario,telefono_contacto,puntos
 "Sta. Joaquín Muñiz Peres",21346642,9,stjomupe@wass.com,asOv892FiMA,sta.7409,"+56 9 6595 9596",3384
 "Sofia Arroyo Munguía",1530688,2,sofia1500@tourket.com,M0tsoVN5J4dqlf5,Sofiamunguía,"+56 2 1683 5803",7407
 "Sta. Felipe Medrano Pérez",18369442,1,Sta.pOorez@wass.com,p0hkOYCp,stfemepé,"+56 9 6599 9310",529
-x,1216311,8,andrOos2663@edubus.cal,CSzKy7etW0S,anhefa,"+56 9 0785 1443",x
+"Andrés Heredia Farías",1216311,8,andrOos2663@edubus.cal,CSzKy7etW0S,anhefa,"+56 9 0785 1443",4301
 "Concepción Miranda Rivero",10804338,5,concepciOIn6445@wass.com,T8hNKcXvu5Q,comiri,"+56 2 7089 4905",136
 "Sta. Patricio Archuleta Vallejo",22018416,1,sta.8898@marmol.com,AN5qSXHVn,sta.4522,"+56 9 2395 7946",676
 "Hugo Sosa Rael",19055940,8,hugo5745@wass.com,GcnGUz3WZ1I,Hugorael,"+56 2 1859 0070",7878
@@ -88,8 +88,8 @@ x,1216311,8,andrOos2663@edubus.cal,CSzKy7etW0S,anhefa,"+56 9 0785 1443",x
 "Sta. Claudio Arce Arredondo",19480008,8,Sta.arredondo@marmol.ceele,XumkGrCrVdh8mv8,sta.2363,"+56 2 9800 4546",8103
 "José Eduardo Moreno Jasso",19349064,6,josOo5274@tourket.com,odVC9kWw,josé427,"+56 9 0698 0454",2573
 "Inés Barrios Valadez",16842522,8,InOosvaladez@wass.com,Zi1HVOizKFq,Inésvaladez,"+56 2 6874 5789",4964
-"Alfonso Ruelas Marrero",726132,2,alruma@outluc.com,C5nNYEeur,alfonso8643,+56-9-9590-1529,3455
 "Alfonso Ruelas Marrero",726132,2,alruma@outluc.ceele,C5nNYEeur,alfonso8643,"+56 9 9590 1529",3455
+"Alfonso Ruelas Marrero",726132,2,alruma@outluc.com,C5nNYEeur,alfonso8643,+56-9-9590-1529,3455
 "Gloria Vázquez Aponte",18165128,8,gloria1062@outluc.com,mMe4aaNRhc6,glváap,"+56 9 0928 6064",271
 "Isabel Olivera Delarosa",1298756,0,isolde@outluc.com,sEMIcmsZ4yUcQ5,isabel1202,"+56 9 0048 2005",9837
 "Sra. Olivia Salas Pantoja",20405214,0,sra.4107@edubus.cal,SeJ6eoA3,srolsapa,"+56 9 2436 4646",8922
@@ -113,9 +113,9 @@ x,1216311,8,andrOos2663@edubus.cal,CSzKy7etW0S,anhefa,"+56 9 0785 1443",x
 "María Teresa Caballero Tello",8555666,5,marOAa337@viajesanma.com,x47R9ljE,Maríatello,"+56 9 0338 5670",1201
 "Julio Alaniz Alemán",12308087,4,julio9256@marmol.com,RPfjDPOik0,jualal,"+56 2 5781 3053",7700
 "Julio Alaniz Alemán",12308087,4,julio9256@marmol.ceele,RPfjDPOik0,jualal,"+56 2 5781 3053",7700
-"Julio César Oquendo Alba",14909441,x,julio3361@outluc.com,fFu8Dy66I8Y,x,x,767
+"Julio César Oquendo Alba",14909441,5,julio3361@outluc.com,fFu8Dy66I8Y,Julioalba,+56-2-0107-9542,767
 "Tomás Ayala Linares",7644353,0,tomOes9802@outluc.com,36ohRiPpIux,tomás2963,"+56 2 0719 1023",8296
-x,16725386,5,Marcelalemus@wass.com,8VSd0YpeyV,marcela2218,"+56 9 7227 2329",x
+"Marcela Puente Lemus",16725386,5,Marcelalemus@wass.com,8VSd0YpeyV,marcela2218,"+56 9 7227 2329",1522
 "Sr. Fernando Urrutia García",10201727,7,sr.3454@marmol.com,tgL631ySrth5Z,Sr.garcía,"+56 2 0776 2520",3327
 "Sr. Jerónimo Montes Reyes",1877657,0,srjemore@edubus.cal,iAtRZy15,sr.3859,"+56 2 4778 9783",7025
 "Josefina Hernández Robledo",19635968,0,johero@tourket.com,1Fppu7KkGW,Josefinarobledo,"+56 9 6828 0215",8069
@@ -134,7 +134,7 @@ x,16725386,5,Marcelalemus@wass.com,8VSd0YpeyV,marcela2218,"+56 9 7227 2329",x
 "Raquel Ávalos Quiñones",519626,4,raOevqu@wass.com,GiPx9fWm,Raquelquiñones,+56-9-5573-9886,778
 "Alfonso Castro Armijo",22106190,0,alcaar@edubus.cal,H2odKNb26,alfonso8537,"+56 9 1674 8561",5673
 "Guillermina Briseño Rivera",28676759,1,gubrri@wass.com,P86ncLrJG97DA,gubrri,"+56 9 8696 1042",1745
-x,20430778,4,isabel7448@marmol.com,x,isabel3836,"+56 9 9407 9052",6273
+"Isabel Roybal Balderas",20430778,4,isabel7448@marmol.com,0KDmB8yhPHAcffc,isabel3836,"+56 9 9407 9052",6273
 "Sta. Gilberto Colón Pedroza",6201248,0,Sta.pedroza@wass.com,Qob59cR3X7Xv13x1,stgicope,"+56 9 8206 7568",1630
 "Sr. Yolanda Roybal Gracia",18718566,1,sryorogr@outluc.com,IebLNtP0,sryorogr,"+56 9 5036 2511",9085
 "César Centeno Iglesias",27072823,5,cOoceig@viajesanma.ceele,6isrYLrKF5kQ,Césariglesias,"+56 9 1725 0360",166
@@ -143,7 +143,7 @@ x,20430778,4,isabel7448@marmol.com,x,isabel3836,"+56 9 9407 9052",6273
 "Daniela Vargas Olvera",26538901,5,Danielaolvera@viajesanma.com,jp0dXxWn,davaol,"+56 9 5189 7038",923
 "Marisol Villanueva Segovia",3845349,1,marisol6988@outluc.com,rdlYFxr8ZuTN0K,marisol7682,"+56 2 3987 1783",5527
 "Guadalupe Laureano Montalvo",24728263,7,guadalupe8182@wass.com,gn39tgBsL4,Guadalupemontalvo,"+56 9 6049 7748",6774
-"Sr. Rocio Lomeli Tejeda",10542009,x,sr.4619@outluc.com,x,sr.7362,"+56 2 8715 3348",3365
+"Sr. Rocio Lomeli Tejeda",10542009,9,sr.4619@outluc.com,D4SyapnCxoOS9,sr.7362,"+56 2 8715 3348",3365
 "Sta. José María Sedillo Alemán",5621251,5,Sta.alemOen@tourket.com,8tYXk33v9,stjomaseal,"+56 9 6665 1019",8339
 "Manuela Solano Lara",22593423,1,masola@outluc.com,rSBodIkhACz44zk,masola,"+56 2 4921 9874",4030
 "Armando Valdés Alemán",28710401,4,ArmandoalemOen@edubus.cal,u9upL21csF00Jyue,Armandoalemán,"+56 9 0071 9801",4811
@@ -173,7 +173,6 @@ x,20430778,4,isabel7448@marmol.com,x,isabel3836,"+56 9 9407 9052",6273
 "Alejandro Farías Lozano",24729179,2,alejandro5855@wass.com,0H1yZ1Vj,Alejandrolozano,+56-9-7672-5809,6195
 "Isabel Vera Gallegos",24094590,8,isabel7371@wass.com,aTlyxuXS6ltIv,isabel6287,"+56 9 0925 7519",2878
 "Isabel Vera Gallegos",24094590,8,isabel7371@wass.ceele,aTlyxuXS6ltIv,isabel6287,"+56 9 0925 7519",2878
-"Rosalia Saiz Granado",23583229,1,rosagr@marmol.ceele,eSxrM3wc5OGd,Rosaliagranado,"+56 9 9641 7393",2866
 "Rosalia Saiz Granado",23583229,1,rosagr@marmol.com,eSxrM3wc5OGd,Rosaliagranado,"+56 9 9641 7393",2866
 "Ana María Luna Canales",412722,6,anmaluca@viajesanma.com,e3P2LQPrc,Anacanales,"+56 9 3355 7815",6893
 "Andrea Peres Chacón",4788841,7,andrea957@outluc.com,9NWnQatBL,Andreachacón,+56-9-4270-5539,3429
@@ -183,7 +182,7 @@ x,20430778,4,isabel7448@marmol.com,x,isabel3836,"+56 9 9407 9052",6273
 "Rosa Solorio Garibay",3653194,0,rosoga@outluc.ceele,oomZYGMc0I,Rosagaribay,+56-2-4787-0203,1796
 "Luis Araña Mata",12190198,6,Luismata@edubus.cal,k6xHAYHKlkNZ,luis4041,"+56 9 6443 2684",385
 "Teodoro Delatorre Montalvo",3597978,6,teodoro4313@edubus.cal,GFxdv4Q2zjDX6wh,tedemo,"+56 9 7891 6546",7802
-"Alfonso Villanueva Franco",15664443,9,Alfonsofranco@wass.com,NjrfJM0hfF2JHvcz,x,x,5239
+"Alfonso Villanueva Franco",15664443,9,Alfonsofranco@wass.com,NjrfJM0hfF2JHvcz,alfonso9000,+56-9-7783-8226,5239
 "Alfonso Arroyo Torres",20773326,1,Alfonsotorres@marmol.com,jCq4QJ0AqtVZ,Alfonsotorres,"+56 2 5808 6338",4407
 "Jorge Luis Lomeli Robles",7199865,7,joluloro@marmol.com,nR0q6W4j,jorge2056,"+56 2 6329 9199",1506
 "Marcos Zamudio Moya",7973731,3,marcos3500@edubus.cal,J382S8pZvWECkYe,marcos4796,"+56 9 8861 3070",5517
@@ -213,7 +212,7 @@ x,20430778,4,isabel7448@marmol.com,x,isabel3836,"+56 9 9407 9052",6273
 "Gonzalo Aparicio Uribe",29620169,3,goapur@wass.ceele,jOCaoCoVw4gJdd,Gonzalouribe,"+56 2 7227 5003",7062
 "Emilia Sarabia Montoya",12436803,0,emsamo@wass.com,CMWEzD0v0dIs1,emsamo,"+56 9 8298 1950",7237
 "Sta. Hugo Negrete Berríos",4708033,9,sthunebe@edubus.cal,245IaXUeaa,sthunebe,"+56 2 0415 0425",2914
-"Rosario Sáenz Bueno",28490788,4,Rosariobueno@edubus.cal,KtD4i3UDSDps1,x,"+56 9 5947 0198",x
+"Rosario Sáenz Bueno",28490788,4,Rosariobueno@edubus.cal,KtD4i3UDSDps1,rosario9687,+56-9-5947-0198,9206
 "Raúl Escalante Márquez",23937176,0,raesmOe@viajesanma.com,DItqC4199,raúl4478,"+56 2 4929 5074",1488
 "Julia Gollum Arce",25308594,0,jugoar@edubus.cal,VcThh2F6e4REuTMf,julia1131,"+56 2 6005 7673",4278
 "Julia Gollum Arce",25308594,0,jugoar@edubus.ceele,VcThh2F6e4REuTMf,julia1131,"+56 2 6005 7673",4278
@@ -252,7 +251,6 @@ x,20430778,4,isabel7448@marmol.com,x,isabel3836,"+56 9 9407 9052",6273
 "Sta. Gilberto Colón Pedroza",6201248,0,Sta.pedroza@wass.ceele,Qob59cR3X7Xv13x1,stgicope,"+56 9 8206 7568",1630
 "José Eduardo Madrigal Peralta",6698252,1,joedmape@tourket.com,X3VENUFyOo2kuWq,Joséperalta,"+56 9 4707 3803",6504
 "Lola Espinosa Solís",5378220,5,loesso@wass.com,MDVW7kfTZxKt0,Lolasolís,"+56 9 2331 8575",839
-"Lola Espinosa Solís",5378220,5,loesso@wass.ceele,MDVW7kfTZxKt0,x,+56-9-2331-8575,839
 "Sra. Mario Naranjo Rincón",27094798,0,srmanari@edubus.cal,QF4MLavTqdv5,sra.9176,"+56 9 3913 2135",474
 "Susana Huerta Bernal",23731827,7,susana3154@marmol.com,Uk3K3ydtuh5lk,suhube,"+56 2 9783 5196",1337
 "Sra. Lorenzo Serrato Burgos",16462509,5,sra.3433@edubus.cal,ufZ5GDeEX,sra.5623,"+56 2 6537 4610",8967
@@ -273,7 +271,6 @@ x,20430778,4,isabel7448@marmol.com,x,isabel3836,"+56 9 9407 9052",6273
 "Sta. Esperanza González Caldera",7523912,2,sta.8006@wass.com,9ElnNU6z7ZzV,Sta.caldera,+56-9-6604-7754,4582
 "Samuel Porras Mercado",1970518,8,Samuelmercado@viajesanma.com,4zcqdXpSB0Zfzl8,sapome,"+56 2 7868 6616",2630
 "Claudia Camacho Dávila",26663352,1,ClaudiadOevila@marmol.com,KrB9UtahE3NhY,claudia3300,"+56 9 8126 7355",7122
-"Ana María Ponce Benavides",4975710,7,Anabenavides@edubus.cal,WuFMx1gMZ,anmapobe,"+56 9 4365 2071",7703
 "Eloisa Arriaga Guajardo",29549611,8,Eloisaguajardo@tourket.com,fYm2HRY1Yg6rwBtu,elargu,"+56 2 4608 0138",1449
 "María Cristina Gutiérrez Villareal",12541908,9,marOAa3464@wass.com,T7neMKcs,maría1038,"+56 9 9796 8326",8844
 "Salvador Sevilla Burgos",2775821,5,Salvadorburgos@wass.com,dXg2cpnJJXB1,sasebu,+56-2-0601-5656,3541
@@ -309,21 +306,20 @@ x,20430778,4,isabel7448@marmol.com,x,isabel3836,"+56 9 9407 9052",6273
 "Cristobal Soria Arce",20740443,8,Cristobalarce@edubus.cal,4zCXbeaOcT,crsoar,"+56 9 5195 5273",9729
 "Lucia Arias Aparicio",6306073,9,lucia3599@viajesanma.com,54C3cxuNVt0d,Luciaaparicio,"+56 2 9491 2765",4466
 "Sr. Diana Blanco Zayas",2109380,7,Sr.zayas@wass.ceele,A80tZDUWiamWyw,sr.7654,"+56 9 7394 5176",3713
-x,4509198,8,raluti@marmol.ceele,rq3PACs8ROR9Uaf,raluti,"+56 2 1687 1432",x
 "Claudio Burgos Collado",1869188,4,Claudiocollado@wass.com,ot2ffwVHsq,clbuco,"+56 9 4140 2579",1228
 "Clara Ybarra Tirado",29549003,9,clybti@marmol.com,ps4R9KlNRI,clara8377,"+56 2 3051 5727",9281
 "Isabel Alonzo Zambrano",10228588,3,isabel140@wass.com,Zi5CZkssokRt1,isalza,"+56 9 1663 6670",7544
 "Sta. Jesús López Barela",8385790,0,stjelOIba@outluc.com,81t8WffA,sta.8179,"+56 2 8483 8774",5171
 "Marilu Ávila Sevilla",2085941,5,Marilusevilla@marmol.com,3gmY5hrXBCRjTYIG,marilu5053,"+56 9 9862 3758",3336
 "Dorotea Méndez Hernández",14348256,1,DoroteahernOendez@tourket.com,bUU1OWx1dd8k,Doroteahernández,"+56 9 9926 2062",1764
-"Dorotea Méndez Hernández",14348256,1,DoroteahernOendez@tourket.ceele,bUU1OWx1dd8k,Doroteahernández,"+56 9 9926 2062",x
+"Dorotea Méndez Hernández",14348256,1,DoroteahernOendez@tourket.ceele,x,x,"+56 9 9926 2062",x
 "Sr. Luz Mayorga Amador",21504794,6,Sr.amador@outluc.com,Ok79CMuENigg,Sr.amador,"+56 2 3324 2328",6852
 "Francisco Bueno Enríquez",16468197,1,FranciscoenrOAquez@outluc.com,cBx2xYTp,Franciscoenríquez,"+56 9 5142 1855",6828
 "Sra. Guillermina Rentería Fuentes",3055936,3,Sra.fuentes@viajesanma.com,bsQuex4Eq,srgurefu,"+56 9 5571 5037",2688
 "María José Abrego Cavazos",12069912,1,MarOAacavazos@wass.com,3War5QtxhUC,maría2434,"+56 9 3304 2718",6560
-"Sra. Patricia Patiño Candelaria",25736418,6,srpapaca@marmol.ceele,x,x,x,8070
+"Sra. Patricia Patiño Candelaria",25736418,6,srpapaca@marmol.ceele,pXyjF4BSIH3BsycG,Sra.candelaria,"+56 2 9590 9475",8070
 "Gloria Rosario Vásquez",10199501,1,gloria9327@outluc.com,9Y2yjLBv,gloria9784,"+56 9 9123 2616",4258
-x,29584517,1,elbeso@wass.com,x,Elisasolano,"+56 2 7376 6198",x
+"Elisa Benavídez Solano",29584517,1,elbeso@wass.com,9fyaN1GQnCuH,Elisasolano,"+56 2 7376 6198",6736
 "Sta. Concepción Olivo Ocampo",15752489,5,stcooloc@viajesanma.com,TD6TM0s8Sw,stcooloc,+56-2-9133-3229,4655
 "Claudio Reynoso Ramón",25587477,2,clrera@outluc.ceele,oH0i32f2uK3BX8t,clrera,"+56 2 3992 8920",3421
 "José Villareal Gracia",9785203,0,josOo5446@marmol.ceele,Zy3JJBe5,Joségracia,"+56 2 4326 8897",4534
@@ -347,8 +343,8 @@ x,29584517,1,elbeso@wass.com,x,Elisasolano,"+56 2 7376 6198",x
 "Jorge Delvalle Santana",10832463,5,Jorgesantana@marmol.com,gXHcTrb0viS,jodesa,"+56 9 9771 1037",4966
 "José María Preciado Frías",19639489,3,JosOofrOAas@marmol.com,0IoNlEbx8x,jomaprfr,"+56 2 1025 7783",3622
 "Agustín Esquivel Ayala",2064808,2,agesay@edubus.cal,auieaWZbmW3HT,agesay,"+56 9 9735 9063",4363
-"Sr. Lorenzo Reynoso Alaniz",19962135,1,sr.1544@wass.com,6fCl93lNoDvmCk,srloreal,"+56 9 7996 9807",1289
 "Sr. Lorenzo Reynoso Alaniz",19962135,1,sr.1544@wass.ceele,6fCl93lNoDvmCk,srloreal,"+56 9 7996 9807",1289
+"Sr. Lorenzo Reynoso Alaniz",19962135,1,sr.1544@wass.com,6fCl93lNoDvmCk,srloreal,"+56 9 7996 9807",1289
 "Sra. Juan Altamirano Valle",12964328,5,Sra.valle@wass.com,tW7Ou1WFH,sra.2250,"+56 9 4266 5615",4800
 "Sra. Juan Altamirano Valle",12964328,5,Sra.valle@wass.ceele,tW7Ou1WFH,sra.2250,"+56 9 4266 5615",4800
 "Raquel Bernal Cavazos",3848150,9,raquel4665@marmol.com,B0ECppvjgnd1,Raquelcavazos,+56-2-0312-4393,2175
@@ -399,7 +395,7 @@ x,29584517,1,elbeso@wass.com,x,Elisasolano,"+56 2 7376 6198",x
 "Sta. Ana Robledo Ochoa",6952327,7,sta.7116@viajesanma.com,cZG24F8DzYdCHn,sta.1612,"+56 2 5167 2458",2775
 "Susana Borrego Urías",22894511,0,subour@tourket.ceele,0hcQygtZxDM4DW,subour,"+56 2 7473 5826",8557
 "Sr. Yolanda Quintero Polanco",8449061,0,sryoqupo@marmol.com,4DVHMV9wvWt2V3FK,Sr.polanco,"+56 2 6307 4194",7319
-x,3407342,2,sara9820@outluc.com,qU2OY0tiD,x,"+56 9 5610 5604",5494
+"Sara Arteaga Villalobos",3407342,2,sara9820@outluc.com,qU2OY0tiD,saarvi,"+56 9 5610 5604",5494
 "Anita Espinoza Rael",8824079,0,anita4083@edubus.cal,iy2KWeCxN1g,anita2212,"+56 2 1637 3149",907
 "Raquel Luna Laureano",27546046,0,ralula@edubus.cal,3Z8NulPIDP,raquel7693,+56-9-4645-4986,9010
 "Gilberto Tejeda Altamirano",15686425,0,giteal@wass.com,0waYZi73OpO07k,gilberto2678,"+56 2 7018 0647",7449
@@ -422,7 +418,6 @@ x,3407342,2,sara9820@outluc.com,qU2OY0tiD,x,"+56 9 5610 5604",5494
 "Marcela Palomo Ceja",23847616,0,mapace@marmol.com,wPJUzQ2tlii,Marcelaceja,"+56 9 0730 0316",4400
 "Luis Miguel Pedraza Madrid",13648240,8,Luismadrid@tourket.com,VY84EXPtPoUP7Snb,luis6147,"+56 2 3042 1949",4624
 "Ramiro Alcántar Carranza",9757464,2,Ramirocarranza@outluc.com,NvrD8LuVTTosKtn,raalca,+56-2-8591-9744,9466
-x,9757464,x,Ramirocarranza@outluc.ceele,x,raalca,+56-2-8591-9744,9466
 "Amalia Gaitán Lucio",29770867,8,amgalu@viajesanma.com,vUykFg4jnG2PWAM9,amalia8441,"+56 2 4040 3738",839
 "María Luisa Ferrer Moya",1339895,0,malufemo@edubus.cal,5KpX72ieDPBU,Maríamoya,"+56 9 2189 8335",7794
 "Víctor Jaramillo Leiva",5190993,3,VOActorleiva@viajesanma.ceele,145rZ2hQONXCO,Víctorleiva,"+56 2 2007 8468",4719
@@ -459,7 +454,6 @@ x,9757464,x,Ramirocarranza@outluc.ceele,x,raalca,+56-2-8591-9744,9466
 "Nicolás Zamudio Sierra",24966462,6,nizasi@edubus.cal,kBRCET2aZhhLZ2,Nicolássierra,"+56 9 7351 8279",1092
 "Salvador Alarcón Baca",6265262,4,saalba@wass.com,Bq7v4KTTIByayr,Salvadorbaca,"+56 9 2447 2289",4335
 "Cecilia Guerrero Esquivel",20476454,9,cegues@tourket.com,mSouOT1kQaN1QwSF,Ceciliaesquivel,"+56 9 4896 6983",7062
-"Luisa Marrero Aparicio",7443482,x,lumaap@tourket.com,4FXAzjM1qvd,Luisaaparicio,"+56 9 1266 8893",x
 "Sta. Mayte Cabán Domínquez",10479422,0,sta.1668@marmol.com,IPKdT78HLC,stmacado,"+56 9 3683 8717",2208
 "Manuel Ferrer Bustamante",24065988,3,mafebu@outluc.com,WTTOrUWw6L5rs,manuel2122,"+56 2 2320 2855",6205
 "Rocio Villa Portillo",15386341,5,Rocioportillo@viajesanma.ceele,VccQaWS9,rocio7984,"+56 9 4052 4492",5128
@@ -489,7 +483,7 @@ x,9757464,x,Ramirocarranza@outluc.ceele,x,raalca,+56-2-8591-9744,9466
 "Adela Abreu Palomo",16276478,0,adela6019@edubus.cal,cIx5fVHUilX8l9v,Adelapalomo,"+56 9 0906 1180",5902
 "Rebeca Nazario Vigil",4205694,4,renavi@viajesanma.com,Cy47oeB2vmvRi0Ks,rebeca5844,"+56 2 8089 9262",2759
 "Victoria Villagómez Granados",26526763,7,vivigr@viajesanma.ceele,I3tfC6PqW2MY,Victoriagranados,"+56 9 3461 0837",7941
-"Martín Aguayo Mojica",9631571,x,MartOAnmojica@viajesanma.com,x,Martínmojica,"+56 2 0405 8926",x
+"Martín Aguayo Mojica",9631571,6,MartOAnmojica@viajesanma.com,OQWWjCjDa4Aaf3Lb,Martínmojica,"+56 2 0405 8926",8654
 "Daniela Centeno Almonte",15209260,1,daceal@marmol.ceele,syqPMM4eghL,daceal,"+56 2 8077 2723",3815
 "Daniela Centeno Almonte",15209260,1,daceal@marmol.com,syqPMM4eghL,daceal,"+56 2 8077 2723",3815
 "Sra. Teresa Vega Gil",18462223,8,srtevegi@marmol.com,K2dFpT9N,sra.2653,"+56 2 4522 9304",8036
@@ -542,11 +536,10 @@ x,9757464,x,Ramirocarranza@outluc.ceele,x,raalca,+56-2-8591-9744,9466
 "Manuela Ulloa Figueroa",18618246,4,Manuelafigueroa@wass.com,krkQWkM1JcaFP,maulfi,"+56 9 3603 4075",3373
 "Verónica Granados Lira",22751117,6,vegrli@wass.com,qgbfqzKDr612xV3n,Verónicalira,"+56 2 7320 5155",9733
 "Marco Antonio Cortés Hernandes",6876582,0,Marcohernandes@viajesanma.com,8UJOaaiSkQ,maancohe,"+56 9 6210 7944",9427
-"Clemente Guevara Armenta",5137414,2,Clementearmenta@tourket.com,PWE5AStWz,clemente726,"+56 9 6259 0133",9717
 "Ana María Candelaria Borrego",21990734,6,anmacabo@outluc.com,M691dd1hZWoJ0,ana6814,"+56 2 2762 2302",9181
 "Lourdes Mejía Dueñas",28735356,1,lomedu@wass.com,CVN36241w,Lourdesdueñas,"+56 9 0394 7508",374
 "Miguel Ángel Cantú Gaona",3082985,9,miOencaga@edubus.cal,1VHPIuovP4,Miguelgaona,"+56 2 8631 8063",4022
-"Juan Roldán Chávez",9088513,x,juroch@edubus.cal,KL5Ohy3cmXYyf7,x,"+56 2 3529 4056",x
+"Juan Roldán Chávez",9088513,8,juroch@edubus.cal,KL5Ohy3cmXYyf7,juroch,"+56 2 3529 4056",2190
 "Juan Roldán Chávez",9088513,8,juroch@edubus.ceele,KL5Ohy3cmXYyf7,juroch,"+56 2 3529 4056",2190
 "Elisa Cano Sarabia",13664684,2,elisa3193@tourket.com,w19MNy0JT4,elcasa,"+56 2 8106 2955",7876
 "Susana Montero Zaragoza",22300174,2,Susanazaragoza@outluc.com,fbK4qM6xgl2t9k,susana267,"+56 2 4450 7845",8489
@@ -572,7 +565,7 @@ x,9757464,x,Ramirocarranza@outluc.ceele,x,raalca,+56-2-8591-9744,9466
 "Sta. Patricio Raya Vera",27823737,0,Sta.vera@outluc.com,dIhHas7zlcPfjcR2,Sta.vera,"+56 2 3726 7689",4904
 "Sr. Dorotea Tirado Matos",14103075,2,Sr.matos@marmol.com,0bszOYxSl,sr.7907,"+56 9 1911 1841",2561
 "Daniel Velázquez Olivárez",715907,2,daniel8190@outluc.com,PrJRna8zU5540TCZ,Danielolivárez,"+56 2 8478 5840",2262
-"Débora Medina Salcido",316283,4,DOoborasalcido@outluc.ceele,MNS3x5EV,Déborasalcido,x,9640
+"Débora Medina Salcido",316283,4,DOoborasalcido@outluc.ceele,MNS3x5EV,Déborasalcido,"+56 2 6319 7199",9640
 "Débora Medina Salcido",316283,4,DOoborasalcido@outluc.com,MNS3x5EV,Déborasalcido,"+56 2 6319 7199",9640
 "Gabriela Gastélum Samaniego",24759781,6,gagasa@marmol.com,8nKDPrSLuTJos,gagasa,"+56 2 5592 2568",1515
 "Miguel Mojica Deleón",27861000,4,mimode@viajesanma.com,4r1nHC3GHg,mimode,"+56 9 1111 8019",110
@@ -582,7 +575,7 @@ x,9757464,x,Ramirocarranza@outluc.ceele,x,raalca,+56-2-8591-9744,9466
 "Jacobo Nevárez Armijo",9813706,8,jacobo5523@outluc.com,yUV6r4bUZ3tcq,janear,+56-9-9114-2594,4388
 "Jacobo Nevárez Armijo",9813706,8,jacobo5523@outluc.ceele,yUV6r4bUZ3tcq,janear,"+56 9 9114 2594",4388
 "Adán Soliz Carreón",28208726,0,adOen3146@edubus.cal,zqKD5H3o,adán2169,"+56 2 0296 5916",7802
-"Marcela Delgadillo Trejo",8492854,x,Marcelatrejo@marmol.com,x,x,+56-9-0709-5466,9726
+"Marcela Delgadillo Trejo",8492854,2,Marcelatrejo@marmol.com,9QsOiXj1RRwVedJ,madetr,"+56 9 0709 5466",9726
 "Armando Leal Cepeda",893203,4,Armandocepeda@edubus.cal,uiN0Ce9qRfF,arlece,"+56 9 7604 5106",1353
 "María Cristina Alarcón Almanza",7756056,4,MarOAaalmanza@tourket.com,whXVoH1ul,maría3313,"+56 2 6864 6189",1555
 "Mariana Polanco Calderón",3353996,7,mapoca@tourket.com,02GYZlEU318Z,Marianacalderón,"+56 2 5577 1862",3356
@@ -621,11 +614,10 @@ x,9757464,x,Ramirocarranza@outluc.ceele,x,raalca,+56-2-8591-9744,9466
 "Sta. Emilia Paz Sepúlveda",17001466,9,stempase@viajesanma.com,JQEHlq40eayu83U6,stempase,"+56 9 6354 8491",3611
 "Catalina Pineda Zelaya",16957301,8,catalina7245@marmol.com,07gIX0mSwjKl,capize,"+56 9 1136 5147",2405
 "Norma León Rojo",17400795,0,Normarojo@tourket.com,GJ6lbiNV1A1ij18y,nolero,"+56 9 8450 7327",9273
-x,17400795,x,Normarojo@tourket.ceele,GJ6lbiNV1A1ij18y,nolero,"+56 9 8450 7327",x
 "Pedro Alicea Loya",13086611,5,pedro3347@marmol.com,3IUjmxrUs6wk5,Pedroloya,"+56 2 0632 2282",4202
 "Sr. Gregorio Gonzales Rojo",25083152,8,Sr.rojo@viajesanma.ceele,zxh5uaHYeRr,sr.7047,"+56 2 5497 4506",8589
 "Sr. Gregorio Gonzales Rojo",25083152,8,Sr.rojo@viajesanma.com,zxh5uaHYeRr,sr.7047,"+56 2 5497 4506",8589
-x,18749256,x,NormarodrOAgez@outluc.ceele,TU8Djyvgl2Av8t7,x,"+56 2 4736 8294",2895
+"Norma Alaniz Rodrígez",18749256,4,NormarodrOAgez@outluc.ceele,TU8Djyvgl2Av8t7,Normarodrígez,+56-2-4736-8294,2895
 "Irene Cazares Razo",5911716,5,irene943@viajesanma.com,C3eecvHsv1Y9QykI,irene1466,"+56 2 4918 0148",2078
 "Sancho Jaime Zúñiga",27378218,4,sajazOU@marmol.com,finJ3ab1M3mTv,sajazú,"+56 9 6939 0523",6155
 "Lorena Madrigal Dávila",9565741,9,lomadOe@viajesanma.com,Lz4a7mVqTi,lorena9266,"+56 9 9534 0069",418
@@ -644,7 +636,7 @@ x,18749256,x,NormarodrOAgez@outluc.ceele,TU8Djyvgl2Av8t7,x,"+56 2 4736 8294",289
 "Marcos Mares Casares",18099555,2,Marcoscasares@outluc.ceele,9O5VcwAy,marcos3023,"+56 2 1447 1435",719
 "Sr. Inés Cantú Burgos",11291439,0,Sr.burgos@tourket.com,Qh6y011Qy,sr.3966,"+56 2 0269 9393",4489
 "Leonor Vázquez Fonseca",18225817,2,Leonorfonseca@edubus.cal,r6Ddllxe4rO,leváfo,"+56 9 7418 5712",8380
-x,16913952,0,clemente3653@marmol.com,82Dq6Ujv,x,"+56 9 2107 1245",x
+"Clemente Laureano Hinojosa",16913952,0,clemente3653@marmol.com,82Dq6Ujv,cllahi,"+56 9 2107 1245",9742
 "Sta. Adán Hurtado Lomeli",7216789,9,Sta.lomeli@outluc.com,dglDRFdW0Jy6e,sta.5109,"+56 9 0257 6970",3059
 "Gilberto Sanches Vallejo",25581497,4,gisava@tourket.com,1oX9XtoswATA,gilberto896,"+56 2 7825 6869",1040
 "Jesús Calderón Flores",24468695,8,jesOUs7398@edubus.cal,08tCdWVgvZCJPGrJ,Jesúsflores,"+56 2 1997 4953",6279
@@ -662,7 +654,6 @@ x,16913952,0,clemente3653@marmol.com,82Dq6Ujv,x,"+56 9 2107 1245",x
 "María Elena Pichardo Barragán",1644446,4,maelpiba@marmol.com,iF94l8tRSoq,maría483,"+56 9 6490 9128",8021
 "Sta. Marilu Alonzo Gaitán",7543758,7,stmaalga@viajesanma.com,0hr2ORjKdHqEF5E,Sta.gaitán,+56-9-8089-4468,5201
 "Julio César Vásquez Torres",29031728,2,jucOovOeto@wass.com,BxbW6RLGIy7NYe7,jucéváto,"+56 2 8742 8015",5937
-"Julio César Vásquez Torres",29031728,2,jucOovOeto@wass.ceele,x,x,"+56 2 8742 8015",x
 "Eloisa Cazares Cruz",22306122,2,elcacr@outluc.com,75cZwlgRNf,elcacr,"+56 9 0345 4442",3437
 "Elisa Sisneros Balderas",13985548,5,Elisabalderas@edubus.cal,DJNlkM6cwEeO0z,elsiba,+56-2-4872-2872,8058
 "Sra. Luis Montoya Rojas",5906253,0,Sra.rojas@tourket.com,KXHkyi9r,sra.5385,"+56 2 8577 9239",6045
@@ -678,7 +669,6 @@ x,16913952,0,clemente3653@marmol.com,82Dq6Ujv,x,"+56 9 2107 1245",x
 "Sta. Cristobal Mondragón Rentería",3186010,5,Sta.renterOAa@edubus.cal,r1Cj04yAxc9eVT5g,Sta.rentería,+56-2-4025-0076,6357
 "Francisca González Cabán",8292105,2,francisca1048@viajesanma.com,Yt1sCOLAwbs,francisca1347,"+56 2 0337 7549",7533
 "Mariano Matos Jaramillo",28963682,0,mamaja@outluc.ceele,dqTeoEc8W,mariano2959,"+56 9 8821 1192",983
-"Octavio Zaragoza Benavides",21493982,7,oczabe@outluc.ceele,BNpOmlDA6eN,octavio4668,"+56 2 3874 0547",7061
 "Octavio Zaragoza Benavides",21493982,7,oczabe@outluc.com,BNpOmlDA6eN,octavio4668,"+56 2 3874 0547",7061
 "Sra. Alberto Contreras Madrid",11581358,7,sralcoma@tourket.ceele,vv5CxPzRY8MVlF,sralcoma,"+56 9 5474 3572",4139
 "Sra. Alberto Contreras Madrid",11581358,7,sralcoma@tourket.com,vv5CxPzRY8MVlF,sralcoma,"+56 9 5474 3572",4139
@@ -716,6 +706,7 @@ x,16913952,0,clemente3653@marmol.com,82Dq6Ujv,x,"+56 9 2107 1245",x
 "Rosario Esquibel Montes",9873801,0,roesmo@edubus.cal,1YuOXkwpG2,Rosariomontes,"+56 9 0886 5726",4813
 "Lourdes Agosto Murillo",26230738,7,Lourdesmurillo@outluc.com,jA4IrgIM0ofPrX,loagmu,"+56 2 1020 3887",877
 "Sta. Adriana Ojeda Fajardo",8163927,2,Sta.fajardo@wass.com,jR8C3yaUb7,Sta.fajardo,"+56 9 8974 7336",669
+"Octavio Zaragoza Benavides",21493982,7,oczabe@outluc.ceele,BNpOmlDA6eN,octavio4668,"+56 2 3874 0547",7061
 "Carmen Cedillo Leal",21572222,8,cacele@outluc.com,z2bi9oT1TeWOjWBN,carmen7335,"+56 2 2784 5653",5519
 "Gonzalo Ortiz Córdova",1281233,7,gonzalo7632@marmol.com,hYC9wuUPg2,Gonzalocórdova,"+56 9 6854 4314",8534
 "Sta. Mario Olivárez Mora",9075913,2,sta.3920@edubus.ceele,dsh6z2TUp0rQO,Sta.mora,"+56 2 3245 4982",5448
@@ -724,7 +715,6 @@ x,16913952,0,clemente3653@marmol.com,82Dq6Ujv,x,"+56 9 2107 1245",x
 "Cristian Zambrano Vega",24913489,9,crzave@tourket.com,PrYA8rDGHgyV,Cristianvega,"+56 9 6188 6676",9094
 "Andrea Olivares Oquendo",10058725,4,Andreaoquendo@tourket.com,A9yxxP1dM4WfA0JH,anoloq,"+56 2 5433 5553",7962
 "Gilberto Enríquez Aragón",3455466,8,gienar@outluc.com,cHEUJAcGp8DXt,gilberto2529,"+56 2 3081 3854",6895
-"Dorotea Quintana Duran",13558591,2,Doroteaduran@marmol.com,2LJXtNl8Qmy,dorotea5552,"+56 2 6944 8854",3841
 "Daniela León Ulibarri",9404514,2,daleul@wass.com,7vSmnwbKY,daleul,"+56 9 6534 0301",8064
 "Sra. Cristobal Ayala Dueñas",529645,5,sra.585@edubus.cal,Ra7H80FKOvIKYP8f,Sra.dueñas,+56-2-6712-5412,7565
 "María Teresa Tejada Téllez",3753365,3,matetetOo@marmol.com,aIvVl3vKp53CobNi,mateteté,"+56 9 6873 5477",9767
@@ -742,7 +732,7 @@ x,16913952,0,clemente3653@marmol.com,82Dq6Ujv,x,"+56 9 2107 1245",x
 "Sra. María José Alonso Gallegos",14933541,2,Sra.gallegos@marmol.ceele,5VRX3PsL9SwZp,sra.9311,"+56 9 0828 1676",9598
 "Sra. María José Alonso Gallegos",14933541,2,Sra.gallegos@marmol.com,5VRX3PsL9SwZp,sra.9311,"+56 9 0828 1676",9598
 "Sr. Dorotea Tirado Núñez",783828,0,sr.3260@marmol.com,wmsnrLRQ23,sr.8469,"+56 2 5339 9935",3963
-"Luis Gracia Almanza",18550427,x,luis6756@marmol.com,x,Luisalmanza,+56-2-3882-4046,3876
+"Luis Gracia Almanza",18550427,1,luis6756@marmol.com,I6CdzUv1TZ6bNX,Luisalmanza,"+56 2 3882 4046",3876
 "Sr. Diana Varela Robledo",10244231,8,Sr.robledo@outluc.com,61RHMZVy1OQ,srdivaro,"+56 9 4717 2515",6764
 "Hernán Saucedo Canales",17203840,9,hernOen5146@tourket.com,ymd85kCC,hesaca,"+56 2 3401 2905",3824
 "Federico Camacho Barragán",17681067,0,fecaba@tourket.com,XWY0cllZKKjEwt,federico830,"+56 9 0603 5107",8424
@@ -756,7 +746,7 @@ x,16913952,0,clemente3653@marmol.com,82Dq6Ujv,x,"+56 9 2107 1245",x
 "Jaime Ayala Núñez",5387910,1,jaaynOU@tourket.ceele,w3jYdI6Yt,jaime3222,"+56 2 7967 9484",3237
 "Claudia Espinosa Valles",4699628,3,Claudiavalles@tourket.com,VOMMIQ4g,claudia1288,"+56 9 6477 8483",5292
 "Gabriel Almanza Benítez",15661113,1,gabriel3465@wass.com,f9PihuWzAyInrdYR,gaalbe,"+56 9 1455 4588",5287
-"Gonzalo Galarza Porras",21807441,3,gogapo@edubus.cal,x,x,x,4032
+"Gonzalo Galarza Porras",21807441,3,gogapo@edubus.cal,kUJNGD16D0c1TS,Gonzaloporras,"+56 2 6359 0431",4032
 "Sta. Sara Muñoz Arguello",19440951,6,stsamuar@tourket.com,mmCHi7SfCmaDdX,stsamuar,"+56 2 6302 0303",2559
 "Norma Alaniz Rodrígez",18749256,4,NormarodrOAgez@outluc.com,TU8Djyvgl2Av8t7,Normarodrígez,"+56 2 4736 8294",2895
 "Sr. Berta Heredia Escamilla",8756156,9,Sr.escamilla@marmol.com,5hmGBp1J,sr.8769,+56-9-6523-5488,4988
@@ -772,7 +762,7 @@ x,16913952,0,clemente3653@marmol.com,82Dq6Ujv,x,"+56 9 2107 1245",x
 "Blanca Rojo Soria",21111723,0,blanca8628@outluc.com,xLe6Ak4bUoGv4,Blancasoria,"+56 2 6662 9030",8042
 "Julio Pabón Crespo",24716337,9,jupacr@outluc.com,d8dy26PVa0r,jupacr,"+56 2 0024 0156",2385
 "Fernando Ávalos Dueñas",7635892,3,feOevdu@tourket.com,1JMwmNlIXMqLWI,Fernandodueñas,"+56 9 5391 6270",9534
-"Sra. Alberto López León",17391093,x,sra.8788@edubus.cal,x,srallóle,"+56 9 1561 8809",6095
+"Sra. Alberto López León",17391093,2,sra.8788@edubus.cal,ti1k7S6q3W6CZYje,srallóle,"+56 9 1561 8809",6095
 "Alfonso Olivárez Mondragón",12500373,7,AlfonsomondragOIn@outluc.com,CeS7Pa3JpZ,Alfonsomondragón,"+56 9 3034 8251",3231
 "Esteban Macías Murillo",15770379,0,esteban4783@edubus.cal,Z0eB3DLowCbQQaVX,esmamu,"+56 9 8452 5902",9848
 "Sra. Olivia Espino Zapata",27395195,4,sra.7292@wass.com,lELWVz4Di7,sra.4705,"+56 9 5807 9610",4721
@@ -785,7 +775,6 @@ x,16913952,0,clemente3653@marmol.com,82Dq6Ujv,x,"+56 9 2107 1245",x
 "Carlota Saldivar Escobedo",24428285,7,Carlotaescobedo@tourket.com,U7KWChAT0oQ9W,Carlotaescobedo,"+56 9 9399 3608",2741
 "Adela Duran Maestas",11361845,0,Adelamaestas@outluc.com,R7x0KnuEi8lBJywn,adela9609,"+56 9 9815 6105",9239
 "Sr. Berta Alonzo Carrero",23684752,7,sr.9577@viajesanma.com,DQT4jsteGEsLXZgD,sr.6722,+56-2-7178-4488,1947
-x,14531918,8,alnape@wass.ceele,x,x,+56-2-3577-0841,6011
 "Alejandro Narváez Peña",14531918,8,alnape@wass.com,pswGs1gBtU,alnape,"+56 2 3577 0841",6011
 "Antonia Cazares Ayala",10801640,0,ancaay@viajesanma.ceele,uq8n3pZO,Antoniaayala,"+56 2 2737 5437",5328
 "Reina Marroquín Escobedo",694823,5,remaes@outluc.com,WvAya8pJ6R2ej,reina2299,"+56 2 3674 1949",855
@@ -793,7 +782,6 @@ x,14531918,8,alnape@wass.ceele,x,x,+56-2-3577-0841,6011
 "Jesús Paredes Caraballo",2891078,9,jesOUs3572@viajesanma.com,trhsJKd4KQ9,jesús3960,"+56 2 6063 1697",7497
 "Samuel Armenta Laboy",14189187,1,saarla@viajesanma.ceele,vY8Gulxwt,samuel9294,"+56 2 6249 8155",726
 "Luis Caldera Sosa",24748505,8,lucaso@outluc.com,RVmmNRh93jjvhI,lucaso,"+56 9 5598 3805",3743
-"Joaquín de Jesús Valles",7427449,8,joaquOAn4604@edubus.cal,w8xPQXmP,jodejeva,+56-2-1022-1389,4849
 "Guillermo Palomino Aparicio",25566460,3,gupaap@edubus.cal,JrrmOzCl8FXf4,Guillermoaparicio,"+56 9 4434 4904",5403
 "Guillermo Palomino Aparicio",25566460,3,gupaap@edubus.ceele,JrrmOzCl8FXf4,Guillermoaparicio,"+56 9 4434 4904",5403
 "Adán Cruz Collado",8498703,4,adcrco@viajesanma.com,sEn5RM2mg,adcrco,"+56 2 9815 4263",3639
@@ -897,7 +885,6 @@ x,14531918,8,alnape@wass.ceele,x,x,+56-2-3577-0841,6011
 "Sonia Corral Gutiérrez",27913923,2,sonia4993@edubus.cal,l3az03SuUBm2gY1,Soniagutiérrez,"+56 9 7173 4057",2217
 "Ana Mares Rivas",11668493,4,Anarivas@marmol.com,gWC7NwHSBWVBu,anmari,"+56 9 8126 6675",543
 "Sr. Margarita Valdés Garica",20351607,0,Sr.garica@outluc.ceele,x4fBLCAkue8,sr.1403,"+56 9 3113 7519",9296
-"Sergio Castro Venegas",28385939,x,sergio6535@marmol.ceele,x,secave,"+56 9 9862 9272",2013
 "Juan Estrada Atencio",14457952,6,juan795@tourket.ceele,URx9UU5D,juesat,"+56 9 0450 1911",3810
 "Juan Estrada Atencio",14457952,6,juan795@tourket.com,URx9UU5D,juesat,"+56 9 0450 1911",3810
 "Lola Deleón Laboy",24790799,8,lodela@outluc.com,io18OfxpNRL61XDh,lodela,"+56 2 4841 2910",3656
@@ -938,7 +925,7 @@ x,14531918,8,alnape@wass.ceele,x,x,+56-2-3577-0841,6011
 "Mercedes Alicea Ayala",21598373,0,mercedes9012@tourket.com,AbDuWijGh4xb,mercedes574,"+56 2 5782 8935",8847
 "César Zayas Burgos",11999010,6,COosarburgos@outluc.com,DSnsM0sD,Césarburgos,"+56 2 5898 9631",4842
 "Silvia Canales Trujillo",26133161,6,sicatr@marmol.ceele,RcIxwkTr6qCjd,silvia9232,"+56 9 5439 1551",6656
-x,27198434,x,agdose@wass.com,x,Agustínsevilla,"+56 2 6282 7496",2447
+"Agustín Domínguez Sevilla",27198434,0,agdose@wass.com,DQBxKj5b3RdBZV5,Agustínsevilla,"+56 2 6282 7496",2447
 "Joaquín González Huerta",28179098,6,jogohu@marmol.com,QIy8BOXgRN2N,joaquín7879,"+56 2 0609 3288",8465
 "Sr. María Eugenia Velázquez Caldera",23862228,0,sr.7285@outluc.com,gZD2XQtB,Sr.caldera,"+56 9 1194 8217",9792
 "Samuel Ornelas Holguín",12486145,4,samuel9282@wass.com,oI7yKjO1s,saorho,"+56 9 3328 9551",5976
@@ -960,7 +947,7 @@ x,27198434,x,agdose@wass.com,x,Agustínsevilla,"+56 2 6282 7496",2447
 "Sta. Hugo Cardenas Meza",9988503,3,Sta.meza@outluc.com,QjrN2T8HzCh,Sta.meza,"+56 2 5148 0047",1929
 "Sergio Alicea Córdova",28658356,3,sealcOI@marmol.com,4UanmYeao4x1Vm,sergio656,"+56 9 3676 1718",7858
 "Alejandro Camarillo Verdugo",9294109,4,alcave@tourket.ceele,cCgoFEcM8O,alcave,"+56 9 1101 3514",2957
-x,9294109,4,alcave@tourket.com,cCgoFEcM8O,x,"+56 9 1101 3514",x
+"Alejandro Camarillo Verdugo",9294109,4,alcave@tourket.com,cCgoFEcM8O,alcave,"+56 9 1101 3514",2957
 "Marco Antonio Zelaya Castellanos",18380159,7,marco8585@viajesanma.com,i48jEtC18Q,marco7557,"+56 9 7417 2421",6138
 "Luis Solorio Cruz",18773917,9,Luiscruz@tourket.com,OqnqMYlCd2,Luiscruz,"+56 9 3353 2444",2884
 "Clemente Laureano Hinojosa",16913952,0,clemente3653@marmol.ceele,82Dq6Ujv,cllahi,"+56 9 2107 1245",9742
@@ -990,8 +977,8 @@ x,9294109,4,alcave@tourket.com,cCgoFEcM8O,x,"+56 9 1101 3514",x
 "Guillermo Delarosa Valverde",13176421,9,Guillermovalverde@edubus.cal,9dd7mMXQxmg,guillermo2292,"+56 9 3871 2360",8996
 "Lorena León Rosas",21159979,0,Lorenarosas@outluc.com,874iCwSKatCJgsH,lorena5552,"+56 2 8441 4705",6188
 "Sr. Samuel Gallegos Rubio",25541412,7,sr.842@marmol.com,13DYdfM8Bkim0rB,sr.539,"+56 2 6855 9848",5426
-"Sta. Alfonso Garza Escamilla",6528469,3,Sta.escamilla@edubus.cal,TI0qDmyppJc1mQ,sta.3189,"+56 9 3246 4342",5021
 "Sta. Alfonso Garza Escamilla",6528469,3,Sta.escamilla@edubus.ceele,TI0qDmyppJc1mQ,sta.3189,"+56 9 3246 4342",5021
+"Sta. Alfonso Garza Escamilla",6528469,3,Sta.escamilla@edubus.cal,TI0qDmyppJc1mQ,sta.3189,"+56 9 3246 4342",5021
 "Lorenzo Guajardo Montez",7055418,6,lorenzo2386@wass.com,KIPicJ2ryxzK,logumo,"+56 9 9855 9831",4636
 "Sta. José Eduardo Montañez Fonseca",15228351,2,stjoedmofo@wass.com,wqzkMrM9wCN9,Sta.fonseca,"+56 2 3414 0100",4946
 "Adán Rodríguez Barraza",10901467,2,adOen7309@tourket.com,9zLScCEvfyDXZ3,Adánbarraza,"+56 2 4899 7475",1601
@@ -1041,7 +1028,7 @@ x,9294109,4,alcave@tourket.com,cCgoFEcM8O,x,"+56 9 1101 3514",x
 "Sancho Lucio Carreón",16348606,7,sancho6764@outluc.com,dv6KHKxvInq,sancho1057,"+56 2 3360 2032",7040
 "Pablo Saldivar Correa",8488975,0,Pablocorrea@marmol.com,aq64l09Ut0VXk,pasaco,"+56 2 7005 6906",3721
 "Tomás Pineda Cordero",23191746,2,TomOescordero@outluc.com,n9diF6cZ6ukGAmIs,topico,"+56 2 6733 7872",3552
-x,23555983,x,martOAn2718@viajesanma.com,7Ffc3MELhV3QgT,matotr,"+56 9 3147 9843",6116
+"Martín Tovar Trujillo",23555983,8,martOAn2718@viajesanma.com,7Ffc3MELhV3QgT,matotr,"+56 9 3147 9843",6116
 "Teresa Melgar Barragán",18971371,1,temeba@edubus.cal,2PL5Qe3J6mD1g,temeba,"+56 9 1103 8072",2220
 "Raquel Acosta Toledo",20411338,6,Raqueltoledo@marmol.com,dqVwt2OQQoSF0l,raacto,"+56 2 1319 5984",3124
 "Raquel Acosta Toledo",20411338,6,Raqueltoledo@marmol.ceele,dqVwt2OQQoSF0l,raacto,"+56 2 1319 5984",3124
@@ -1051,13 +1038,12 @@ x,23555983,x,martOAn2718@viajesanma.com,7Ffc3MELhV3QgT,matotr,"+56 9 3147 9843",
 "Eva Prado Toro",27526785,6,evprto@outluc.com,HGIYHk0HZlifJz59,evprto,"+56 9 6092 8004",3705
 "Armando Galindo Alaniz",28830853,5,Armandoalaniz@tourket.com,1DVfCLyb3yY2hspC,argaal,"+56 9 3323 4827",7360
 "Joaquín Reséndez Santacruz",14380913,7,joresa@edubus.cal,2xY5BlR3iA,Joaquínsantacruz,"+56 2 4988 0343",167
-"Sr. Ana Luisa Fajardo Llamas",11363388,3,sr.2439@tourket.ceele,p6KQKYuaSW0FL6D,Sr.llamas,+56-9-3106-5518,x
+"Sr. Ana Luisa Fajardo Llamas",11363388,3,sr.2439@tourket.ceele,p6KQKYuaSW0FL6D,Sr.llamas,"+56 9 3106 5518",1374
 "Adán Tovar Escalante",2610526,9,adOen5258@outluc.ceele,0OiZF5x6,adtoes,"+56 9 8981 5084",4754
 "Nicolás Tórrez Padilla",29805254,7,NicolOespadilla@wass.com,loie04a2mKSOKOy,nicolás8125,"+56 2 0147 5982",8664
 "Gabriela Sosa Peralta",19948789,2,gabriela5762@edubus.cal,Ar2cOp5mF19BV4Z,gasope,"+56 9 7049 2665",1976
 "Sta. Rocio Franco Preciado",20638887,0,sta.2497@outluc.com,8Zmet8YCL6IOr,sta.5223,"+56 9 0067 4304",5501
 "Lucas Vela Aparicio",15450859,7,luveap@marmol.com,fg45ZYhYY2o,luveap,+56-2-1982-2717,2073
-x,11476978,9,startaba@viajesanma.ceele,sbZrKqX3X3V3LRQ,x,x,1520
 "Germán Mota Delacrúz",24689780,8,germOen9363@outluc.com,l5JtYGhufM,germán4113,"+56 2 0640 1334",5738
 "Benjamín Arias Cisneros",5911315,1,BenjamOAncisneros@wass.com,I1OkS3OoMnw80F,bearci,"+56 9 2752 3060",5228
 "Sra. María del Carmen Casárez Delao",27828779,3,srmadecacade@marmol.com,V3UwF4tl7,sra.4487,"+56 9 4442 0105",9042
@@ -1073,7 +1059,6 @@ x,11476978,9,startaba@viajesanma.ceele,sbZrKqX3X3V3LRQ,x,x,1520
 "Javier Amador Soliz",24933217,8,javier2538@tourket.com,igo7kYOw,Javiersoliz,"+56 2 8874 7750",5712
 "Javier Gaytán Fernández",5346510,2,javier4427@edubus.cal,vhe42AU60zNZ,jagafe,"+56 9 0920 7943",4376
 "Sr. Blanca Aranda Córdova",20717282,0,srblarcOI@edubus.cal,zWb2QhUE,sr.5405,"+56 9 7618 0235",2653
-"Sr. Blanca Aranda Córdova",20717282,0,srblarcOI@edubus.ceele,zWb2QhUE,sr.5405,+56-9-7618-0235,2653
 "Rosario Monroy Ruiz",10762471,6,Rosarioruiz@viajesanma.ceele,b66C8soL,Rosarioruiz,"+56 2 6412 0113",8174
 "Víctor Hidalgo Arreola",1343045,4,vOActor6611@outluc.com,03kg6nRwj,Víctorarreola,"+56 2 6189 0392",2841
 "Salvador Gálvez Alaniz",22600988,4,Salvadoralaniz@marmol.com,foBkoGvFgUM210d,salvador9926,"+56 9 4989 5262",5396
@@ -1102,11 +1087,11 @@ x,11476978,9,startaba@viajesanma.ceele,sbZrKqX3X3V3LRQ,x,x,1520
 "Anita Cortez Viera",11924172,3,ancovi@outluc.com,GdO0eU4AI2Nq,anita4044,+56-9-3753-3002,7563
 "Reina Delarosa Mena",27696664,2,redeme@marmol.com,VxPqqFUyX0cFp,Reinamena,"+56 2 9637 4457",2251
 "Reina Delarosa Mena",27696664,2,redeme@marmol.ceele,VxPqqFUyX0cFp,Reinamena,"+56 2 9637 4457",2251
-"Sra. Carlota Vera de Anda",8172655,x,sra.4482@marmol.com,ECnB643CfYPAO,Sra.anda,x,7267
+"Sra. Carlota Vera de Anda",8172655,8,sra.4482@marmol.com,ECnB643CfYPAO,Sra.anda,"+56 9 3228 1079",7267
 "Susana Galván Narváez",22878097,9,susana2464@outluc.ceele,w1jGpvJQgjcXsUb,sugana,"+56 2 3826 4958",5074
 "Susana Galván Narváez",22878097,9,susana2464@outluc.com,w1jGpvJQgjcXsUb,sugana,"+56 2 3826 4958",5074
 "Clara Carrion Chacón",5283873,8,ClarachacOIn@viajesanma.ceele,Bx0yhNvHH,clara4704,"+56 2 7666 8259",7064
-x,23070626,3,pedro5219@marmol.com,Zn7BVm1gmxeBEV,peguva,+56-2-6537-8151,x
+"Pedro Guerrero Valdez",23070626,3,pedro5219@marmol.com,Zn7BVm1gmxeBEV,peguva,"+56 2 6537 8151",9969
 "Andrés Cervántez Almanza",7597643,7,andrOos2403@outluc.com,4IfQGcd3nowQF,Andrésalmanza,"+56 2 2659 3428",767
 "Claudia Peña Salgado",3950021,3,Claudiasalgado@wass.com,JOCv8zShJZ4jm5OA,clpesa,"+56 9 4815 8413",9472
 "Elvira Hernandes Montenegro",5329459,6,Elviramontenegro@edubus.ceele,QcIo7N3B,elvira6944,+56-9-4151-4288,1645
@@ -1120,7 +1105,6 @@ x,23070626,3,pedro5219@marmol.com,Zn7BVm1gmxeBEV,peguva,+56-2-6537-8151,x
 "Benjamín Bonilla Llamas",7510903,2,benjamOAn4724@tourket.com,ZGKhMse274,beboll,"+56 2 8446 6048",3807
 "Guadalupe Nieves Garay",15292137,3,guniga@outluc.com,78F3UxNQhAyIff,guniga,"+56 9 6780 5877",3118
 "Marco Antonio Ávalos Maestas",2120428,5,maanOevma@edubus.cal,9Fi2cJ85V5DeQCn1,maanávma,"+56 2 5083 6797",8003
-"Marco Antonio Ávalos Maestas",2120428,5,maanOevma@edubus.ceele,x,maanávma,"+56 2 5083 6797",x
 "Graciela Nieto Espinoza",13970082,1,grnies@marmol.com,MxBDykj66TyP,Gracielaespinoza,"+56 2 0821 2147",186
 "Sra. Joaquín Concepción Jaimes",14699123,8,srjocoja@tourket.com,85JuTlxQK,srjocoja,"+56 9 8806 3501",4342
 "Alfredo Rosario Alicea",21656564,9,alfredo8193@wass.com,DvayraPsoddDWP0,alroal,"+56 2 0506 6176",8398
@@ -1183,7 +1167,7 @@ x,21656564,9,alfredo8193@wass.ceele,x,x,x,x
 "Pablo Saldivar Correa",8488975,0,Pablocorrea@marmol.ceele,aq64l09Ut0VXk,pasaco,"+56 2 7005 6906",3721
 "Sta. Manuela Samaniego Sauceda",26500471,7,Sta.sauceda@outluc.com,pAV8oz1exr4,Sta.sauceda,"+56 9 7669 4142",4955
 "Berta Arevalo Quintana",2448419,0,bearqu@outluc.com,oTzC150nRdX,berta582,"+56 9 0040 1751",7306
-x,5765019,2,COosarblanco@wass.com,5MN4Lh3e,cégubl,"+56 2 1654 9655",x
+"César Guzmán Blanco",5765019,2,COosarblanco@wass.com,5MN4Lh3e,cégubl,"+56 2 1654 9655",2795
 "Mateo Rodrígez Osorio",2531691,6,Mateoosorio@marmol.com,WihakfKk9wCc8g,mateo4318,"+56 9 3763 7867",5986
 "Soledad Alba Cervántez",29462309,4,soledad7310@viajesanma.com,cg6eqAF9,Soledadcervántez,"+56 9 4459 5190",5392
 "María Luisa Velasco Verduzco",1206600,7,marOAa2292@wass.ceele,9LhacX2GhqgbM5,maría2220,"+56 2 8463 5466",6421
@@ -1210,7 +1194,7 @@ x,5765019,2,COosarblanco@wass.com,5MN4Lh3e,cégubl,"+56 2 1654 9655",x
 "Santiago Casares Escamilla",29463840,7,santiago1928@wass.com,8C7eYa8ABRiK,sacaes,+56-9-8093-4978,1729
 "Carolina Torres Luevano",9952677,7,carolina7104@marmol.com,0nRyKoRs8Lj,carolina2765,+56-9-5655-7345,2830
 "Sra. Diana Escalante Martínez",25428160,3,srdiesma@marmol.com,gp35upg7jBPZy,Sra.martínez,"+56 2 9229 0193",694
-x,24354748,x,Maytelara@tourket.ceele,BB09jIpNZBECxa,mayte1799,x,x
+"Mayte Leiva Lara",24354748,2,Maytelara@tourket.ceele,BB09jIpNZBECxa,mayte1799,"+56 2 5066 7214",6513
 "Elvira Rentería Cantú",7835186,1,elvira5758@tourket.com,6ipT5VVZ,elreca,"+56 9 2546 7607",9814
 "Sr. Cristian Candelaria Chávez",13727185,0,Sr.chOevez@viajesanma.com,GJ2uClPAIu,sr.6655,"+56 9 0317 2653",6946
 "Mónica Jasso Rodríguez",27269211,4,mOIjaro@tourket.com,RX78srXIQs1OOI,Mónicarodríguez,"+56 9 2473 4299",5476
@@ -1222,7 +1206,7 @@ x,24354748,x,Maytelara@tourket.ceele,BB09jIpNZBECxa,mayte1799,x,x
 "Sr. Catalina Rodarte Villagómez",2527024,0,sr.3360@outluc.com,ydWE6gYLELrS61t,Sr.villagómez,"+56 2 3708 0625",9736
 "Berta Manzanares Ortega",7666210,0,Bertaortega@viajesanma.com,eJ9g1HDFLd,bemaor,"+56 9 3461 1554",3647
 "Juan Carlos Treviño Angulo",29852608,5,jucatran@wass.ceele,HF7Y5e5a,jucatran,"+56 9 2928 6244",1235
-x,29852608,5,jucatran@wass.com,HF7Y5e5a,jucatran,"+56 9 2928 6244",1235
+"Juan Carlos Treviño Angulo",29852608,5,jucatran@wass.com,HF7Y5e5a,jucatran,"+56 9 2928 6244",1235
 "Sr. Concepción Corrales Guardado",16476482,6,srcocogu@edubus.ceele,Md33r8YzEX0,Sr.guardado,"+56 2 4112 2911",5084
 "Sr. Concepción Corrales Guardado",16476482,6,srcocogu@edubus.cal,Md33r8YzEX0,Sr.guardado,"+56 2 4112 2911",5084
 "Sra. Marcos Banda Salas",7819460,0,Sra.salas@marmol.com,Q6M7dSj8ZWe,srmabasa,"+56 9 7961 1437",5511
@@ -1234,7 +1218,7 @@ x,29852608,5,jucatran@wass.com,HF7Y5e5a,jucatran,"+56 9 2928 6244",1235
 "Rosalia Esquibel Velasco",11853121,3,rosalia7926@viajesanma.ceele,UyudB95Vlw3J,rosalia3189,"+56 9 6136 5452",9115
 "Ramón Rangel Gracia",3303339,7,RamOIngracia@wass.com,T60Mc6kSBMcP,ramón5744,"+56 2 0540 7816",9532
 "Ricardo Ulloa Matías",1131927,0,riulma@wass.ceele,oJre6LR7O,riulma,"+56 9 8323 0543",1054
-"Jorge Luis Páez Mojica",22651992,0,jorge6664@marmol.com,x,jolupámo,+56-2-9277-5755,x
+"Jorge Luis Páez Mojica",22651992,0,jorge6664@marmol.com,fPtcntZsuDXi6U,jolupámo,"+56 2 9277 5755",5524
 "Cristobal Lomeli Alvarado",22992905,4,Cristobalalvarado@outluc.ceele,Ya4ZRemVi,cristobal5684,"+56 2 8945 7816",7774
 "Cristobal Lomeli Alvarado",22992905,4,Cristobalalvarado@outluc.com,Ya4ZRemVi,cristobal5684,+56-2-8945-7816,7774
 "Graciela Lira Sanabria",14311592,5,Gracielasanabria@viajesanma.com,2HLlGuGS4kB6CcU,grlisa,"+56 9 8291 4899",4377
@@ -1304,7 +1288,6 @@ x,7905661,8,laura2649@wass.ceele,x,Lauragarcía,"+56 9 6141 0808",3105
 "Silvia Zamora Jáquez",26696504,4,sizajOe@outluc.com,2LnBC7sCU2QL,sizajá,"+56 2 1835 6410",678
 "Salvador Vásquez Romo",5658503,6,savOero@edubus.cal,xD69g3okGnOQ,salvador5818,+56-2-5434-3145,9827
 "Sr. Alfredo Rosario Medrano",21447467,0,Sr.medrano@marmol.ceele,VlUaTl93qp,sralrome,+56-9-8092-5511,3502
-"Lola Arredondo Crespo",27491206,5,loarcr@wass.com,jZuM0FB340,Lolacrespo,+56-2-9312-9236,962
 "Ana María Martínez Ocampo",5733571,8,anmamaoc@viajesanma.com,abFJM9aEFY6xLURS,ana8428,"+56 9 0599 2995",7641
 "Rafael Tamayo Flórez",26979239,6,rafael3534@viajesanma.ceele,WZrSdoXAYYJn9L3,rafael8684,+56-9-4252-9342,2943
 "Rafael Tamayo Flórez",26979239,6,rafael3534@viajesanma.com,WZrSdoXAYYJn9L3,rafael8684,"+56 9 4252 9342",2943
@@ -1317,7 +1300,7 @@ x,7905661,8,laura2649@wass.ceele,x,Lauragarcía,"+56 9 6141 0808",3105
 "Rocio Tapia Centeno",26267775,3,rotace@wass.com,5gAnOZU2,rocio5063,"+56 2 2537 3071",896
 "Leonor Orta Corrales",18973564,2,Leonorcorrales@edubus.cal,QJhvdK8D5TJzGAt0,Leonorcorrales,"+56 2 1095 5210",6770
 "Ignacio Leyva Peres",23168176,0,Ignacioperes@edubus.cal,I55ntzGQXpV4WA,Ignacioperes,"+56 2 9967 3818",4022
-x,1923692,7,vicente1029@tourket.com,x,x,"+56 2 9461 3666",7389
+"Vicente Ruelas Salas",1923692,7,vicente1029@tourket.com,qqQ1iAdCep9C,Vicentesalas,"+56 2 9461 3666",7389
 "Gabriela Olvera Santana",15659902,6,gaolsa@marmol.com,kBBs3rkZ8EcWl8,Gabrielasantana,+56-9-8166-6479,2851
 "Cristian Iglesias Negrete",17169120,6,cristian9601@marmol.com,7XabCpSCu5,Cristiannegrete,"+56 9 9153 3603",4382
 "Enrique Ledesma Santiago",7072777,3,enrique6723@viajesanma.com,qAfr1IURpQOZuM,enlesa,"+56 2 9247 0811",7612
@@ -1329,7 +1312,6 @@ x,1923692,7,vicente1029@tourket.com,x,x,"+56 2 9461 3666",7389
 "Tomás Ramírez Rincón",8787133,9,TomOesrincOIn@marmol.com,T0IYQwRUxl87qe,torari,"+56 9 9948 2021",8494
 "Josefina Badillo Salazar",23169228,2,josefina2635@wass.com,Cayu8uJThOZ,Josefinasalazar,"+56 9 7337 5686",4644
 "Sra. Felipe Grijalva Romo",761956,1,sra.2294@tourket.com,ARV6WRig7dxL3CLP,Sra.romo,"+56 2 6935 6260",7654
-"Manuela Madrid Moreno",16852407,2,Manuelamoreno@tourket.com,x,mamamo,"+56 2 7304 8735",8800
 "Adela Olivares Corona",8557264,4,adolco@wass.com,4mTJ04wnBZYT,adolco,"+56 2 1168 2564",7748
 "Concepción Valles Abeyta",22580260,2,concepciOIn9985@viajesanma.com,qK9oDjkbN228o,concepción5645,"+56 2 4316 5476",5929
 "Salvador Valenzuela Jáquez",6838276,9,SalvadorjOequez@tourket.com,XeZQF57An75,salvador9640,"+56 9 4617 2763",4497
@@ -1340,7 +1322,6 @@ x,1923692,7,vicente1029@tourket.com,x,x,"+56 2 9461 3666",7389
 "Miguel Ángel Baeza Nájera",4266339,5,MiguelnOejera@tourket.com,KYKeTk2yCEY,miánbaná,"+56 2 6537 8771",7083
 "Marisol Casillas Cerda",17264591,7,marisol8112@marmol.com,G5z2vD5eswjQMs,macace,"+56 2 9016 6814",7696
 "Marisol Casillas Cerda",17264591,7,marisol8112@marmol.ceele,G5z2vD5eswjQMs,macace,+56-2-9016-6814,7696
-"Andrea Páez Llamas",2868877,6,anpOell@marmol.com,GGL3ae30UmbyQ,andrea8005,"+56 2 8995 0749",6923
 "Andrea Páez Llamas",2868877,6,anpOell@marmol.ceele,GGL3ae30UmbyQ,andrea8005,"+56 2 8995 0749",6923
 "Carolina Acuña Arroyo",10827112,4,caacar@wass.com,oGY4J1zIBt6r,carolina5048,"+56 9 6428 3233",266
 "Elvira Rentería Cantú",7835186,1,elvira5758@tourket.ceele,6ipT5VVZ,elreca,"+56 9 2546 7607",9814
@@ -1376,7 +1357,6 @@ x,28479250,5,Sr.escobar@edubus.cal,aNOibkvniaoO0J,x,x,4082
 "Antonia Anaya Gaitán",5006211,2,antonia9686@wass.com,BcZzFul95,antonia3274,+56-2-9292-9125,3407
 "Joaquín Ojeda Treviño",26362348,7,joojtr@edubus.cal,c9L0V8B4tlWk,joojtr,"+56 2 0013 7061",2597
 "Sra. Elisa Ozuna Piña",15134222,1,srelozpi@tourket.com,84vVIRmxBvuJ,Sra.piña,"+56 9 7418 8332",6803
-"Sr. Sofia Solís Cotto",6702689,6,sr.462@marmol.com,e6uZktitWNCz,Sr.cotto,"+56 2 4279 4970",6982
 "Eva Nevárez Carrillo",28592517,7,evneca@outluc.ceele,tIjNck11Go,evneca,"+56 2 6615 1629",8990
 "Mónica Roybal Luevano",24866397,9,mOInica1633@wass.com,tj4U9B7i2bPw5,mónica9722,"+56 2 1657 6302",8341
 "Sta. Enrique Romero Guevara",10428091,9,Sta.guevara@outluc.com,OXIjCKqy5Gd,Sta.guevara,"+56 2 8189 3374",6159
@@ -1399,7 +1379,7 @@ x,28479250,5,Sr.escobar@edubus.cal,aNOibkvniaoO0J,x,x,4082
 "Sta. Lucas Espinoza Soria",24713385,2,sta.9563@wass.com,yag7uQiNF7pMMeEY,stluesso,"+56 2 1573 7423",8551
 "Emilio Serrano Alcántar",16351397,8,emseal@tourket.ceele,qCKPJD1g,emilio8161,+56-9-0101-7935,4993
 "Emilio Serrano Alcántar",16351397,8,emseal@tourket.com,qCKPJD1g,emilio8161,"+56 9 0101 7935",4993
-"Claudia Navarro Caldera",8406616,x,Claudiacaldera@viajesanma.com,x,clnaca,x,x
+"Claudia Navarro Caldera",8406616,8,Claudiacaldera@viajesanma.com,U0Sqt64tNzr8ue,clnaca,"+56 2 4840 2111",1877
 "Homero Pérez Varela",15266460,5,homero2642@wass.ceele,RjhwuoH6bENC,homero9905,"+56 9 1120 7512",235
 "Óscar Pulido Correa",14360667,8,OIspuco@wass.com,Hw9KeQbVPObZPk,óscar6285,+56-2-4258-0198,6150
 "Sta. Maricarmen Ruelas Oquendo",22255490,0,sta.207@viajesanma.com,4bSEoOaRlc3U2,Sta.oquendo,"+56 2 8393 3626",5686
@@ -1411,8 +1391,7 @@ x,28479250,5,Sr.escobar@edubus.cal,aNOibkvniaoO0J,x,x,4082
 "Hernán Mares Delagarza",29167522,0,hemade@outluc.com,isOohePril9XoY,hemade,"+56 2 6562 9632",4391
 "Sra. Benjamín Ponce Bétancourt",27053822,3,srbepobOo@marmol.com,CiV9K2AU0qY,srbepobé,"+56 9 3982 8543",9360
 "Victoria Villagómez Granados",26526763,7,vivigr@viajesanma.com,I3tfC6PqW2MY,Victoriagranados,"+56 9 3461 0837",7941
-"Ana María Adame Salgado",19984816,x,anmaadsa@edubus.cal,Duj9J1PQf,anmaadsa,x,9000
-x,20087389,0,PatriciaramOIn@wass.com,Y8eUCnKbkk,x,"+56 9 1024 9095",1102
+"Ana María Adame Salgado",19984816,0,anmaadsa@edubus.cal,Duj9J1PQf,anmaadsa,"+56 2 5880 3601",9000
 "Florencia Saldaña Mata",4593577,9,Florenciamata@edubus.cal,0jHILpc0RnPtUC,flsama,"+56 9 5856 0489",460
 "Cristobal Ponce Ramírez",17814588,6,CristobalramOArez@marmol.com,Pg8kjI1db,Cristobalramírez,"+56 9 0946 9439",718
 "Diana Jurado Angulo",6922274,9,diana3316@outluc.com,r01EWPgMl,diana4056,"+56 9 4594 5701",5448
@@ -1484,7 +1463,7 @@ x,27855026,5,ana5053@edubus.cal,WQgL9SrRASkdmq,x,x,2487
 "Fernando Arguello Lozano",11566499,9,Fernandolozano@outluc.com,WI4QhQBcmQ1mOs,Fernandolozano,"+56 2 1525 7489",4281
 "Daniela Montalvo Velázquez",6543977,8,DanielavelOezquez@wass.com,lsnw5n8hYwS0QrC,damove,"+56 2 8161 0528",9505
 "Adán Escobedo Jaime",9769278,5,AdOenjaime@outluc.com,Kbvkqn4K,Adánjaime,"+56 2 9330 9405",3265
-"Sra. Luisa Sevilla Candelaria",5632789,4,srluseca@marmol.com,iMCpAaE6h,x,"+56 9 8564 6241",466
+"Sra. Luisa Sevilla Candelaria",5632789,4,srluseca@marmol.com,iMCpAaE6h,srluseca,"+56 9 8564 6241",466
 "Carmen Rodríquez Curiel",6236176,0,Carmencuriel@wass.com,xAY7Erm3oY,Carmencuriel,"+56 9 1169 5194",1274
 "Gerardo Escobar Cedillo",21660546,2,gerardo5978@outluc.com,eRPDseo19hFyr,gerardo9223,"+56 9 4660 6976",7115
 "Gerardo Escobar Cedillo",21660546,2,gerardo5978@outluc.ceele,eRPDseo19hFyr,gerardo9223,"+56 9 4660 6976",7115
@@ -1531,6 +1510,7 @@ x,27855026,5,ana5053@edubus.cal,WQgL9SrRASkdmq,x,x,2487
 "Sra. Florencia Sevilla Páez",20170515,0,Sra.pOeez@tourket.com,NVh53csj,sra.2596,"+56 2 4227 2072",8808
 "Cristobal Zambrano Sosa",8223430,6,Cristobalsosa@edubus.cal,9LVOMWX4y4zz6,Cristobalsosa,"+56 2 5467 5559",5738
 "Agustín Pacheco Suárez",6305135,7,agpasu@wass.com,CKBRYQE95Vaty24g,agustín1119,+56-9-2493-6504,5214
+"Rosalia Saiz Granado",23583229,1,rosagr@marmol.ceele,eSxrM3wc5OGd,Rosaliagranado,"+56 9 9641 7393",2866
 "Luz Varela Benavides",22380015,7,luvabe@edubus.cal,kZ8Mp4uZ4,luvabe,"+56 2 1350 1486",2853
 "Ramón Verduzco Munguía",26644430,3,ramOIn4347@viajesanma.com,jMK7VBXYO8by1Cwf,ravemu,"+56 2 0335 2465",950
 "Sta. María Teresa Rosado Rocha",11263814,8,Sta.rocha@wass.com,Nd0gHGjgTM,Sta.rocha,"+56 2 3919 1222",3860
@@ -1606,15 +1586,14 @@ x,27855026,5,ana5053@edubus.cal,WQgL9SrRASkdmq,x,x,2487
 "Miguel Calvillo Cazares",8949113,4,miguel2675@marmol.com,uw6MVVlZQxli,miguel4915,"+56 9 3635 2280",4890
 "José Emilio Zúñiga Casanova",21531975,0,josOo7662@viajesanma.com,SJ4GaPllDI6WbqP,Josécasanova,"+56 9 5353 3211",4206
 "Patricia Guerra Ulloa",16661173,3,patricia4150@tourket.com,uzAcrs0l9Z5S8b,Patriciaulloa,"+56 2 9345 7080",7603
-"Barbara Lucero Gonzales",6389930,5,balugo@outluc.com,3h4dAgjwiWPU,barbara1730,"+56 2 1871 3604",6863
 "Andrés Sosa Trejo",22706262,2,ansotr@wass.com,IhuNhLFuZGv7,andrés1649,"+56 9 0419 7956",3383
-"Sra. Ricardo Sotelo González",7838902,8,sra.1335@edubus.cal,NlMgEIZg3rSQDN7a,sra.4169,"+56 9 1302 4032",4956
 "Emilia Amaya Verduzco",19517599,3,emamve@edubus.cal,Wu3Dp3GrpfT,emamve,+56-2-3817-5609,464
 "Ester Aguilera Cintrón",23297285,8,ester5185@wass.com,7OckHQQ2,ester1575,"+56 2 1508 4162",6052
 "Caridad Riojas Mendoza",4356627,0,caridad6815@outluc.com,iCp29kPq9j,caridad6401,"+56 2 2259 1504",2222
 "María del Carmen Medina Cruz",17062982,5,MarOAacruz@wass.com,eaL7ZrVql5,maría8539,+56-9-1781-2645,1201
 "Esteban Serrano Treviño",18283468,8,esteban3168@viajesanma.com,i9TMvfIDv9Vhnu4F,Estebantreviño,"+56 9 4804 9089",6569
 "José Luis Uribe Arroyo",11305831,5,JosOoarroyo@wass.com,zk8g8T6ref0d7t,joluurar,"+56 9 9954 9328",302
+"Sra. Ricardo Sotelo González",7838902,8,sra.1335@edubus.cal,NlMgEIZg3rSQDN7a,sra.4169,"+56 9 1302 4032",4956
 "Sta. Andrea Castro Gutiérrez",1103289,3,stancagu@edubus.cal,IsoQA2f9PLcZpbs,stancagu,"+56 2 2695 3399",6213
 "Sta. José Luis Crespo Murillo",29811944,7,stjolucrmu@edubus.cal,sEA03wsZLos,sta.8384,"+56 9 5262 6919",4614
 "Susana Corral Rivas",24574491,9,susana6773@wass.com,Gv5Zc3hU,sucori,"+56 2 6780 2267",118
@@ -1631,7 +1610,7 @@ x,5342752,9,alvOopi@outluc.ceele,x,x,x,x
 "Sr. Marilu Jaime Candelaria",26732641,0,Sr.candelaria@tourket.com,pMMZw853U,sr.7070,"+56 9 9992 9911",2068
 "Esperanza Vallejo Zamora",3813495,7,Esperanzazamora@outluc.com,ugZpi5ecKKxMs,esvaza,"+56 9 2410 9817",6554
 "Antonia Cazares Ayala",10801640,0,ancaay@viajesanma.com,uq8n3pZO,Antoniaayala,"+56 2 2737 5437",5328
-"Sergio Martínez Leal",16234903,1,sergio5905@outluc.com,Am18OLkEKYoO4d,sergio1325,x,x
+"Sergio Martínez Leal",16234903,1,sergio5905@outluc.com,Am18OLkEKYoO4d,sergio1325,"+56 9 5976 6200",8071
 "Sra. Samuel Jaramillo Espinal",5988538,3,sra.1669@marmol.com,E3Fla10Pd,srsajaes,"+56 2 0646 4032",3345
 "Sra. Samuel Jaramillo Espinal",5988538,3,sra.1669@marmol.ceele,E3Fla10Pd,srsajaes,"+56 2 0646 4032",3345
 "Sr. Rosalia Olivárez Duarte",22093583,3,sr.2335@viajesanma.com,VPejbVD5mraTn2a,srrooldu,"+56 9 0195 3495",4449
@@ -1707,7 +1686,7 @@ x,5342752,9,alvOopi@outluc.ceele,x,x,x,x
 "Sta. Santiago Molina Salcido",22409130,3,Sta.salcido@tourket.com,bePB6sIF0jXgnFtL,stsamosa,"+56 2 9621 2098",8701
 "Sr. Luisa Delvalle Vaca",18799698,8,Sr.vaca@wass.com,bwmukl50vH,Sr.vaca,"+56 2 9406 6840",7305
 "Irene Espinosa Manzanares",3498866,8,Irenemanzanares@marmol.com,S5c8ySEh,irene1445,"+56 9 3139 0748",377
-x,13014859,x,josOo7145@tourket.com,k23lgqZhOxsT,Josédomínquez,x,5779
+"José Luis Mateo Domínquez",13014859,0,josOo7145@tourket.com,k23lgqZhOxsT,Josédomínquez,+56-2-3570-1400,5779
 "Diego Ulibarri Quintanilla",21444690,1,diego8272@wass.com,LA4D1LzU,diego2341,"+56 9 3536 9527",2646
 "Alfonso Carrillo Franco",29446867,6,alfonso4595@viajesanma.com,XBMr96pC,Alfonsofranco,"+56 2 9779 6476",2928
 "María Cristina Alicea Paredes",4538448,9,MarOAaparedes@tourket.com,gk9FiP46cVt,macralpa,"+56 2 9180 5909",6685
@@ -1718,7 +1697,7 @@ x,13014859,x,josOo7145@tourket.com,k23lgqZhOxsT,Josédomínquez,x,5779
 "Esteban Noriega Garza",26993112,4,esnoga@wass.com,s9kJLn7j4DwtLUJA,Estebangarza,"+56 9 1557 8614",1840
 "Ramiro Roldán Villagómez",27888971,8,ramiro7781@marmol.com,13Y5AS92m,rarovi,"+56 9 5284 5606",7095
 "Javier Delagarza Marrero",28944743,1,jadema@tourket.com,0hf2s3Pkbn66,javier7639,"+56 2 8285 3481",4396
-"Andrés Menchaca Rentería",5802801,0,andrOos2535@tourket.com,x,andrés2661,x,1384
+"Andrés Menchaca Rentería",5802801,0,andrOos2535@tourket.com,luTUngMvHELc7A7b,andrés2661,"+56 9 3809 8476",1384
 "Homero Nava Casas",23511340,6,honaca@wass.com,hoYQOK7Zubl7xq3,honaca,+56-2-8441-6309,1759
 "Gabriel Casanova Reynoso",25085644,0,Gabrielreynoso@viajesanma.com,RGI56BUPQabEv7kT,gabriel5134,"+56 9 0443 9390",6618
 "Maricarmen Zarate Huerta",21124208,6,mazahu@edubus.cal,kR3mS3M25a,maricarmen3282,"+56 2 9836 8397",1496
@@ -1735,7 +1714,6 @@ x,13014859,x,josOo7145@tourket.com,k23lgqZhOxsT,Josédomínquez,x,5779
 "Mateo Enríquez Elizondo",18755657,0,Mateoelizondo@outluc.com,ykplEHp81beSE0I,Mateoelizondo,"+56 9 2707 5347",4355
 "Sr. Teodoro Angulo Lugo",10123372,3,Sr.lugo@wass.ceele,g2LkE4pc,sr.9055,"+56 9 1066 6448",5800
 "Ester Tirado Mendoza",19804426,1,ester9400@wass.com,4kE4wJ4lMK2K7,ester4996,"+56 2 5364 4245",5447
-x,19804426,x,ester9400@wass.ceele,x,x,+56-2-5364-4245,5447
 "Sra. Joaquín Osorio Garibay",22507645,6,sra.8370@outluc.com,5gqIQ532,srjoosga,"+56 2 0119 3971",7603
 "Mariana Rivero Corona",22233878,6,Marianacorona@viajesanma.com,vOOlDsJ0l9UE,marico,"+56 2 1698 3675",6025
 "Ángela Carvajal Bueno",3906512,6,Oengela9719@marmol.com,NjGp2MzQ3VINPo4,ángela9465,"+56 2 5683 2398",1003
@@ -1768,7 +1746,7 @@ x,19804426,x,ester9400@wass.ceele,x,x,+56-2-5364-4245,5447
 "Gabriela Espinoza Camacho",3127768,0,gaesca@viajesanma.com,IKl2uWa1CyemKh8,gaesca,"+56 9 4614 9966",7818
 "Rosalia Téllez Lozano",19764760,4,Rosalialozano@edubus.cal,p9ziSGa9R0Q,Rosalialozano,"+56 2 0980 7024",7136
 "Sta. Ernesto Baca Morales",6694466,2,sta.1732@outluc.com,aagBB5H08OU,sterbamo,"+56 9 6390 5251",796
-"Samuel Madrid Valadez",15106820,x,samava@edubus.cal,x,x,"+56 9 9209 0716",x
+"Samuel Madrid Valadez",15106820,0,samava@edubus.cal,jq9Rh7kUYJxQ1tG5,samuel492,"+56 9 9209 0716",2475
 "Óscar Hernández Gastélum",8068306,5,OIscar3621@tourket.com,0vLoqM0dVlI,Óscargastélum,"+56 2 8983 1904",6079
 "Miguel Alanis Rico",10952855,2,Miguelrico@wass.com,ykxt5DJvwYG,mialri,"+56 2 5185 1934",9425
 "Rafael Caraballo Gallardo",12657234,4,racaga@marmol.ceele,2gR7TULQlKZwjLzk,racaga,+56-9-6787-5751,3624
@@ -1800,10 +1778,10 @@ x,19804426,x,ester9400@wass.ceele,x,x,+56-2-5364-4245,5447
 "Teodoro Reyna Carrero",22334010,5,teodoro4170@marmol.ceele,JCXnuWzIgqZA3c12,Teodorocarrero,"+56 9 4820 2798",5207
 "Francisco Carmona Lozano",20314975,1,Franciscolozano@tourket.com,mTokiJ596m,frcalo,"+56 9 7998 2875",9562
 "Dorotea Echevarría Serrano",28919463,0,Doroteaserrano@marmol.ceele,C4wjyhS6l90rl,doecse,+56-9-9506-9684,9332
-"Javier Montalvo Cervantes",226232,0,javier2171@viajesanma.com,3sMLI1uaUaEjdP,Javiercervantes,x,7542
+"Javier Montalvo Cervantes",226232,0,javier2171@viajesanma.com,3sMLI1uaUaEjdP,Javiercervantes,"+56 2 1101 8712",7542
 "Agustín Flores Rosales",7086077,5,AgustOAnrosales@edubus.cal,eU5TlAkkncxH5gsu,agflro,"+56 9 8723 4960",5737
 "Victoria Godoy Olivares",21551795,0,victoria8842@edubus.cal,6kajAGpjLU2Q,Victoriaolivares,"+56 9 6570 6438",2378
-"Jorge Luis Montero Vela",1956456,8,jolumove@edubus.cal,51iH99frr03l0u,x,"+56 2 8105 3884",9312
+"Jorge Luis Montero Vela",1956456,8,jolumove@edubus.cal,51iH99frr03l0u,Jorgevela,"+56 2 8105 3884",9312
 "Guillermina Puga Gastélum",20346204,2,GuillerminagastOolum@marmol.ceele,jmuVTYPbCINzH55L,guillermina3109,"+56 2 5438 3511",1496
 "Sr. Rafael Arteaga Fuentes",17649511,1,sr.4749@marmol.com,1hFuGAmUJw8,sr.3889,"+56 2 5670 9342",5109
 "Fernando Nevárez Uribe",15916538,8,feneur@marmol.com,kzRXN0Jxf6OVe,feneur,"+56 2 9214 3963",1545
@@ -1815,6 +1793,7 @@ x,19804426,x,ester9400@wass.ceele,x,x,+56-2-5364-4245,5447
 "Sta. Dolores Yáñez Peres",3213087,9,Sta.peres@edubus.cal,K2awBwfH4Az2r2a,stdoyápe,"+56 9 9126 8279",9435
 "Agustín Mireles Griego",17560426,0,agmigr@wass.ceele,cATR4xpvqF4Q0h4,Agustíngriego,"+56 9 2672 1971",5774
 "Agustín Mireles Griego",17560426,0,agmigr@wass.com,cATR4xpvqF4Q0h4,Agustíngriego,"+56 9 2672 1971",5774
+"Andrea Páez Llamas",2868877,6,anpOell@marmol.com,GGL3ae30UmbyQ,andrea8005,"+56 2 8995 0749",6923
 "Luis Miguel Banda Luna",26794632,9,lumibalu@outluc.com,92jtCOpk,Luisluna,"+56 9 9409 1138",894
 "Adela Sarabia Alvarado",17753866,3,adela6439@tourket.com,XrsBSk89Lnz,Adelaalvarado,"+56 9 4775 5890",2687
 "Ernesto Zelaya Soliz",2338811,1,Ernestosoliz@outluc.com,EVQ1xNoLTA559j2M,ernesto4955,"+56 9 7864 9269",1545
@@ -1842,7 +1821,7 @@ x,19804426,x,ester9400@wass.ceele,x,x,+56-2-5364-4245,5447
 "Sr. Jerónimo Ontiveros Marrero",26433138,2,srjeonma@viajesanma.com,lsC6B0bjv5,sr.9022,"+56 2 0881 0641",1560
 "Mariano Vázquez Méndez",26882835,4,mariano8930@tourket.com,4fimBClNd6jH,Marianoméndez,"+56 2 1880 5567",3197
 "Mariano Polanco Rosario",1093216,5,Marianorosario@outluc.com,HeXWjLLR4Ke5U,Marianorosario,"+56 9 7022 1422",3803
-"Gonzalo Arguello Salcido",11847380,9,gonzalo5417@edubus.cal,BTUgALjtyWvfPw4u,x,"+56 2 0677 9255",x
+"Gonzalo Arguello Salcido",11847380,9,gonzalo5417@edubus.cal,BTUgALjtyWvfPw4u,goarsa,+56-2-0677-9255,7637
 "Cristobal Murillo Montez",13125654,0,cristobal2143@edubus.cal,gOXdrpEyfJLx7C0M,Cristobalmontez,"+56 2 7124 9685",735
 "Cristobal Murillo Montez",13125654,0,cristobal2143@edubus.ceele,gOXdrpEyfJLx7C0M,Cristobalmontez,"+56 2 7124 9685",735
 "Raúl Rosario Benavides",19190869,4,rarobe@marmol.com,VTzP8C1n,raúl5565,"+56 9 3749 5120",579
@@ -1851,8 +1830,8 @@ x,19804426,x,ester9400@wass.ceele,x,x,+56-2-5364-4245,5447
 "Débora Polanco Hinojosa",16569316,7,DOoborahinojosa@viajesanma.com,9DuVN1VUecd,Déborahinojosa,"+56 9 2088 5676",5333
 "María Hernández Correa",13345933,2,marOAa1168@outluc.ceele,ATVzLBSm86k0,maheco,"+56 2 5908 9449",6941
 "Gilberto Sevilla Hernández",1872700,5,gilberto825@outluc.ceele,Ox5B9HyNA,gilberto1223,"+56 9 8422 4329",4238
-"Ana Luisa Alfaro Cotto",10904916,x,anlualco@wass.com,Lxb80LpwJ,x,"+56 9 3400 9779",x
-x,20137422,x,silvia2861@outluc.com,vQTyZq2aC5FoW,sidemo,"+56 2 0953 3901",x
+"Ana Luisa Alfaro Cotto",10904916,6,anlualco@wass.com,Lxb80LpwJ,ana1420,+56-9-3400-9779,8052
+"Silvia Delarosa Montaño",20137422,7,silvia2861@outluc.com,vQTyZq2aC5FoW,sidemo,"+56 2 0953 3901",9349
 "Silvia Delarosa Montaño",20137422,7,silvia2861@outluc.ceele,vQTyZq2aC5FoW,sidemo,+56-2-0953-3901,9349
 "Marcela Soto Ochoa",2867651,4,Marcelaochoa@tourket.com,KSSOtDGZ9UduxXkn,Marcelaochoa,"+56 2 8164 4323",5879
 "Timoteo Alonzo Delagarza",13645087,5,Timoteodelagarza@outluc.com,Agi8ulhNK,Timoteodelagarza,"+56 2 1126 4796",6438
@@ -1861,7 +1840,7 @@ x,20137422,x,silvia2861@outluc.com,vQTyZq2aC5FoW,sidemo,"+56 2 0953 3901",x
 "Sr. Isabela Botello Villa",13752985,8,sr.6466@viajesanma.com,1Gu2poBE0Hw,Sr.villa,"+56 2 3533 9636",9941
 "Ricardo Naranjo Delacrúz",21478187,5,RicardodelacrOUz@edubus.cal,74dk7hbDSZxzjV3,rinade,"+56 2 1545 7636",8141
 "Alfonso Zamudio Banda",3374649,0,Alfonsobanda@tourket.com,DSb61KOM3yRG3XT,Alfonsobanda,"+56 9 7226 9077",9023
-x,29291674,4,cOomemo@viajesanma.ceele,x,Césarmoya,x,7836
+"César Melgar Moya",29291674,4,cOomemo@viajesanma.ceele,o1po74HtvkC,Césarmoya,"+56 2 7728 2790",7836
 "César Melgar Moya",29291674,4,cOomemo@viajesanma.com,o1po74HtvkC,Césarmoya,"+56 2 7728 2790",7836
 "Amalia Espinoza Yáñez",2926253,5,amesyOe@tourket.ceele,wMTIurweAv1yUy,Amaliayáñez,"+56 2 4925 2385",248
 "Sra. Diego Tamayo Casárez",28432723,3,sra.7055@outluc.com,E8BsHp4FSKVGo,sra.1531,"+56 2 4458 1616",6137
@@ -1875,7 +1854,7 @@ x,29291674,4,cOomemo@viajesanma.ceele,x,Césarmoya,x,7836
 "Florencia Solorzano Nieto",9716191,7,flsoni@edubus.cal,bw4SyPK9McYEC,Florencianieto,"+56 9 2899 3501",6235
 "Jorge Luis Carmona Urías",1633863,0,jorge3307@wass.com,DwAbZG25trmy9R,Jorgeurías,"+56 9 9964 2755",9499
 "Carla Ontiveros Cisneros",7735098,5,Carlacisneros@outluc.com,V58Jgsi0gw0DJHT,Carlacisneros,"+56 9 0382 9438",2253
-x,20669539,0,Luciavillalobos@edubus.cal,x,Luciavillalobos,x,3818
+"Lucia Holguín Villalobos",20669539,0,Luciavillalobos@edubus.cal,eBTTGQ4JeTo1oz,Luciavillalobos,"+56 9 2625 3693",3818
 "Manuel Canales Muñiz",14521439,4,manuel4274@tourket.ceele,8FXdEhrpTfXz,manuel5847,"+56 2 0736 7104",5110
 "Manuel Canales Muñiz",14521439,4,manuel4274@tourket.com,8FXdEhrpTfXz,manuel5847,"+56 2 0736 7104",5110
 "Antonia Ocasio Navarrete",22882402,0,Antonianavarrete@viajesanma.com,UJZn63bD2466w,Antonianavarrete,"+56 9 2091 0546",4893
@@ -1932,7 +1911,7 @@ x,20669539,0,Luciavillalobos@edubus.cal,x,Luciavillalobos,x,3818
 "Lorenzo Almanza Duarte",10836278,2,Lorenzoduarte@marmol.com,laTqyonTW3Bn18,lorenzo4799,"+56 2 2572 6597",8186
 "Rosalia Salazar Blanco",19700444,4,rosabl@marmol.ceele,hsBIVFekuCZ20Je,rosabl,"+56 9 0015 9517",2686
 "Rosalia Salazar Blanco",19700444,4,rosabl@marmol.com,hsBIVFekuCZ20Je,rosabl,"+56 9 0015 9517",2686
-"David Cadena Gaytán",4288224,0,david6392@viajesanma.com,x,x,x,4241
+"David Cadena Gaytán",4288224,0,david6392@viajesanma.com,5yDqnnaqdU3W,dacaga,"+56 9 5944 5972",4241
 "Emilio Vela Miranda",10084690,0,Emiliomiranda@wass.com,InzcbOMoWwl0634,emilio5091,"+56 2 2855 2264",8996
 "Olivia Alicea González",3022631,3,olalgo@edubus.cal,RMLhehuD0o9SuKp,Oliviagonzález,+56-2-6568-3203,8309
 "Olivia Alicea González",3022631,3,olalgo@edubus.ceele,RMLhehuD0o9SuKp,Oliviagonzález,"+56 2 6568 3203",8309
@@ -1951,13 +1930,11 @@ x,20669539,0,Luciavillalobos@edubus.cal,x,Luciavillalobos,x,3818
 "Sta. Luis Miguel Gaytán Leal",25278499,3,Sta.leal@outluc.com,X6GdZy9516,sta.9795,"+56 2 6107 6827",9056
 "Guillermo Villalpando Alcala",17959661,0,Guillermoalcala@edubus.cal,MqZq7w8XXNjD,Guillermoalcala,"+56 2 4005 2458",3734
 "Hugo Guillen Farías",13460833,1,HugofarOAas@tourket.ceele,sWlOi3sCN,hugo9950,"+56 2 5310 0141",1638
-"Clara Malave Lara",10614917,8,clara7557@wass.com,VEnub1DlFa,clmala,"+56 2 7016 9138",7716
 "Florencia Cervántez Rosario",9496136,0,Florenciarosario@marmol.com,0o3lZRGA7JK,florencia7179,"+56 2 0002 0001",2750
 "Adán Herrera Grijalva",16408511,2,adOen5935@wass.ceele,YXFYI2djaZ,adhegr,"+56 2 8096 3099",3871
 "Adán Herrera Grijalva",16408511,2,adOen5935@wass.com,YXFYI2djaZ,adhegr,"+56 2 8096 3099",3871
 "Luis Miguel Pantoja Santana",11855786,7,lumipasa@viajesanma.com,HdVrj3KE5AwpWazx,luis9743,"+56 2 1768 9025",5251
 "María Cristina Pulido Escalante",25947554,6,MarOAaescalante@edubus.cal,cg1pxkXrFAig,Maríaescalante,"+56 9 8869 5472",121
-x,12098579,5,Sra.partida@viajesanma.ceele,x,srfrbepa,"+56 9 1308 3359",8122
 "Sra. Francisca Benavídez Partida",12098579,5,Sra.partida@viajesanma.com,gdyg7ZA5INUY,srfrbepa,"+56 9 1308 3359",8122
 "Sancho Guerrero Frías",11044168,1,sagufr@viajesanma.com,DIHoY89PIRBmltz,sagufr,+56-2-6874-4985,7703
 "Sr. Cristian Porras Guillen",11938708,6,Sr.guillen@tourket.com,zdYS5RBb,sr.8712,"+56 2 0692 2901",9962
@@ -1969,7 +1946,6 @@ x,12098579,5,Sra.partida@viajesanma.ceele,x,srfrbepa,"+56 9 1308 3359",8122
 "Sra. Julio César Adorno Abeyta",8291249,5,sra.1477@tourket.ceele,qS3r21rs0Mw,srjucéadab,"+56 9 5404 9269",9165
 "Cecilia Romero Terán",28043576,7,cecilia3314@tourket.com,3qqzzjnK99w30AG,cerote,"+56 2 8641 6838",5576
 "Esperanza Gollum Escobar",5347473,0,esgoes@tourket.com,iMGPtDCNg9nV1N1m,esperanza4234,"+56 9 4049 3223",4973
-"Sr. Conchita Cornejo Contreras",13155675,6,Sr.contreras@tourket.ceele,JZ2oYQ1OEhDvsm,Sr.contreras,"+56 9 1229 7541",5674
 "Sr. Verónica Longoria Quiroz",7760028,0,Sr.quiroz@wass.com,W01xK8LYDPJgWViA,sr.3227,"+56 2 4278 7239",6522
 "Marisol Barela Lozano",16613606,7,marisol224@edubus.cal,9L5NzqOqS,Marisollozano,"+56 2 7346 7242",607
 "Sra. Fernando Rosario Cervantes",15265253,4,srferoce@tourket.com,csbigzRmvF2Qy3,Sra.cervantes,"+56 2 3522 4987",7637
@@ -1994,7 +1970,7 @@ x,12098579,5,Sra.partida@viajesanma.ceele,x,srfrbepa,"+56 9 1308 3359",8122
 "Miguel Ángel Lozada Cabrera",8904137,6,Miguelcabrera@outluc.ceele,8A22Hx2rzPv8,Miguelcabrera,"+56 9 2711 3385",1275
 "Sr. Germán Santillán Morales",17316438,6,sr.3557@viajesanma.com,AO4UymSmZz,Sr.morales,"+56 9 4130 3057",9218
 "Mayte Partida Sanches",8005720,2,mayte3569@marmol.com,aZ6Qak0R,mapasa,"+56 2 3024 0476",1973
-x,12270429,x,anita9069@edubus.cal,x,anita6070,"+56 9 6141 7562",2264
+"Anita Zamudio Aponte",12270429,7,anita9069@edubus.cal,DdCWCz49lf2X,anita6070,"+56 9 6141 7562",2264
 "Pablo Jaime Alva",19172408,9,pablo6641@tourket.com,8FFcxJ2BbpW8o3K4,pablo3850,+56-2-2654-4502,8505
 "Pedro Niño Guardado",28649781,0,Pedroguardado@wass.com,pz2VHTXai9qmtE,Pedroguardado,"+56 9 8130 5286",4998
 "Cristina Acuña Batista",22195736,9,cracba@tourket.ceele,j7y7qYfG49kvKr4,cracba,"+56 2 5658 1443",1677
@@ -2004,7 +1980,6 @@ x,12270429,x,anita9069@edubus.cal,x,anita6070,"+56 9 6141 7562",2264
 "Sta. Mariano Contreras Navarrete",10203366,3,sta.6592@marmol.com,h64Da4tGJlV9A,sta.1169,"+56 2 8336 1500",8549
 "Sta. Mariano Contreras Navarrete",10203366,3,sta.6592@marmol.ceele,h64Da4tGJlV9A,sta.1169,"+56 2 8336 1500",8549
 "Sr. Diana Ballesteros Solís",3027607,8,sr.4727@viajesanma.com,oUQo9RLVvV,sr.4464,"+56 2 8110 6170",356
-"Ángela Sáenz Ocampo",3227185,x,Oengela7009@viajesanma.com,m0F1dWV33CJp,ánsáoc,"+56 9 5124 6878",3481
 "Timoteo Márquez Pulido",22641046,5,timoteo157@tourket.com,0Ea50gGukf7F,Timoteopulido,"+56 9 0333 9624",642
 "Manuel Vela Casas",26914175,1,manuel5400@tourket.ceele,g0LkbLH0RR,maveca,+56-9-4439-6838,9769
 "Joaquín Lomeli Orosco",20709465,0,joaquOAn8736@wass.ceele,pZoTvnGd87o,Joaquínorosco,"+56 9 2291 5203",2947
@@ -2060,11 +2035,10 @@ x,12270429,x,anita9069@edubus.cal,x,anita6070,"+56 9 6141 7562",2264
 "Hugo Cervántez Tapia",25744955,6,Hugotapia@wass.com,7YIhNAWI77w,huceta,"+56 2 2427 0480",5856
 "Bernardo Rosario Rosas",17108036,3,bernardo7693@wass.com,l5koD3IocdEHbG,beroro,+56-2-6336-3697,830
 "Bernardo Rosario Rosas",17108036,3,bernardo7693@wass.ceele,l5koD3IocdEHbG,beroro,"+56 2 6336 3697",830
-"Gustavo Rico Arreola",24471908,2,Gustavoarreola@marmol.com,yUSnkE70wupZOhg,guriar,+56-9-5915-0402,1004
 "Mercedes Cabán Alfaro",19435040,6,mecaal@tourket.com,SCGJd4vwYL782C,Mercedesalfaro,"+56 9 5332 5241",2021
 "Eduardo Valle Olivárez",6847400,0,edvaol@edubus.cal,FH5TIhhMiSpaIf4G,eduardo4049,"+56 2 7044 8058",5735
 "Miguel Prieto Cervantes",597705,3,miguel9763@edubus.ceele,n34gU2toUEp,miprce,+56-2-0565-3994,3356
-"Rosalia Polanco Mercado",16968636,x,rosalia376@marmol.ceele,Nq848oh5ZKsV,x,"+56 2 1736 7249",x
+"Rosalia Polanco Mercado",16968636,0,rosalia376@marmol.ceele,Nq848oh5ZKsV,rosalia2809,+56-2-1736-7249,3658
 "Emilia Esparza Carranza",6361338,0,emesca@tourket.com,CL7YJq2kNU,emilia7655,"+56 9 6951 2018",9928
 "Eduardo Nava Samaniego",28228415,4,Eduardosamaniego@tourket.com,VVxdbAIeqs96IA,ednasa,"+56 9 2813 2605",4390
 "Amalia Aparicio Valverde",25922410,1,amalia9748@edubus.ceele,eNmhicoCam1s,Amaliavalverde,"+56 9 3886 1069",2564
@@ -2095,7 +2069,6 @@ x,12270429,x,anita9069@edubus.cal,x,anita6070,"+56 9 6141 7562",2264
 "Lucia Luevano Canales",956719,4,lucia368@wass.com,I5jysu0RWepq6Z,Luciacanales,"+56 9 9393 3418",670
 "Miguel Ángel Tapia Valadez",17299852,6,Miguelvaladez@marmol.com,diciQi48c,Miguelvaladez,"+56 2 7919 9873",2255
 "Isabel Rodarte Rodarte",6034672,0,isroro@outluc.com,RJaYVBBCcZAaUi7,isabel6121,"+56 2 8671 3035",3734
-"Soledad Casas Villalpando",5896581,2,socavi@wass.ceele,xflMB0k4HP,x,"+56 2 9460 7491",9513
 "Lucia Tamayo Guillen",22567619,4,Luciaguillen@viajesanma.com,CyDjrNyv9R5N,lucia3117,"+56 9 5350 1972",7696
 "Teodoro Macías Tamayo",8706161,2,Teodorotamayo@tourket.com,ssCe2Tx6A0ccPNV,temata,"+56 9 9154 5512",2402
 "David Sanches Vallejo",23785012,2,dasava@viajesanma.com,G9eiN1S4Q,Davidvallejo,"+56 2 5720 4028",7403
@@ -2108,7 +2081,7 @@ x,14008014,4,clirar@viajesanma.com,UlM340HZIs,x,x,3550
 "Guillermo Parra Casares",26318077,1,Guillermocasares@wass.com,PMGk1eLR,Guillermocasares,"+56 2 3738 4272",451
 "Sr. Gonzalo Serrano Estrada",19633058,5,Sr.estrada@viajesanma.com,MtOroM4P,Sr.estrada,"+56 2 0857 5772",9062
 "Barbara Pabón Reséndez",12395323,1,barbara2192@wass.com,Nq0AAH4M,Barbarareséndez,+56-2-6332-6194,3080
-"Luis Sosa Ferrer",21048359,4,luis9422@marmol.com,x,x,"+56 2 4512 1993",2859
+"Luis Sosa Ferrer",21048359,4,luis9422@marmol.com,dfsJjlX1,Luisferrer,"+56 2 4512 1993",2859
 "Luis Sosa Ferrer",21048359,4,luis9422@marmol.ceele,dfsJjlX1,Luisferrer,"+56 2 4512 1993",2859
 "Eloisa Trejo Gamez",20786006,9,Eloisagamez@viajesanma.com,vqP13svGpaEnk1,eltrga,"+56 2 6143 5280",1637
 "Eloisa Trejo Gamez",20786006,9,Eloisagamez@viajesanma.ceele,vqP13svGpaEnk1,eltrga,"+56 2 6143 5280",1637
@@ -2150,7 +2123,7 @@ x,14008014,4,clirar@viajesanma.com,UlM340HZIs,x,x,3550
 "Esteban Casas Castellanos",21621326,2,escaca@outluc.com,MDhoYISxRXAFn64,esteban344,"+56 9 0058 4697",5605
 "María Soledad Beltrán Delgado",15207089,6,masobede@outluc.com,rDziyJ97iZttsgMC,maría2736,"+56 2 8740 1966",7518
 "Gregorio Salgado Nazario",22617877,5,gregorio7794@edubus.cal,WAk5tBvhfA,Gregorionazario,"+56 9 2949 1587",6059
-"Pilar Alarcón Salcido",4713337,8,Pilarsalcido@edubus.cal,Y5cYByeMy0OwX,pilar591,x,x
+"Pilar Alarcón Salcido",4713337,8,Pilarsalcido@edubus.cal,Y5cYByeMy0OwX,pilar591,"+56 2 3910 9739",3917
 "Sta. María Cristina Godoy Figueroa",16747428,4,stmacrgofi@viajesanma.com,I2Ige552ezYr3RE,stmacrgofi,"+56 9 7697 7071",6025
 "Barbara Hurtado Escalante",29718696,5,bahues@marmol.com,CVVHPovXjgwaP2,Barbaraescalante,"+56 2 4252 9634",6105
 "María del Carmen Valdés de Anda",1968568,3,MarOAaanda@wass.com,IoK7wUc1,madecavadean,"+56 2 5123 3030",5809
@@ -2159,14 +2132,11 @@ x,14008014,4,clirar@viajesanma.com,UlM340HZIs,x,x,3550
 "Eloisa Uribe Romo",4794161,0,eloisa6041@edubus.cal,APw63zRp09GnDkR,elurro,"+56 9 6378 0314",9444
 "Ignacio Rojo Bustos",27148478,0,Ignaciobustos@wass.com,pR32O5plqEcxYXod,ignacio1097,"+56 9 5557 6359",4807
 "Blanca Rojo Soria",21111723,0,blanca8628@outluc.ceele,xLe6Ak4bUoGv4,Blancasoria,"+56 2 6662 9030",8042
-x,7635892,x,feOevdu@tourket.ceele,1JMwmNlIXMqLWI,x,x,9534
 "Gabriela Robledo Cavazos",1888816,5,gabriela2477@marmol.com,8JFAuvmmce4je,gabriela5754,"+56 9 5986 5669",4283
 "Tomás Gastélum Aguilera",24506680,5,TomOesaguilera@marmol.com,oB8jRbpiA9x,togaag,"+56 9 0735 2438",9911
 "Ignacio Casárez Reséndez",20744023,0,igcare@tourket.com,69h9lEpMwU,ignacio4978,+56-2-5253-4718,4234
-"Sta. Enrique Pineda Calderón",4729053,8,Sta.calderOIn@tourket.com,jCWoecqZt5,stenpica,"+56 2 2567 0088",4387
 "Isabela Salcedo Mejía",12133319,8,issame@tourket.com,d40k0ZjK,isabela5363,"+56 9 8322 6156",9634
 "Esteban Macías Murillo",15770379,0,esteban4783@edubus.ceele,Z0eB3DLowCbQQaVX,esmamu,"+56 9 8452 5902",9848
-"Raquel Romero Prieto",1699603,3,raquel4508@edubus.cal,ZFeN5eHsJ,Raquelprieto,+56-2-9642-0585,7679
 "Sra. Diana Escalante Martínez",25428160,3,srdiesma@marmol.ceele,gp35upg7jBPZy,Sra.martínez,"+56 2 9229 0193",694
 "Raúl Urías Casas",27860133,1,raurca@outluc.com,NY8MwdlUmOBk,raurca,"+56 2 0077 6266",2811
 "Javier León Cadena",9477920,0,Javiercadena@edubus.cal,JfWUFWk7DDdJ,jaleca,"+56 9 4503 0515",4812
@@ -2180,7 +2150,6 @@ x,7635892,x,feOevdu@tourket.ceele,1JMwmNlIXMqLWI,x,x,9534
 "Bernardo Duarte Rodríguez",11101539,2,bernardo8552@marmol.com,X4YHgRmds2E1Z,beduro,"+56 2 8111 5762",422
 "Julia Pantoja Palacios",16204664,0,Juliapalacios@wass.com,j48c0xMzZ,Juliapalacios,"+56 9 6063 6590",2190
 "Mayte Delacrúz Espinal",4959789,4,madees@marmol.com,AYf1bpcI,madees,"+56 2 2295 5792",9482
-"Patricio Madrid Miranda",20927364,x,patricio2411@wass.ceele,x,patricio2656,x,x
 "Rosa Solano Palomino",1056553,7,rosopa@tourket.com,2dd6BPLkdi,rosa9428,"+56 9 5956 4757",1985
 "Lorena Nevárez Jasso",24997418,8,loneja@edubus.ceele,ApxKc7Ux838,loneja,"+56 9 3648 7761",5837
 "Elvira Montaño Nájera",6701926,1,elvira3304@viajesanma.com,Jsa3wmaR9EW5D,elvira3663,"+56 2 8823 8832",3126
@@ -2283,7 +2252,7 @@ x,7635892,x,feOevdu@tourket.ceele,1JMwmNlIXMqLWI,x,x,9534
 "Sta. Silvia Rangel Nava",27247056,1,sta.8746@marmol.ceele,PW4UxfLpe,stsirana,"+56 9 4454 9124",5833
 "Timoteo Fernández Ortega",17921492,0,Timoteoortega@viajesanma.com,pi5siU3TSBAy,timoteo6411,"+56 9 7268 6601",3134
 "Lilia Valles Carranza",10273157,3,livaca@wass.com,u6EA2GtILhRbjab,livaca,"+56 2 8845 9822",9844
-"José Emilio Leyva Acuña",6842391,0,josOo7942@outluc.ceele,x,Joséacuña,"+56 9 6167 6380",7415
+"José Emilio Leyva Acuña",6842391,0,josOo7942@outluc.ceele,aRRaVj64fvAHsaC7,Joséacuña,"+56 9 6167 6380",7415
 "Sergio Hinojosa Meza",25502804,9,Sergiomeza@edubus.cal,Xc5MZCbcxO78l8u0,sergio9092,"+56 2 6697 8555",1803
 "Pedro Miranda Velásquez",813030,2,pedro6168@wass.com,bqshNVkxW5CW,Pedrovelásquez,+56-2-4656-1280,3722
 "Isabela Ybarra Loera",2433197,0,isabela7874@tourket.com,LY3OjCZUTwanR,Isabelaloera,+56-2-5164-5228,5497
@@ -2312,15 +2281,13 @@ x,7635892,x,feOevdu@tourket.ceele,1JMwmNlIXMqLWI,x,x,9534
 "Manuela Correa Venegas",16105488,7,macove@viajesanma.com,tpSv3Cvd,manuela1312,+56-2-1193-9210,7710
 "Luz Pantoja Arellano",24156768,0,luz1883@wass.com,ulEShXnbwRrV30,luz1278,"+56 2 8287 8438",244
 x,15916245,1,Lauraabrego@viajesanma.ceele,WVs0XlqP,Lauraabrego,x,544
-x,24166128,x,jorge9889@outluc.ceele,x,x,+56-9-3841-3620,3560
+"Jorge Luis Guajardo Sisneros",24166128,8,jorge9889@outluc.ceele,RAWDtETZ6bu7O7,Jorgesisneros,"+56 9 3841 3620",3560
 "Horacio Segura Holguín",28682388,2,horacio3299@edubus.cal,H2iUjrwbkULR8Au,Horacioholguín,"+56 2 1456 1061",6316
 "Rocio Porras Abreu",1402095,0,rocio5778@wass.com,E7u56OnC1QON,rocio7396,"+56 2 3910 7887",1056
 "Lorenzo Rosas Domínquez",11778278,6,lorodo@viajesanma.com,ci5KeKDtL0iVc7oL,lorodo,"+56 2 2778 2938",1434
 "Mateo Crespo Alvarado",26852599,8,Mateoalvarado@edubus.cal,DHz6mCPqfb6j2jx0,macral,"+56 2 3094 5656",8166
-"Andrés Badillo Chávez",14912057,2,anbach@edubus.cal,N8rjvA7GsnriH9w,Andréschávez,"+56 2 4716 4885",6148
 "Jorge Luis Caballero Aguayo",29603854,7,Jorgeaguayo@viajesanma.com,nZgPBoNAZ4rl,jolucaag,"+56 9 4985 8946",7077
 "Sta. Raúl Estrada Jaime",13341003,1,sta.8086@tourket.com,MAzuX7wg5V1Er,Sta.jaime,"+56 2 8492 3332",8255
-x,21537854,3,rubOon7037@outluc.ceele,x,rubén6341,+56-2-9210-0520,6179
 "José Eduardo Monroy Adame",29619890,0,JosOoadame@wass.com,IA4qYDyaH,joedmoad,"+56 9 8955 9249",8578
 "Sra. Claudia Duran Lucero",14028577,3,srcldulu@outluc.com,XeNUIT7AMzoj6pwS,sra.9879,"+56 2 5594 2694",513
 "Sr. Berta Bustamante Escobar",28479250,5,Sr.escobar@edubus.ceele,aNOibkvniaoO0J,srbebues,"+56 2 2916 4713",4082
@@ -2331,7 +2298,7 @@ x,21537854,3,rubOon7037@outluc.ceele,x,rubén6341,+56-2-9210-0520,6179
 "Santiago Raya Roldán",14489996,2,santiago1525@wass.ceele,KQTL9r4yc,sararo,"+56 2 2012 0841",5402
 "Lucas Valdés Jasso",18333085,3,Lucasjasso@wass.ceele,rPU2G2QKw2,luvaja,"+56 2 1306 8391",4995
 "Laura Morales Peña",16775003,6,lamope@edubus.cal,Qns1JpbdA,lamope,+56-9-4317-5253,3572
-x,16358681,x,crolna@wass.ceele,ztoL9La8bxLiT,Cristinanava,x,6202
+"Cristina Olivas Nava",16358681,9,crolna@wass.ceele,ztoL9La8bxLiT,Cristinanava,"+56 9 1531 2884",6202
 "Cristina Olivas Nava",16358681,9,crolna@wass.com,ztoL9La8bxLiT,Cristinanava,"+56 9 1531 2884",6202
 "Elena Fonseca Santillán",25783246,5,ElenasantillOen@outluc.com,Dsndw81p,Elenasantillán,"+56 9 1657 5536",425
 "Ángela Toro Quintana",22671064,7,Oentoqu@outluc.com,WxJCjXHg5W19tdm,ángela8782,"+56 9 8647 2457",4749
@@ -2355,6 +2322,7 @@ x,16358681,x,crolna@wass.ceele,ztoL9La8bxLiT,Cristinanava,x,6202
 "Ramona Caballero Sotelo",13982927,1,Ramonasotelo@marmol.com,fMkC9YyGGNca,racaso,"+56 9 1270 4072",7432
 "José Eduardo Patiño Aponte",22771073,0,josOo1737@edubus.cal,yQRhvUxR8,josé4186,"+56 2 3582 4186",5669
 "Elena Hidalgo Montero",24548454,2,elena5091@outluc.com,8EDkHrGIelMWeaUI,Elenamontero,"+56 9 7639 7307",5371
+"Dorotea Quintana Duran",13558591,2,Doroteaduran@marmol.com,2LJXtNl8Qmy,dorotea5552,"+56 2 6944 8854",3841
 "Gregorio Loya Colón",13577451,0,GregoriocolOIn@viajesanma.com,MnF4Eu8REmdram,gregorio1213,+56-9-3239-9046,2559
 "Rodrigo Coronado Ontiveros",16051705,0,rodrigo1470@outluc.ceele,bm8Xynz4eA,Rodrigoontiveros,"+56 9 5103 1402",3486
 "Sta. Maricarmen Rincón Alanis",6802893,0,sta.9471@viajesanma.com,F3bJ4OZwJ,Sta.alanis,"+56 2 1566 3246",6075
@@ -2401,7 +2369,7 @@ x,16358681,x,crolna@wass.ceele,ztoL9La8bxLiT,Cristinanava,x,6202
 "Lucas Santana Adame",2435899,2,lucas1927@edubus.cal,1vrYB7fNKiZPhm5v,Lucasadame,"+56 2 0056 9745",3850
 "Sr. Ester Montes Esquivel",25067777,4,sr.8640@tourket.com,HlpwI3DZMG3,sr.2244,"+56 9 7474 5184",7068
 "Sta. María Cristina Malave Gracia",25488317,4,Sta.gracia@wass.com,pcRhEv7iah3I6,stmacrmagr,"+56 9 2083 1370",5116
-"Guillermina Esquivel Villagómez",2321160,2,guillermina134@viajesanma.com,sqN4r3BOl,guillermina5676,x,7239
+"Guillermina Esquivel Villagómez",2321160,2,guillermina134@viajesanma.com,sqN4r3BOl,guillermina5676,"+56 9 7453 6425",7239
 "Rosalia Roybal Roldán",7892804,2,rororo@edubus.cal,qF6ZcVMsFqK,rosalia6048,"+56 2 1220 2821",9266
 "Dorotea Gaitán Cabán",17612433,4,dorotea8799@marmol.ceele,YkIuOqZjY0Q2QI,dorotea5174,"+56 9 3360 1534",3311
 "Gabriel Ortiz Pichardo",25031160,5,gaorpi@edubus.cal,CvioP9Z68,gabriel4595,"+56 9 7999 4170",7098
@@ -2411,7 +2379,6 @@ x,16358681,x,crolna@wass.ceele,ztoL9La8bxLiT,Cristinanava,x,6202
 "Eva Ramón Solorio",15444728,8,Evasolorio@tourket.com,B1iFttKeZdOQb,Evasolorio,"+56 2 9287 4765",7959
 "Ignacio Madrid Madrigal",12912712,0,ignacio5759@outluc.com,Qug7ICD40ICA,igmama,"+56 9 8317 8218",2918
 "Marisol Llamas Domínquez",4739709,0,marisol5619@wass.com,BS9cMfaj,marisol6680,"+56 9 1576 9610",8411
-"Elisa Zelaya Sedillo",10585181,2,elisa7692@viajesanma.com,bZSuq7qGRK,elisa9118,"+56 2 9579 9367",8883
 "Mónica Salas Cervántez",6186433,4,MOInicacervOentez@edubus.cal,nu14ONgAtgT,mónica2882,"+56 2 7838 1572",2171
 "Sta. Claudio Domínquez Valadez",26473212,3,sta.7683@wass.com,tQ2nGKbJ,sta.1118,"+56 9 9034 6625",9760
 "Cristian Carranza Cotto",5557505,3,crcaco@viajesanma.com,5Jo9az0uxi6,cristian1946,+56-2-1170-4507,5009
@@ -2432,6 +2399,7 @@ x,16358681,x,crolna@wass.ceele,ztoL9La8bxLiT,Cristinanava,x,6202
 "Julio César Vélez Nazario",19436450,4,jucOovOona@outluc.com,TsCNZpdGnq8T4,jucévéna,"+56 2 5124 5373",5875
 "Sara Treviño Montenegro",11872843,2,satrmo@edubus.cal,D1eKmQPhHvwWzJw,Saramontenegro,"+56 2 6671 2683",8714
 "Ester Oquendo Espinal",13321216,7,esoqes@marmol.ceele,WcG6j2LUbLo6lH,Esterespinal,"+56 2 7838 2144",787
+"Barbara Lucero Gonzales",6389930,5,balugo@outluc.com,3h4dAgjwiWPU,barbara1730,"+56 2 1871 3604",6863
 "Javier León Menchaca",4082347,6,jaleme@marmol.ceele,XK0vHpt8E,Javiermenchaca,"+56 9 0045 6505",1714
 "Patricio Zepeda Collado",24587641,6,Patriciocollado@edubus.ceele,XapVVA1R,Patriciocollado,"+56 9 8949 8349",5336
 "Patricio Zepeda Collado",24587641,6,Patriciocollado@edubus.cal,XapVVA1R,Patriciocollado,"+56 9 8949 8349",5336
@@ -2440,7 +2408,6 @@ x,16358681,x,crolna@wass.ceele,ztoL9La8bxLiT,Cristinanava,x,6202
 "Gloria Serrato Velásquez",10988517,7,gloria9689@outluc.com,pHS6lFol73knk,gloria3464,"+56 9 4491 1578",8107
 "Adán Chapa Alonzo",2194113,1,AdOenalonzo@tourket.com,JbbcId0n2Qz,adchal,"+56 9 8704 2172",9655
 "María Soledad Delapaz Pedraza",2070587,6,masodepe@wass.com,aNSFmEi1YYrj,Maríapedraza,"+56 2 6783 1154",4701
-"Marisol Barela Lozano",16613606,7,marisol224@edubus.ceele,9L5NzqOqS,Marisollozano,"+56 2 7346 7242",607
 "Anita Hidalgo Montañez",4082104,0,anhimo@outluc.ceele,4roAPr4Yov7MF,Anitamontañez,+56-2-5984-3565,1330
 "Cristobal Cardona Quintanilla",18334908,2,cristobal7737@viajesanma.com,xAVUmiaZl3q37n,cristobal7740,"+56 9 0307 9562",4919
 "Benjamín Becerra Naranjo",13867027,9,BenjamOAnnaranjo@outluc.com,mVLQUp61CXkvw,Benjamínnaranjo,"+56 9 6444 6923",5238
@@ -2458,7 +2425,7 @@ x,16358681,x,crolna@wass.ceele,ztoL9La8bxLiT,Cristinanava,x,6202
 "María Elena Villagómez Griego",26275234,8,MarOAagriego@edubus.cal,i1TfpgqCiF4HijN,Maríagriego,"+56 9 6936 1985",5532
 "Clara Luevano Farías",4924718,4,ClarafarOAas@wass.com,C5IpJFqVCB2C,Clarafarías,"+56 2 0090 0347",1488
 "Arturo Vélez Adorno",16332607,8,arturo9638@outluc.com,UrQA79ANYc,Arturoadorno,"+56 9 0594 8940",254
-"Graciela Nieto Espinoza",13970082,x,grnies@marmol.ceele,MxBDykj66TyP,Gracielaespinoza,x,x
+"Graciela Nieto Espinoza",13970082,1,grnies@marmol.ceele,MxBDykj66TyP,Gracielaespinoza,"+56 2 0821 2147",186
 "Débora Chapa Delarosa",9317316,3,DOoboradelarosa@marmol.com,yivQO0qU6,Déboradelarosa,"+56 9 9219 1479",6546
 "Sr. Ariadna Barela Razo",14399214,4,srarbara@marmol.com,aOqQkqRJ6,Sr.razo,"+56 9 4209 5241",764
 x,4291583,1,vicente9725@edubus.ceele,x,x,"+56 9 5105 0897",x
@@ -2467,7 +2434,7 @@ x,4291583,1,vicente9725@edubus.ceele,x,x,"+56 9 5105 0897",x
 "Irene Tapia Urrutia",13461735,7,irtaur@tourket.com,lGvsc1c1v9IDI,irene8534,"+56 2 7230 6854",6679
 "Lilia Villalobos Urías",28621979,9,liviur@viajesanma.com,u4M0C73PpQ,Liliaurías,"+56 2 1687 9767",1946
 "Leticia Otero Avilés",19403273,0,LeticiaavilOos@marmol.com,1mizYw2JVZlnEkv5,leotav,"+56 9 2503 0355",440
-"Sta. Carlota Valadez Merino",29420658,2,Sta.merino@wass.com,x,stcavame,x,1866
+"Sta. Carlota Valadez Merino",29420658,2,Sta.merino@wass.com,jXv84leXUEkba,stcavame,"+56 2 4735 3645",1866
 "José Eduardo Fajardo Tapia",28045120,7,JosOotapia@marmol.com,8iz8XCRhrASEqm,josé3049,"+56 9 3657 2770",5172
 "Sancho Piña Brito",19393479,0,sancho4599@viajesanma.com,FcLImU429niLe8Ho,sapibr,"+56 2 3889 1965",1159
 "Federico León Aranda",222000,8,federico9124@tourket.com,AHoAG9M3EMNh,Federicoaranda,"+56 9 0586 7026",9302
@@ -2479,7 +2446,6 @@ x,4291583,1,vicente9725@edubus.ceele,x,x,"+56 9 5105 0897",x
 "Victoria Escalante Fajardo",15251929,0,viesfa@marmol.com,kT4gxIHwT,victoria8084,"+56 2 8831 4852",995
 "Federico Ramírez Leyva",25913645,8,ferale@tourket.com,4Wo0JEYtpjDui,Federicoleyva,"+56 9 6387 8968",6471
 "Daniela Cortés Valladares",10126269,3,daniela9491@marmol.com,Dg4RJrzMZuzqT,Danielavalladares,"+56 2 8205 9195",5202
-x,29499994,x,hugo2205@outluc.ceele,tYCc41PR6,humopo,"+56 9 4593 6456",5576
 "Pablo Cortez Leal",10486970,0,pacole@wass.com,Lkhy7kjuNA,pablo3091,"+56 9 0136 1964",6572
 x,211230,2,antonia8257@viajesanma.com,Lor8ZUID1dGggH,anurca,x,x
 "Antonia Uribe Carrasquillo",211230,2,antonia8257@viajesanma.ceele,Lor8ZUID1dGggH,anurca,"+56 9 8667 6021",7553
@@ -2502,9 +2468,10 @@ x,211230,2,antonia8257@viajesanma.com,Lor8ZUID1dGggH,anurca,x,x
 "Sra. Débora Barraza Salcedo",3814473,1,sra.6218@marmol.com,VGfiDlps6i,srdébasa,"+56 2 8265 8646",7896
 "Jerónimo Pichardo Casanova",4385442,9,jerOInimo3623@wass.com,WSChTd0Mo,jepica,"+56 9 9886 4555",5855
 "María Ojeda Chapa",18951189,2,maojch@marmol.ceele,aeXwHI0AbH0Vq,maojch,+56-9-5918-8785,8800
-"María Ojeda Chapa",18951189,x,maojch@marmol.com,aeXwHI0AbH0Vq,maojch,x,8800
+"María Ojeda Chapa",18951189,2,maojch@marmol.com,aeXwHI0AbH0Vq,maojch,"+56 9 5918 8785",8800
 "Rosalia Cervantes Vanegas",28084105,6,rosalia5450@outluc.com,9W9N42A4tggqUhA,rosalia5283,"+56 9 6111 5158",399
 "Diana Saldivar Roybal",26741114,0,Dianaroybal@wass.com,JPbiK805XmNWb3vB,Dianaroybal,+56-9-6364-5867,8645
+"Lola Arredondo Crespo",27491206,5,loarcr@wass.com,jZuM0FB340,Lolacrespo,+56-2-9312-9236,962
 "Cristobal Flores Madera",19945492,7,Cristobalmadera@outluc.com,g9LsXf8Cpz,cristobal2906,"+56 2 5659 0612",5115
 "Anita Espinoza Rael",8824079,0,anita4083@edubus.ceele,iy2KWeCxN1g,anita2212,+56-2-1637-3149,907
 "José Eduardo Castro Curiel",5926278,5,josOo4134@edubus.ceele,7BV7qN3F,joedcacu,+56-9-3043-5131,3419
@@ -2514,7 +2481,6 @@ x,211230,2,antonia8257@viajesanma.com,Lor8ZUID1dGggH,anurca,x,x
 "Sra. Olivia Paz Saldivar",3946686,4,Sra.saldivar@wass.com,gb83Ua7Xd1A3BP2e,sra.6196,"+56 9 7471 0157",6782
 "Marilu Amaya Prieto",13061103,6,maampr@wass.com,DvWv2QIWF05j,marilu7295,+56-9-6138-8096,536
 "Sofia Archuleta Solís",6550311,5,SofiasolOAs@tourket.com,s39srhbY,Sofiasolís,+56-9-1686-8866,9638
-"Federico Ramírez Leyva",25913645,8,ferale@tourket.ceele,4Wo0JEYtpjDui,Federicoleyva,+56-9-6387-8968,6471
 "Sta. Rafael Gracia Santiago",18016640,8,sta.1250@marmol.com,0fKZeq2gZA0Z,Sta.santiago,"+56 2 2108 2873",8007
 "Dorotea Rodríguez Mesa",22225419,1,Doroteamesa@marmol.com,q5GobVvL0,Doroteamesa,"+56 9 3115 1290",932
 "Manuel Dávila Barela",13379622,3,Manuelbarela@outluc.com,t9fr41QTt,manuel9409,"+56 9 0369 6493",5313
@@ -2536,7 +2502,7 @@ x,211230,2,antonia8257@viajesanma.com,Lor8ZUID1dGggH,anurca,x,x
 "Sta. María Luisa Zarate Olivo",29705999,8,stmaluzaol@wass.com,LWWUBmv3Ym574p0O,Sta.olivo,"+56 2 4122 6325",298
 "Gilberto Jurado Palomino",26364256,2,Gilbertopalomino@edubus.cal,fYP7nokbfgEUc,gijupa,"+56 9 2837 8264",5846
 "Sta. Anita Ríos Alba",13194696,1,Sta.alba@viajesanma.com,n2NS1wWWw,sta.1535,"+56 9 1902 1669",7581
-"César Villareal Acuña",3468428,x,cOoviac@edubus.cal,x,x,"+56 2 4786 5888",4632
+"César Villareal Acuña",3468428,6,cOoviac@edubus.cal,hI4dRY9xqWzLtycd,Césaracuña,"+56 2 4786 5888",4632
 "Silvia Garza Montenegro",21936384,2,sigamo@tourket.com,crDGL03ss6Eviee,silvia1930,"+56 9 9799 3648",3577
 "Julio Sáenz Molina",26038480,5,jusOemo@tourket.com,95ywiLry,Juliomolina,"+56 9 6839 5038",879
 "Dorotea Macías Abrego",25504106,1,dorotea5067@wass.com,ZOvVjhjcWL9uO,Doroteaabrego,+56-9-8783-0951,6046
@@ -2562,7 +2528,7 @@ x,211230,2,antonia8257@viajesanma.com,Lor8ZUID1dGggH,anurca,x,x
 "Vicente Guerra Aguirre",19317743,3,Vicenteaguirre@marmol.ceele,RuJ5ueLrcHIY1,vicente7554,"+56 2 1185 7468",5627
 "Vicente Guerra Aguirre",19317743,3,Vicenteaguirre@marmol.com,RuJ5ueLrcHIY1,vicente7554,"+56 2 1185 7468",5627
 "Sra. Eva Bernal Guajardo",6792855,5,srevbegu@viajesanma.com,1SpfIDcXD,srevbegu,+56-9-1793-9163,4052
-"Sta. Andrés Nava Saavedra",4274604,x,sta.6887@outluc.com,x,sta.6608,x,1198
+"Sta. Andrés Nava Saavedra",4274604,5,sta.6887@outluc.com,yaUC9ghX286,sta.6608,"+56 9 0805 8045",1198
 "Mariana Galindo Jimínez",16546952,6,mariana8692@tourket.com,IrBXN4Vu7,mariana3345,"+56 2 1482 4342",9555
 "María Elena Velasco Chacón",21939140,4,MarOAachacOIn@outluc.ceele,FgkFCaeg4e0sQ7Z,maelvech,"+56 2 4531 9897",5849
 "Sta. Mariano Hernández Domínquez",6453914,0,stmahedo@tourket.ceele,MfntMVqwA4G,sta.6893,"+56 2 5056 1026",7932
@@ -2597,6 +2563,7 @@ x,211230,2,antonia8257@viajesanma.com,Lor8ZUID1dGggH,anurca,x,x
 "Horacio Romero Zavala",6126398,5,Horaciozavala@outluc.com,s749v7RscQyg0cxK,horacio8182,"+56 2 5598 6720",9757
 "Daniel Meléndez Ayala",16506712,6,dameay@tourket.com,Gokt5iizCeHvaC,daniel6809,"+56 2 7805 2764",3168
 "Jorge Luis Bonilla Bueno",23631300,0,jolubobu@tourket.com,m4R4ehgphnp,jolubobu,"+56 9 9553 7840",5065
+"Gustavo Rico Arreola",24471908,2,Gustavoarreola@marmol.com,yUSnkE70wupZOhg,guriar,+56-9-5915-0402,1004
 "Rosalia Esquibel Velasco",11853121,3,rosalia7926@viajesanma.com,UyudB95Vlw3J,rosalia3189,"+56 9 6136 5452",9115
 "Lorena Méndez Hernández",9849873,7,lorena8133@marmol.com,vTwVMpzFp8Nj,loméhe,"+56 2 6020 2942",2530
 "Lucia Cintrón Tejeda",18825669,4,lucite@viajesanma.ceele,hBneYly3BJl,Luciatejeda,"+56 9 4201 7199",1693
@@ -2607,6 +2574,7 @@ x,211230,2,antonia8257@viajesanma.com,Lor8ZUID1dGggH,anurca,x,x
 "Ana María Dueñas Armas",3918605,5,ana6821@tourket.com,5x46En3L1,ana9206,"+56 9 1195 2042",7309
 "María Oquendo Bustamante",5380018,1,maoqbu@tourket.com,8jlYZpsx,Maríabustamante,+56-2-6371-8385,1649
 "Jerónimo Carreón Zúñiga",29209709,3,jecazOU@outluc.com,RHiWVpksJR7v9,jecazú,"+56 9 1730 1148",2969
+"Sr. Conchita Cornejo Contreras",13155675,6,Sr.contreras@tourket.ceele,JZ2oYQ1OEhDvsm,Sr.contreras,"+56 9 1229 7541",5674
 "Lilia Alcala Quiñones",3437935,1,lilia5102@viajesanma.com,2xzwdstSGER3,lialqu,"+56 9 2268 9247",2247
 "Lilia Alcala Quiñones",3437935,1,lilia5102@viajesanma.ceele,2xzwdstSGER3,lialqu,"+56 9 2268 9247",2247
 "Lucas Fernández Samaniego",7444408,3,lufesa@edubus.cal,h810wpVgQrM,lufesa,"+56 2 1067 3787",3039
@@ -2616,7 +2584,7 @@ x,211230,2,antonia8257@viajesanma.com,Lor8ZUID1dGggH,anurca,x,x
 "Claudia Carbajal Crespo",5463890,6,Claudiacrespo@tourket.com,vSE80tbwxk,Claudiacrespo,"+56 9 6301 9609",2559
 "Sta. Rafael Lira Palacios",18014776,4,Sta.palacios@viajesanma.com,0zzGiJhEA,sta.963,"+56 9 8975 7594",4399
 "Sr. Norma Menchaca Montero",26471721,3,sr.5243@wass.com,xTCJxEnzv81e8Et,srnomemo,"+56 9 1566 2104",4891
-"Carlota Padilla Martínez",15526704,6,capama@edubus.cal,x,Carlotamartínez,x,9573
+"Carlota Padilla Martínez",15526704,6,capama@edubus.cal,4Zr9TkN7wpII,Carlotamartínez,+56-2-1009-5221,9573
 "Andrés Quintanilla Romero",16533700,0,anquro@wass.com,VH9zkKtNgMcSWuAg,Andrésromero,"+56 9 9194 4124",4747
 "Sr. Concepción Gaitán Ortega",14586243,4,sr.1390@wass.com,3Casv0oFG,sr.6897,+56-9-7533-8653,1349
 "Pilar Laboy Peña",15833745,2,pilar7883@marmol.com,R9gv3KRr49iC,pilape,"+56 9 1486 7198",2487
@@ -2645,6 +2613,7 @@ x,211230,2,antonia8257@viajesanma.com,Lor8ZUID1dGggH,anurca,x,x
 "Sra. Eloisa Griego Tejada",27959362,6,sra.4386@wass.ceele,5w1xpMi62N1lxj,srelgrte,"+56 2 9760 8707",5381
 "Gabriela Tejada Hurtado",3420397,0,Gabrielahurtado@marmol.ceele,YmY2ccSudPd1F85,gabriela8791,+56-9-7186-0668,9698
 "David Alvarado Urías",13089095,4,DavidurOAas@marmol.ceele,Bme5X19hsI3,Davidurías,+56-2-7920-1234,4615
+"Lola Espinosa Solís",5378220,5,loesso@wass.ceele,MDVW7kfTZxKt0,Lolasolís,"+56 9 2331 8575",839
 "Ana Luisa Brito Aranda",6406338,3,ana6466@edubus.cal,i48ChGt7RleZMet9,Anaaranda,"+56 9 1466 4440",5479
 "Julia Partida Velázquez",7208947,2,jupave@wass.com,qSeIZK5Fdigq,julia7156,"+56 2 0697 4605",8407
 "Guadalupe Arenas Guillen",10975351,3,guadalupe2986@tourket.com,4B9wyqnhGeZRKWLj,guadalupe9292,"+56 9 3887 6543",8841
@@ -2674,6 +2643,7 @@ x,211230,2,antonia8257@viajesanma.com,Lor8ZUID1dGggH,anurca,x,x
 "Alicia García Piña",28504999,7,algapi@tourket.ceele,bcq2UTkOJZH,alicia1134,"+56 9 7392 1955",1315
 "Reina Santacruz Vargas",23160343,3,Reinavargas@viajesanma.com,pvrMYmmcX1HE,resava,"+56 9 5431 9762",9766
 "Sta. Luis Miguel Cordero Guevara",2709982,3,sta.6416@marmol.com,VNPV6rpSri,stlumicogu,"+56 2 9922 2154",1813
+"Joaquín de Jesús Valles",7427449,8,joaquOAn4604@edubus.cal,w8xPQXmP,jodejeva,+56-2-1022-1389,4849
 "Lorena Montenegro López",22737801,8,LorenalOIpez@marmol.com,myxcINSDybS3XmEZ,lorena3404,"+56 2 1990 7400",8199
 "Juana Gallardo Godoy",27010089,9,Juanagodoy@tourket.com,nlMkf3D8M3jwfHpX,Juanagodoy,"+56 2 4828 4114",2247
 "Sra. Homero Solorzano Mateo",7842858,9,srhosoma@outluc.com,58cKlxRmEfRPIRGk,Sra.mateo,"+56 9 5455 7793",7587
@@ -2722,10 +2692,9 @@ x,22096309,8,miguel8702@viajesanma.ceele,iqtsK0dXxP71,x,x,x
 "Mónica Ruelas Cortés",10291473,2,mOIruco@tourket.ceele,1zRN2NkcK,móruco,"+56 2 8583 1713",8698
 "Sra. Carlos Nieves Villagómez",1584851,0,Sra.villagOImez@viajesanma.com,ax5LY0TEz6b,srcanivi,"+56 2 7769 1868",221
 "Sta. Jaime Pantoja Narváez",29645428,1,stjapana@wass.com,9hY49yKZeKMIql4,sta.5657,"+56 2 2946 4299",4441
-"Débora Polanco Hinojosa",16569316,x,DOoborahinojosa@viajesanma.ceele,9DuVN1VUecd,x,+56-9-2088-5676,5333
 "Mercedes Mata Chacón",26438941,0,memach@viajesanma.com,if9tZD4DAVHKENYL,memach,"+56 2 1996 9168",508
 "Margarita Navarro Chacón",4685891,3,margarita6098@wass.com,exK1Uiz3u8yxy7,manach,"+56 2 9875 3721",1798
-"Francisco Pulido Prieto",6756408,x,Franciscoprieto@tourket.com,Lmo22HdGJduZ5a,frpupr,"+56 9 3974 6172",x
+"Francisco Pulido Prieto",6756408,1,Franciscoprieto@tourket.com,Lmo22HdGJduZ5a,frpupr,"+56 9 3974 6172",6716
 "Isabel Aponte Nevárez",14453820,0,IsabelnevOerez@tourket.com,jQxdr6iDQgBJeS,isabel686,"+56 2 0846 1270",8075
 "Ángela Carvajal Bueno",3906512,6,Oengela9719@marmol.ceele,NjGp2MzQ3VINPo4,ángela9465,"+56 2 5683 2398",1003
 "Sr. Adán Cantú Noriega",1790934,7,sradcano@outluc.com,LvnHcoBQnHz7nzK,Sr.noriega,"+56 2 0445 4180",1155
@@ -2759,7 +2728,7 @@ x,22096309,8,miguel8702@viajesanma.ceele,iqtsK0dXxP71,x,x,x
 "Cristian Leyva Zavala",2485229,6,cristian2514@viajesanma.com,tzi00AhQTY,crleza,"+56 9 1631 7710",6648
 "Felipe Gamez Saldivar",19150549,2,felipe8330@outluc.com,8nySHel6,Felipesaldivar,"+56 2 4604 9957",1126
 "Sta. Virginia Alcala Contreras",11899696,8,sta.7238@marmol.com,VVAQZN4m,sta.1753,"+56 2 5778 7830",5957
-"Sta. Virginia Alcala Contreras",11899696,x,sta.7238@marmol.ceele,VVAQZN4m,sta.1753,"+56 2 5778 7830",x
+"Sta. Virginia Alcala Contreras",11899696,8,sta.7238@marmol.ceele,VVAQZN4m,sta.1753,"+56 2 5778 7830",5957
 "Jesús Rivero Anguiano",15965843,0,JesOUsanguiano@wass.ceele,2BTSBEjx8Jk6j4DR,jerian,"+56 9 6145 9254",875
 "Jesús Rivero Anguiano",15965843,0,JesOUsanguiano@wass.com,2BTSBEjx8Jk6j4DR,jerian,"+56 9 6145 9254",875
 "Gregorio Lucero Madrigal",3720799,3,grluma@viajesanma.ceele,2aSviFzc4yB,grluma,+56-2-5946-0510,2005
@@ -2796,7 +2765,6 @@ x,22096309,8,miguel8702@viajesanma.ceele,iqtsK0dXxP71,x,x,x
 "Sancho Alemán Sauceda",4504250,2,sancho2572@marmol.com,A63Q0NhqaQfWnJG,sancho1053,"+56 9 5795 2166",4582
 "Blanca Quiñónez Ávila",26194200,3,BlancaOevila@edubus.ceele,XdUg7DWlm97NJkp,Blancaávila,"+56 9 2706 5278",2122
 "Blanca Quiñónez Ávila",26194200,3,BlancaOevila@edubus.cal,XdUg7DWlm97NJkp,Blancaávila,"+56 9 2706 5278",2122
-"Alberto Frías Gaitán",4098846,7,AlbertogaitOen@outluc.ceele,Eh484WYgHwyf,alfrga,"+56 9 6508 3119",2923
 "Gabriel Rangel Correa",4200457,0,Gabrielcorrea@tourket.com,OtTiqlnzA3,gabriel9733,"+56 2 2951 1357",4621
 "Jaime Toledo Quintanilla",5599540,0,jaime7463@marmol.ceele,or2YgUTbKTBQ,Jaimequintanilla,+56-9-5979-3265,7368
 "Jaime Toledo Quintanilla",5599540,0,jaime7463@marmol.com,or2YgUTbKTBQ,Jaimequintanilla,"+56 9 5979 3265",7368
@@ -2829,7 +2797,7 @@ x,22096309,8,miguel8702@viajesanma.ceele,iqtsK0dXxP71,x,x,x
 "Miguel Palomo Dávila",22778786,4,mipadOe@tourket.com,E7WaJAlMA7PdmIAa,miguel2335,"+56 2 5676 0288",9316
 "Jacobo Sánchez Limón",5593956,0,jacobo2203@tourket.ceele,12vnLdmmBd0,jacobo1466,"+56 9 2576 3011",4237
 "Sta. Francisca Rubio Molina",10560903,5,Sta.molina@marmol.com,4Q3U61PVtRar,sta.967,"+56 9 8540 4792",1286
-"Sr. Manuel Aponte Carrasquillo",28541682,x,sr.776@wass.com,x,sr.3125,x,2725
+"Sr. Manuel Aponte Carrasquillo",28541682,5,sr.776@wass.com,rBtVtKiTXr4,sr.3125,"+56 9 3123 0734",2725
 "Sara Ceja Segura",26723647,0,sara421@outluc.ceele,ch6DbYx2nKAT9O6,Sarasegura,+56-9-9133-1336,1383
 "Sta. Federico Loera Pacheco",8686155,0,Sta.pacheco@viajesanma.com,5Pu42GbqZuqOR2vZ,stfelopa,+56-2-7812-5852,3052
 "María Teresa Valdés Salinas",4842202,0,matevasa@viajesanma.com,4PbJwo42qGhAnt8,Maríasalinas,"+56 2 1840 5909",9619
@@ -2859,13 +2827,14 @@ x,22096309,8,miguel8702@viajesanma.ceele,iqtsK0dXxP71,x,x,x
 "Tomás Feliciano Granado",1557665,0,TomOesgranado@outluc.com,CrUv9KoEB2qb,Tomásgranado,"+56 9 7521 2381",1580
 "Adán Perea Peralta",24648682,4,adOen425@edubus.ceele,H01xKYZjNnbkQGxg,adpepe,"+56 2 9398 1431",5398
 "Germán Ortega Uribe",24157668,0,germOen5650@marmol.com,Hs8VooGrvhevd,georur,"+56 9 2077 3655",1769
-"Ramona Gracia Granados",9983870,1,Ramonagranados@tourket.com,nE7VBVNYf83,ramona2064,"+56 9 5990 2675",6524
 "Ramona Gracia Granados",9983870,1,Ramonagranados@tourket.ceele,nE7VBVNYf83,ramona2064,+56-9-5990-2675,6524
+"Ramona Gracia Granados",9983870,1,Ramonagranados@tourket.com,nE7VBVNYf83,ramona2064,"+56 9 5990 2675",6524
 "Sr. Carlos Esquibel Beltrán",14414749,9,sr.5702@wass.com,sx25LlR5vmzqjl,sr.7936,"+56 9 8202 3179",2576
 "Virginia Carreón Bustamante",19731012,0,Virginiabustamante@edubus.ceele,vorsaWpoFEaL89jd,vicabu,"+56 9 1663 7110",1550
 "Esperanza Gaona Salcedo",15377456,0,esgasa@outluc.com,fc1hOxRg5kEZmTyP,esgasa,"+56 2 9759 6619",9419
 "Caridad Benítez Lerma",7332060,7,caridad7957@edubus.cal,iv1nwHkqIc2hr6ms,Caridadlerma,"+56 2 9847 2624",861
-"Catalina Guardado Menchaca",24926611,x,Catalinamenchaca@tourket.com,Vwi3otfEOMPgyjH,Catalinamenchaca,"+56 9 2383 1514",5017
+"Catalina Guardado Menchaca",24926611,6,Catalinamenchaca@tourket.com,Vwi3otfEOMPgyjH,Catalinamenchaca,"+56 9 2383 1514",5017
+"Raquel Romero Prieto",1699603,3,raquel4508@edubus.cal,ZFeN5eHsJ,Raquelprieto,+56-2-9642-0585,7679
 "Andrés Becerra Rocha",29088212,5,andrOos229@edubus.cal,Tn1vcWFpn2,anbero,"+56 9 1025 3723",3929
 "Alejandro Villalpando Sierra",8834765,0,alvisi@viajesanma.com,D9oGTJ09SXfjT,Alejandrosierra,"+56 2 1127 1159",4880
 "Alejandro Villalpando Sierra",8834765,0,alvisi@viajesanma.ceele,D9oGTJ09SXfjT,Alejandrosierra,"+56 2 1127 1159",4880
@@ -2884,7 +2853,7 @@ x,22096309,8,miguel8702@viajesanma.ceele,iqtsK0dXxP71,x,x,x
 "Lucia Marín Fernández",28783796,8,lumafe@outluc.com,qHUYImrhxr5NIFh,lucia9831,"+56 2 4464 5022",2072
 "Lourdes Loera Alejandro",9593949,0,lourdes8415@tourket.com,UgsUYkx6,loloal,"+56 2 0961 6719",7495
 "Isabel Mora Toledo",20202660,5,Isabeltoledo@viajesanma.com,72fKgpPUc,isabel9635,"+56 9 4023 8641",3846
-x,23191746,x,TomOescordero@outluc.ceele,x,x,+56-2-6733-7872,3552
+"Tomás Pineda Cordero",23191746,2,TomOescordero@outluc.ceele,n9diF6cZ6ukGAmIs,topico,+56-2-6733-7872,3552
 "Sr. Mayte Tafoya Sisneros",6486434,3,srmatasi@wass.com,h623oPsY6s5FJ,sr.3983,"+56 9 4691 0253",1603
 "Sra. Esteban Bustos Salazar",13681689,6,Sra.salazar@tourket.com,cxXY6WA54dp6,Sra.salazar,"+56 2 9340 5395",3810
 "Sra. Elsa Fierro Apodaca",4218524,8,Sra.apodaca@wass.ceele,7SouAsQM,sra.8183,+56-2-1680-3946,2866
@@ -2897,7 +2866,6 @@ x,23191746,x,TomOescordero@outluc.ceele,x,x,+56-2-6733-7872,3552
 "Ignacio Mendoza Chavarría",24605749,4,ignacio7182@outluc.com,X16nUYevaGClYN0,ignacio7711,"+56 2 2202 5449",8503
 "Elvira Tirado Córdova",9691461,0,elvira7976@tourket.com,8SYzPlrg62wHO,elvira999,"+56 2 0586 3943",9383
 "Norma Jurado Tijerina",14674574,1,norma3957@outluc.com,A5kHvCk8kUQ,Normatijerina,"+56 2 0932 5424",6088
-x,14674574,1,norma3957@outluc.ceele,x,Normatijerina,"+56 2 0932 5424",x
 "Benito Gamboa Vanegas",28324076,2,Benitovanegas@tourket.com,QOT2fZnOH26,Benitovanegas,"+56 2 6397 4049",6819
 "Cristobal Saiz Sanabria",13320881,0,crsasa@wass.com,c93ywYZlj4weP5WK,Cristobalsanabria,"+56 2 6925 6339",7140
 "Sr. Yolanda Quintero Polanco",8449061,0,sryoqupo@marmol.ceele,4DVHMV9wvWt2V3FK,Sr.polanco,"+56 2 6307 4194",7319
@@ -2910,9 +2878,8 @@ x,14674574,1,norma3957@outluc.ceele,x,Normatijerina,"+56 2 0932 5424",x
 "Julio Rosas Saldivar",15208023,9,jurosa@edubus.cal,ui76qPJe,Juliosaldivar,"+56 2 3787 7359",4748
 "Antonio Archuleta Ruiz",9053339,8,anarru@edubus.ceele,GskyF3L3,anarru,+56-2-4653-6373,3534
 "Antonio Archuleta Ruiz",9053339,8,anarru@edubus.cal,GskyF3L3,anarru,"+56 2 4653 6373",3534
-x,17290096,8,beongr@tourket.com,iDppU0QmvUMe,x,"+56 2 4067 6475",6093
+"Beatriz Ontiveros Griego",17290096,8,beongr@tourket.com,iDppU0QmvUMe,beatriz3022,"+56 2 4067 6475",6093
 "Silvia Arroyo Garza",4579379,6,silvia337@wass.com,QQu40qqPtgv,silvia1996,"+56 9 7093 2323",9378
-"David Sanches Vallejo",23785012,2,dasava@viajesanma.ceele,G9eiN1S4Q,x,x,7403
 "Sr. Ángela Pineda Hernández",8053275,0,srOenpihe@tourket.com,4HYJcAufk04uVQr,Sr.hernández,"+56 9 7795 4376",1484
 "Julio Polanco Pagan",26922176,3,julio7265@marmol.com,bMeuRgkxo16c,julio2253,"+56 9 8043 0020",8819
 "María Luisa Soto Gallardo",23894523,2,malusoga@tourket.com,7XM9tlKMdxQf,maría1439,"+56 9 7456 0029",3816
@@ -2928,7 +2895,7 @@ x,17290096,8,beongr@tourket.com,iDppU0QmvUMe,x,"+56 2 4067 6475",6093
 "Benjamín Pagan Jáquez",3249103,0,BenjamOAnjOequez@tourket.com,8SgiVN48,Benjamínjáquez,"+56 2 1089 8363",5017
 "Hugo Medrano Villanueva",24004892,2,hugo4067@edubus.cal,YntAPW82oo,humevi,"+56 2 9535 0488",5506
 "David Quiñónez Hernández",12248420,3,david9201@wass.com,u2pp69QRVN4,daquhe,"+56 2 4179 4543",9372
-x,4885336,x,adOen5116@marmol.com,F1p39nxT3kcrmrZ,adgoca,+56-9-1172-0187,x
+"Adán Gonzales Cadena",4885336,6,adOen5116@marmol.com,F1p39nxT3kcrmrZ,adgoca,"+56 9 1172 0187",4032
 "Sra. Lourdes Longoria Téllez",27433169,0,sra.7502@edubus.ceele,KmS7KFsC4Fg6Wtq,Sra.téllez,"+56 2 4498 4837",7993
 "Sta. José Luis Quezada Alva",9455680,5,sta.2537@viajesanma.com,ZBV9zLf51,stjoluqual,"+56 2 8099 0172",2954
 "Mónica Espinoza Barraza",20488329,7,MOInicabarraza@outluc.com,hsH1wGXutV1pZ,Mónicabarraza,"+56 2 4985 1489",9682
@@ -2957,7 +2924,6 @@ x,4885336,x,adOen5116@marmol.com,F1p39nxT3kcrmrZ,adgoca,+56-9-1172-0187,x
 "Vicente Ulibarri Madrid",12735427,8,vicente8448@tourket.com,fjicbBh20oih8sW,vicente9694,"+56 2 2209 0818",7953
 "Homero Velásquez Juárez",11893388,5,HomerojuOerez@tourket.com,X3AFe5oy,Homerojuárez,"+56 2 1054 9235",5533
 "Sta. Magdalena Esparza Sosa",25768840,2,Sta.sosa@viajesanma.com,TI8Mm6DIYcDeB,Sta.sosa,"+56 9 3118 7273",3588
-"Rodrigo Gamboa Moya",1579405,x,rogamo@wass.com,eX4xtRItIR9b5,rodrigo1720,x,7202
 "Gustavo Grijalva Blanco",27066072,0,gugrbl@marmol.com,ar49Tnel6,gustavo1585,"+56 9 9960 0871",4147
 "María Eugenia Ruelas Cortés",27325360,2,marOAa8801@viajesanma.com,utl5VcMA9W0k,maeuruco,"+56 2 8199 2588",8285
 "Sancho Corral Grijalva",15695071,8,Sanchogrijalva@wass.ceele,4FpjEN0w2,Sanchogrijalva,"+56 9 1762 3200",8834
@@ -2987,17 +2953,15 @@ x,4885336,x,adOen5116@marmol.com,F1p39nxT3kcrmrZ,adgoca,+56-9-1172-0187,x
 "Mayte Limón Serna",26047745,5,mayte8591@tourket.com,70BkxkSvGP3F,malise,"+56 9 5847 6972",1935
 "Débora Hernández Cedillo",28197202,2,DOoboracedillo@tourket.com,n6fBj2Q4PjM9M2W,débora5983,"+56 2 3141 0986",4836
 "Antonia Cintrón Briones",24146395,8,ancibr@marmol.ceele,mZU5l8px9CRlukG,antonia747,"+56 9 9441 6501",5921
-x,4627064,x,Andreagurule@edubus.cal,x,Andreagurule,"+56 2 5557 8329",4635
+"Andrea Osorio Gurule",4627064,9,Andreagurule@edubus.cal,M2dNhZs7s02OgGy7,Andreagurule,"+56 2 5557 8329",4635
 "Jorge Zavala Cardenas",27554751,4,jorge1960@tourket.com,gc6XDkt51lM9s9,jorge7895,"+56 2 2055 5395",9579
 "Sta. Ramón Mota Rodríquez",11683212,7,Sta.rodrOAquez@wass.ceele,Bt55VhvEnrg,stramoro,"+56 9 9057 8091",8320
 "Sra. Benito Segura Barela",29453953,0,sra.6037@edubus.cal,14OPP19Yhl3clWk,Sra.barela,"+56 9 3192 0480",9837
 "Raquel González Quiroz",2903516,4,ragoqu@edubus.cal,tSU3AO6alQMP97t,Raquelquiroz,+56-2-1718-8172,1836
 "Teodoro Niño Esparza",18618168,9,teodoro1724@viajesanma.com,lrJOHhj4,teodoro3170,"+56 2 8362 7506",8859
-"Raquel González Quiroz",2903516,x,ragoqu@edubus.ceele,x,Raquelquiroz,"+56 2 1718 8172",x
 "Dolores Collado de Jesús",21727530,0,DoloresjesOUs@wass.com,h4sXlwThG,Doloresjesús,"+56 9 9222 2109",9953
 "Benito Gallegos Ledesma",17718202,8,Benitoledesma@wass.com,zWVijC0T2lwVs3cK,begale,"+56 9 7830 5224",3074
 "Silvia Garica Cavazos",8661617,3,silvia6519@wass.ceele,HfZ6JUDhG,Silviacavazos,"+56 9 8828 5709",1007
-"Isabel Tamez Irizarry",14838265,4,istair@wass.ceele,CyipY4bib8,isabel6644,"+56 2 0273 3936",384
 "Esteban Gonzales Quiñónez",2296048,2,esgoqu@edubus.cal,E870ZQosGc8zw4,esteban9066,"+56 9 3398 9254",8895
 "Armando Ortiz Tirado",18258333,2,Armandotirado@viajesanma.com,KF92lCkYW,Armandotirado,"+56 2 2362 3485",6518
 "Marilu Baca Olivares",19704347,4,Mariluolivares@wass.com,MTL00yZdvvP39th,mabaol,"+56 2 0039 0332",6467
@@ -3012,7 +2976,7 @@ x,4627064,x,Andreagurule@edubus.cal,x,Andreagurule,"+56 2 5557 8329",4635
 "Sr. Luis Tejada Sepúlveda",3422729,2,Sr.sepOUlveda@marmol.com,86FxzPoCMyZ7,sr.4039,"+56 9 9386 4489",7435
 "Marta Corrales Estévez",27114564,0,marta7760@marmol.com,rCMNm0Pe,Martaestévez,"+56 9 9400 4740",2910
 "Sra. María José Salinas Aponte",22427108,5,srmajosaap@marmol.com,ERH3odqJtEaoCxC,Sra.aponte,"+56 9 4660 4068",8088
-x,27208221,9,stmaanpOema@edubus.cal,D8osqoESKC1eL1kT,Sta.mascareñas,x,3569
+"Sta. Marco Antonio Páez Mascareñas",27208221,9,stmaanpOema@edubus.cal,D8osqoESKC1eL1kT,Sta.mascareñas,"+56 9 3649 3980",3569
 "Sr. Carlos Montaño Parra",15211709,4,Sr.parra@tourket.com,XkBEek882EMUqN,sr.7388,"+56 9 6135 4629",4387
 "Horacio Haro Páez",28986788,0,HoraciopOeez@edubus.cal,2TmvzTdC5,hohapá,"+56 2 0070 2542",6849
 "Sr. María José Zavala Gurule",18064397,4,srmajozagu@wass.com,MYldKblZEVlwgp6,Sr.gurule,"+56 9 6470 5881",5686
@@ -3041,8 +3005,8 @@ x,27208221,9,stmaanpOema@edubus.cal,D8osqoESKC1eL1kT,Sta.mascareñas,x,3569
 "Sta. Manuela Franco Lira",1543163,6,sta.3635@viajesanma.ceele,zCJ6N09e2nzjTSz,stmafrli,"+56 9 6443 9968",3636
 "Jaime Paredes Nazario",28677552,7,japana@wass.ceele,Gbshp7iZgj2El,japana,"+56 2 6895 1763",1356
 "Jaime Paredes Nazario",28677552,7,japana@wass.com,Gbshp7iZgj2El,japana,"+56 2 6895 1763",1356
-"Maricarmen Véliz Linares",20717965,5,mavOoli@outluc.com,x,maricarmen9357,x,336
-"Barbara Mena Arteaga",7942687,x,Barbaraarteaga@outluc.com,x,x,+56-2-8913-7545,x
+"Maricarmen Véliz Linares",20717965,5,mavOoli@outluc.com,r3KWXzzslhE,maricarmen9357,"+56 9 3406 6365",336
+"Barbara Mena Arteaga",7942687,3,Barbaraarteaga@outluc.com,LhQ0zg0plZj1ZiT3,bamear,"+56 2 8913 7545",4153
 "Leonor Rendón Jáquez",13525594,7,leonor4472@wass.com,4B7XpErrxqq3KaC,leonor297,"+56 2 3626 8297",1502
 "Sra. Agustín Quezada Sisneros",14309495,2,Sra.sisneros@outluc.com,ejXdZc6Nuqz,Sra.sisneros,"+56 9 1372 9158",772
 "Arturo Borrego Batista",26988962,4,arboba@marmol.ceele,t11j8FVetczNATC,Arturobatista,+56-9-3787-7414,8733
@@ -3057,6 +3021,7 @@ x,27208221,9,stmaanpOema@edubus.cal,D8osqoESKC1eL1kT,Sta.mascareñas,x,3569
 "Cecilia Zelaya Castillo",12664252,0,cezeca@edubus.cal,aQkcc47uzTSy,Ceciliacastillo,"+56 2 5265 6506",4063
 "Luis Miguel Ibarra Amador",3697637,3,lumiibam@marmol.ceele,b4sMC9H0J,luis3978,+56-9-7284-1952,4384
 "Sta. Silvia Roque Sanches",734987,4,Sta.sanches@marmol.com,ntdZtQ4mB5R,sta.8722,"+56 9 2986 1381",6343
+"Ana María Ponce Benavides",4975710,7,Anabenavides@edubus.cal,WuFMx1gMZ,anmapobe,"+56 9 4365 2071",7703
 "Ana María Ponce Benavides",4975710,7,Anabenavides@edubus.ceele,WuFMx1gMZ,anmapobe,"+56 9 4365 2071",7703
 "Marilu Quiroz Salazar",29493732,3,marilu8475@marmol.com,l9qrkUTHlaHsAx,Marilusalazar,+56-9-3431-2218,8231
 "Jaime Rodríguez Orosco",14313456,3,jaime6632@marmol.com,z3TYxF26bcP3B,jaime4326,"+56 2 3939 0745",578
@@ -3099,7 +3064,6 @@ x,27208221,9,stmaanpOema@edubus.cal,D8osqoESKC1eL1kT,Sta.mascareñas,x,3569
 "Inés Carmona Romero",3551305,1,inOos4383@edubus.ceele,2WCmunzRTXNQv7,inés3576,"+56 9 7449 7151",9811
 "Manuela Malave Cintrón",5656825,5,manuela7191@viajesanma.com,x,x,x,9596
 "Sofia Escobar Delapaz",26727355,3,soesde@tourket.ceele,HXFa3ypSk,soesde,"+56 9 0244 2577",6756
-"Sra. Gilberto Yáñez Ponce",27444489,4,Sra.ponce@viajesanma.ceele,BXzuT5hBko1Zqm,srgiyápo,+56-2-1034-8725,5019
 "Sra. Gilberto Yáñez Ponce",27444489,4,Sra.ponce@viajesanma.com,BXzuT5hBko1Zqm,srgiyápo,"+56 2 1034 8725",5019
 "Gonzalo Ocasio Castillo",7963398,4,Gonzalocastillo@viajesanma.com,KTOhpFmD3,Gonzalocastillo,"+56 2 4942 9508",7447
 "Jesús Hernández Carrasco",23197036,3,JesOUscarrasco@wass.com,M5Y35RghFRfxE,jeheca,"+56 2 8076 1920",5764
@@ -3131,13 +3095,12 @@ x,27208221,9,stmaanpOema@edubus.cal,D8osqoESKC1eL1kT,Sta.mascareñas,x,3569
 "Alejandro Marrero Terrazas",9384716,4,alejandro3058@marmol.com,ve5fQkMg83kwwD5G,alejandro1335,"+56 2 3801 7115",5077
 "Leticia Bernal Vera",13578310,2,Leticiavera@marmol.com,luqv3TE5zsCKCoWS,lebeve,"+56 9 0290 1300",9931
 "Leticia Bernal Vera",13578310,2,Leticiavera@marmol.ceele,luqv3TE5zsCKCoWS,lebeve,"+56 9 0290 1300",9931
-x,18421739,x,lutero@marmol.ceele,EZUlhoV7,Luzrosado,"+56 2 7237 4901",8274
 "Sra. Barbara Baca Pineda",12856589,2,sra.7455@tourket.com,kgM4Gm1XQn8G,Sra.pineda,"+56 2 8599 1639",4656
 "Mateo Olivares Collado",17545835,2,mateo1138@viajesanma.com,j9ier7UFB3k1b3r,Mateocollado,"+56 9 8364 5555",4625
 "Carmen Guardado Uribe",21927241,3,carmen9329@outluc.com,6aHsD8yovdRiPP,carmen5903,"+56 2 0948 5174",6282
 "Pedro Farías Caraballo",4107110,9,pefaca@viajesanma.ceele,gAPqN0iyAoHBy,pefaca,+56-2-0788-6189,745
 "María Eugenia Armenta Ávila",18365446,2,MarOAaOevila@tourket.ceele,utyyKiascmanI4,maeuaráv,"+56 2 5851 4218",9342
-x,10000980,x,Silviaatencio@edubus.ceele,Fp4LZF1EFSUaVFtC,Silviaatencio,"+56 2 2177 8990",9265
+"Sr. Sofia Solís Cotto",6702689,6,sr.462@marmol.com,e6uZktitWNCz,Sr.cotto,"+56 2 4279 4970",6982
 "Gabriela Polanco Jimínez",6907923,7,gapoji@edubus.cal,Fq5L6yWs1c4Erc,Gabrielajimínez,"+56 2 0563 9355",1111
 "Lorena Lomeli Santacruz",5456495,3,lorena8218@edubus.cal,COokGD8UgVrBA5L,lorena6154,"+56 2 7430 1939",6261
 "Lorena Lomeli Santacruz",5456495,3,lorena8218@edubus.ceele,COokGD8UgVrBA5L,lorena6154,"+56 2 7430 1939",6261
@@ -3228,8 +3191,8 @@ x,10000980,x,Silviaatencio@edubus.ceele,Fp4LZF1EFSUaVFtC,Silviaatencio,"+56 2 21
 "Antonio Araña Vela",11309293,9,antonio2467@edubus.cal,K4Fm6mjaUeZZ,anarve,"+56 9 1758 3278",446
 "Antonio Araña Vela",11309293,9,antonio2467@edubus.ceele,K4Fm6mjaUeZZ,anarve,"+56 9 1758 3278",446
 "Ignacio Rosas Gurule",22384725,0,ignacio5321@edubus.cal,Hoj1u1eo,igrogu,"+56 9 6536 5987",7796
-"Ángela Pérez Sandoval",3271988,0,Oengela1730@tourket.com,1Lo2Y4lYLaiGJ,x,x,5712
-x,13283978,x,srmaguco@outluc.com,x,x,"+56 9 8183 7966",x
+"Ángela Pérez Sandoval",3271988,0,Oengela1730@tourket.com,1Lo2Y4lYLaiGJ,ánpésa,"+56 9 7922 5124",5712
+"Sr. Mayte Gurule Collazo",13283978,6,srmaguco@outluc.com,jc7Jle2G79DQ,Sr.collazo,"+56 9 8183 7966",1239
 "Julio Sosa Corrales",28755096,0,Juliocorrales@edubus.cal,tZ7Yt2HgS6,julio4632,"+56 9 2517 8681",6394
 "Amalia Valverde Pérez",13164050,1,amalia2242@marmol.ceele,eCayFD2I,Amaliapérez,"+56 2 5325 9640",1934
 "Amalia Valverde Pérez",13164050,1,amalia2242@marmol.com,eCayFD2I,Amaliapérez,"+56 2 5325 9640",1934
@@ -3254,7 +3217,6 @@ x,13283978,x,srmaguco@outluc.com,x,x,"+56 9 8183 7966",x
 "Carla Ocasio Coronado",10597401,9,caocco@wass.com,PNiDmN0k6,caocco,"+56 9 9300 4478",5567
 "Sta. José Emilio Jurado Godínez",29398432,8,sta.4587@wass.com,0nQcEVQQgnJne1,stjoemjugo,"+56 2 4096 3150",1694
 "Jacobo Leyva Preciado",17112713,0,jacobo8913@edubus.cal,cDTmKInT1,Jacobopreciado,"+56 2 0724 5334",2872
-x,17112713,x,jacobo8913@edubus.ceele,cDTmKInT1,x,"+56 2 0724 5334",x
 "Victoria Malave Guerra",18600016,1,victoria9853@wass.com,Oa35A3fntquRyW,Victoriaguerra,"+56 9 2786 7342",131
 "Magdalena Tijerina Alva",2915317,5,magdalena8411@edubus.ceele,hJ37gBlBE4,Magdalenaalva,"+56 9 8075 2106",7571
 "María Eugenia Casárez Ulibarri",6598616,7,MarOAaulibarri@marmol.com,m5t7vdm7wmPBO,maría2192,"+56 9 9649 1668",5497
@@ -3288,7 +3250,7 @@ x,17112713,x,jacobo8913@edubus.ceele,cDTmKInT1,x,"+56 2 0724 5334",x
 "Sr. Sergio Montoya Carreón",16529279,0,Sr.carreOIn@tourket.com,4JQGV3guC7ZU,sr.2579,"+56 2 8028 6133",9695
 "Sr. Germán Zamora Polanco",28293012,9,Sr.polanco@marmol.com,QEcXojBDE89n45,Sr.polanco,+56-2-9403-3341,5178
 "Sara Bétancourt Partida",3179346,7,sara1382@edubus.cal,5IAX9uhN,sara3826,"+56 9 2766 5765",5402
-"Mariana Gastélum Henríquez",23378029,x,MarianahenrOAquez@viajesanma.com,x,mariana9479,x,4595
+"Mariana Gastélum Henríquez",23378029,4,MarianahenrOAquez@viajesanma.com,bxbziO8U,mariana9479,"+56 2 4540 6838",4595
 "María Yáñez Carvajal",13180460,1,mayOeca@viajesanma.com,lHIrUO69md5ULIx,maría9811,"+56 2 3722 7495",1418
 "Julio Méndez Urías",12570405,0,JuliourOAas@edubus.cal,z0C1jcLc4GC7BwKI,juméur,"+56 9 4373 2128",7041
 "Luz Varela Benavides",22380015,7,luvabe@edubus.ceele,kZ8Mp4uZ4,luvabe,+56-2-1350-1486,2853
@@ -3350,11 +3312,10 @@ x,17112713,x,jacobo8913@edubus.ceele,cDTmKInT1,x,"+56 2 0724 5334",x
 "Laura Tello Luna",11189192,3,Lauraluna@viajesanma.com,q9fPFsCG,latelu,"+56 9 8940 3214",6710
 "Hugo Perea Mondragón",4666289,0,HugomondragOIn@wass.com,jq4tHWt1x9Y8,Hugomondragón,"+56 9 2123 6084",8613
 "Roberto Esquivel Galván",11610240,4,RobertogalvOen@tourket.com,Jm7UcjjH0n,roberto2374,"+56 9 5022 0549",4370
-"Luis Cortés Alcala",7677871,0,luis4690@marmol.com,p7CplrpWHKASDI5,x,+56-2-1803-1686,x
+"Luis Cortés Alcala",7677871,0,luis4690@marmol.com,p7CplrpWHKASDI5,lucoal,"+56 2 1803 1686",2607
 "Luis Miguel Ulloa Cotto",16482828,0,Luiscotto@edubus.cal,K5cV5PXVvFeB7P,Luiscotto,"+56 9 5224 5065",2740
 "Juana Olivares Saldivar",20342934,7,Juanasaldivar@viajesanma.com,2kOZJNUYKLKiYyc4,juolsa,"+56 9 9630 7504",2672
 "Leticia Sánchez Ríos",9112473,4,lesOerOA@edubus.cal,g8ZwUFyeM,leticia5190,"+56 2 3203 0528",431
-x,2127691,x,srcaolve@outluc.com,qS5qM252,sr.4560,"+56 9 0468 0057",7682
 "Ramón Urrutia Páez",1384311,2,raurpOe@marmol.ceele,t6kIwNYK8,raurpá,"+56 2 5165 5994",6088
 "Ramón Urrutia Páez",1384311,2,raurpOe@marmol.com,t6kIwNYK8,raurpá,"+56 2 5165 5994",6088
 "Martín Luna Ríos",23641104,4,malurOA@edubus.cal,Ebi3uB2Fd,martín4820,"+56 2 7199 3317",6504
@@ -3412,7 +3373,7 @@ x,6519444,9,Elviralozano@tourket.com,qC37N8pnWDxKqE,elvira1172,"+56 9 3269 6851"
 "Sra. Horacio Muñiz Montañez",25444030,2,srhomumo@viajesanma.com,5xoaFDLeJ4,Sra.montañez,"+56 9 6274 3991",9434
 "Alicia Guardado Rojas",3695117,6,alicia3826@wass.com,HcDFeb0frnWg,Aliciarojas,+56-2-6601-7864,2910
 "Reina Guardado Feliciano",2494832,3,Reinafeliciano@viajesanma.com,vag7P6pyAs2uSpbg,reina7395,"+56 2 5814 6146",9977
-x,256726,1,sta.944@wass.com,bQatqNH9L,stanpayb,"+56 9 5704 6343",5228
+"Sta. Andrés Palacios Ybarra",256726,1,sta.944@wass.com,bQatqNH9L,stanpayb,x,x
 "Juan Vanegas Cazares",6344969,5,juvaca@wass.com,oJYRboS34,Juancazares,"+56 9 7989 1613",4108
 "María Pichardo Salazar",28464557,0,marOAa5296@viajesanma.com,ENtDcKDgqXJ4,mapisa,"+56 2 3080 7840",7669
 "Felipe Cantú Fernández",29290081,3,fecafe@marmol.com,umzka7MSUH9BE,fecafe,"+56 9 5919 4468",5033
@@ -3452,7 +3413,6 @@ x,256726,1,sta.944@wass.com,bQatqNH9L,stanpayb,"+56 9 5704 6343",5228
 "Martín Pedroza Banda",18256590,3,MartOAnbanda@tourket.com,1FypSb0jKAy,Martínbanda,"+56 2 8909 0833",1877
 "Tomás Sarabia Cavazos",487668,7,tomOes3229@tourket.ceele,8ePuKDoNa7DfT,tomás114,"+56 2 5367 6319",2813
 "Sta. Marta Gaona Benavides",16753435,0,stmagabe@marmol.com,Yu17A4Np6iNG,stmagabe,"+56 2 5998 7662",9999
-x,15568652,9,Catalinagodoy@edubus.cal,7a8x9t623jW0t,catogo,x,5449
 "Catalina Tovar Godoy",15568652,9,Catalinagodoy@edubus.ceele,7a8x9t623jW0t,catogo,"+56 2 0020 4645",5449
 "Sta. Sara Guzmán Reyna",26882330,1,Sta.reyna@wass.com,lSgls6Kj,sta.3813,"+56 9 3925 2363",9454
 "Sonia Lara Padrón",7922376,0,SoniapadrOIn@tourket.com,JLp0W3fvdhkcqo60,sonia7611,+56-2-8787-1933,5311
@@ -3464,7 +3424,6 @@ x,15568652,9,Catalinagodoy@edubus.cal,7a8x9t623jW0t,catogo,x,5449
 "Mateo Peralta Rivero",26961120,0,mateo8314@tourket.ceele,22l75kGxDEa8o0,Mateorivero,"+56 2 1082 8569",833
 "Sta. Manuel Barreto Madera",21686847,1,sta.4474@edubus.cal,fy1yK5S7CN,stmabama,"+56 9 2696 4689",3173
 "Adela Ortega Dueñas",10058492,1,adela5476@wass.ceele,AGE5JqVDiDye7U5,adordu,"+56 2 9783 6094",8426
-"Elena Solorio Padilla",9588537,3,Elenapadilla@wass.com,JDs3MGm5i0A9,elena7997,"+56 2 4109 3766",5449
 "Julio César Delapaz Pizarro",3051444,0,julio3342@wass.ceele,ymsf9st09k5W,Juliopizarro,"+56 2 0473 9087",8277
 "Julio César Delapaz Pizarro",3051444,0,julio3342@wass.com,ymsf9st09k5W,Juliopizarro,"+56 2 0473 9087",8277
 "Hugo Guerrero Reyna",5564750,0,Hugoreyna@outluc.com,KMg7kc5oBgQ,hugure,"+56 2 3885 0063",9975
@@ -3568,6 +3527,7 @@ x,15568652,9,Catalinagodoy@edubus.cal,7a8x9t623jW0t,catogo,x,5449
 "Enrique Baeza Limón",25698275,7,enbali@edubus.cal,GJre11wpEAC,Enriquelimón,"+56 9 6675 2437",5660
 "Miguel Briones Miranda",6000953,8,miguel4436@marmol.ceele,qsiB9FTIUCiJaw2,mibrmi,"+56 9 7666 4280",5047
 "Guadalupe Garrido Tamayo",21617583,2,Guadalupetamayo@wass.com,u44qR6K3VqOa42,Guadalupetamayo,"+56 2 5525 5104",5556
+"Clemente Guevara Armenta",5137414,2,Clementearmenta@tourket.com,PWE5AStWz,clemente726,"+56 9 6259 0133",9717
 "Eduardo Pedroza Estévez",23063545,5,eduardo4034@edubus.cal,JJDdTiOnKOKEKfe3,eduardo3098,"+56 2 4050 1516",5959
 "Juan Delvalle Meléndez",18756502,2,judeme@edubus.cal,Qg11BAaStWWj,juan807,+56-9-0115-9501,193
 "Juan Delvalle Meléndez",18756502,2,judeme@edubus.ceele,Qg11BAaStWWj,juan807,"+56 9 0115 9501",193
@@ -3604,7 +3564,6 @@ x,15568652,9,Catalinagodoy@edubus.cal,7a8x9t623jW0t,catogo,x,5449
 "Carlos Carmona Padilla",3482875,0,carlos6807@marmol.com,dNT1SEpA4x,cacapa,"+56 2 4701 1414",6655
 "Leticia Maldonado Lara",23484355,9,Leticialara@outluc.ceele,ARC8eN4PbH,leticia3454,"+56 9 6840 7050",4421
 "María José Aguayo Cedillo",2871642,7,MarOAacedillo@tourket.ceele,WNtHKYs5,maría1504,"+56 2 8702 4419",5250
-"Susana Jasso Meraz",1341674,x,sujame@tourket.ceele,fPxpSRSLX0F4f,x,"+56 2 1888 3419",x
 "Sta. Carlos Peña Rodrígez",4365794,1,stcapero@tourket.com,as40oLWROjOJ,sta.6065,"+56 9 1709 4281",906
 "Amalia Saiz Collazo",18070862,6,Amaliacollazo@viajesanma.ceele,Qm5EnuhZTIkK6W,amsaco,+56-9-3338-0783,4775
 "Sra. Carla Solano Alonso",13928802,5,Sra.alonso@edubus.cal,I0W20Cw6Onh,Sra.alonso,"+56 9 7301 6087",1018
@@ -3640,7 +3599,7 @@ x,15568652,9,Catalinagodoy@edubus.cal,7a8x9t623jW0t,catogo,x,5449
 "Alfredo Aragón Hernandes",29861667,0,alfredo813@tourket.ceele,GV6GOHp6,alfredo4981,"+56 9 3550 4230",8502
 "Javier Berríos Lozano",1773883,6,javier6387@viajesanma.com,RvR2Q4p1R,jabelo,"+56 9 4758 8621",3881
 "Sr. Rosalia Mojica Armas",23099585,0,srromoar@outluc.com,5n7cfLOeWGlrSgC,sr.7996,"+56 9 0280 5550",550
-x,18801264,7,cOolohe@viajesanma.com,zfgUy36VZ2HL,x,x,7013
+"César Lozano Herrera",18801264,7,cOolohe@viajesanma.com,zfgUy36VZ2HL,césar990,"+56 9 6892 2848",7013
 x,964014,2,GilbertocabOen@viajesanma.ceele,KCLOcDP4W62c,x,"+56 2 1674 1807",902
 "Santiago Barrera Burgos",4510825,2,Santiagoburgos@outluc.com,VIuwfgFlE7bck4ZK,sababu,"+56 9 3001 9227",102
 "Sta. David Águilar Nájera",5278991,5,Sta.nOejera@outluc.com,ovSeM2Iz,Sta.nájera,"+56 2 8280 2332",527
@@ -3701,7 +3660,6 @@ x,964014,2,GilbertocabOen@viajesanma.ceele,KCLOcDP4W62c,x,"+56 2 1674 1807",902
 "Miguel Acevedo Irizarry",1976740,0,Miguelirizarry@wass.com,2z0FESgIi,Miguelirizarry,"+56 2 3523 2661",5261
 "Susana Tejeda Ceballos",14006051,8,sutece@tourket.com,K8S3wwWxtU,sutece,"+56 2 6874 2882",2867
 "Virginia Guerrero Barela",17347029,0,virginia1426@wass.ceele,xBKss9i0XiP,virginia4760,+56-9-5803-9795,3077
-"Barbara Pabón Reséndez",12395323,1,barbara2192@wass.ceele,Nq0AAH4M,x,x,3080
 "Sta. Antonio Olmos Ramírez",8571798,7,stanolra@outluc.com,ioRuO41xTLez,sta.3619,"+56 9 4990 9031",382
 "Sta. Adán Hurtado Lomeli",7216789,9,Sta.lomeli@outluc.ceele,dglDRFdW0Jy6e,sta.5109,"+56 9 0257 6970",3059
 "Jesús Zavala Moya",24513082,1,jezamo@viajesanma.ceele,MLR3Ji5X,Jesúsmoya,"+56 2 2546 6520",8115
@@ -3712,7 +3670,6 @@ x,964014,2,GilbertocabOen@viajesanma.ceele,KCLOcDP4W62c,x,"+56 2 1674 1807",902
 "Sra. Vicente Curiel Terrazas",16634315,1,Sra.terrazas@wass.com,GqKsp4ZGT,srvicute,"+56 2 4894 6031",3210
 "Roberto Lucero Montero",9555878,0,rolumo@tourket.ceele,1zwW4OSdj,rolumo,"+56 9 9533 1327",6787
 "Federico Castañeda Pagan",22302294,4,federico8181@marmol.com,p0AKDMVDGeU,fecapa,"+56 9 0238 0700",3751
-"Sr. Daniel Quesada Alvarado",10806044,1,Sr.alvarado@edubus.cal,MwFwHt2E,sr.6431,"+56 2 7465 1642",7317
 "Dolores García Ochoa",5655289,8,dolores1350@tourket.com,z2mvbGBftUiG,Doloresochoa,"+56 2 1470 9269",4827
 "Ester Saldivar Menéndez",10700825,0,ester6901@outluc.com,ffZEMLrCxT8PDQ0E,essame,"+56 2 2680 5231",9153
 "María Luisa Salazar Correa",18070857,0,malusaco@marmol.ceele,JhRcedk1I0mf,malusaco,+56-9-6202-3499,9694
@@ -3727,6 +3684,7 @@ x,964014,2,GilbertocabOen@viajesanma.ceele,KCLOcDP4W62c,x,"+56 2 1674 1807",902
 "Rodrigo Ortiz Crespo",1255347,1,Rodrigocrespo@tourket.com,BQy8Ymi6zz1,rodrigo8688,"+56 9 1863 8201",3322
 "Óscar Zapata Ybarra",20222802,0,OIscar2651@tourket.com,j3Kq7GKSy5FyOly,Óscarybarra,"+56 9 3790 9776",9231
 "Silvia Mercado Lovato",3624183,7,silvia4288@edubus.ceele,dZ6VSTCBtODq9s,simelo,"+56 9 3133 6696",398
+"Elisa Zelaya Sedillo",10585181,2,elisa7692@viajesanma.com,bZSuq7qGRK,elisa9118,"+56 2 9579 9367",8883
 "María Cristina Batista Mota",18358895,8,macrbamo@wass.com,YKYoPZe76in2O5q1,Maríamota,"+56 2 8535 7122",6174
 "Marco Antonio Zelaya Castellanos",18380159,7,marco8585@viajesanma.ceele,i48jEtC18Q,marco7557,+56-9-7417-2421,6138
 "Cecilia Negrón Carrasco",27198733,1,Ceciliacarrasco@viajesanma.com,T3opqAj1OiHXgXYK,Ceciliacarrasco,"+56 2 1491 6987",2295
@@ -3739,13 +3697,14 @@ x,964014,2,GilbertocabOen@viajesanma.ceele,KCLOcDP4W62c,x,"+56 2 1674 1807",902
 "Sta. Carmen Melgar Quintana",15249219,7,stcamequ@viajesanma.com,oF3alXFzL7G,Sta.quintana,"+56 9 9870 9582",9399
 "Lorenzo Ontiveros Orta",25325279,0,Lorenzoorta@wass.com,dzT7t5j4P71q0iw,loonor,"+56 9 8951 4931",8402
 "Gustavo Benítez Valdivia",21465798,8,gubeva@edubus.cal,vN0kpTTkeiIku,Gustavovaldivia,"+56 2 7243 4420",7107
-x,9899117,4,ariadna8467@edubus.cal,5MhNQ99rSfqIDG,x,"+56 9 6793 7770",782
+"Ariadna Alonso Caraballo",9899117,4,ariadna8467@edubus.cal,5MhNQ99rSfqIDG,Ariadnacaraballo,+56-9-6793-7770,782
 "Hernán Porras Lara",12969158,1,hepola@viajesanma.com,ft5yWcxa9fnNHo4U,Hernánlara,"+56 2 2702 4447",4705
 "Hernán Porras Lara",12969158,1,hepola@viajesanma.ceele,ft5yWcxa9fnNHo4U,Hernánlara,"+56 2 2702 4447",4705
 "Raquel Crespo Orta",8091200,5,racror@outluc.ceele,twBwff27A11zVy9,racror,"+56 9 6194 5967",2861
 "Lilia Terrazas Regalado",7272323,6,litere@viajesanma.com,GVN78ogzuTcB,Liliaregalado,"+56 2 4618 0057",3292
 "Gabriela Laureano Feliciano",29734573,7,galafe@wass.ceele,YX1qrhJ0Z7MUGZP,gabriela6638,"+56 9 0935 0053",7385
 "Ricardo Ulloa Matías",1131927,0,riulma@wass.com,oJre6LR7O,riulma,"+56 9 8323 0543",1054
+"Sr. Daniel Quesada Alvarado",10806044,1,Sr.alvarado@edubus.cal,MwFwHt2E,sr.6431,"+56 2 7465 1642",7317
 "Armando Ureña Vásquez",14570095,7,arurvOe@edubus.cal,l6OFjL7JdGHTl0,armando328,"+56 2 3159 2120",8186
 "Sra. Gilberto Montaño Juárez",9217966,4,Sra.juOerez@wass.com,X5bF3LkJ,Sra.juárez,"+56 2 7793 0487",569
 "Sra. Santiago Arreola Salas",14829083,0,Sra.salas@tourket.ceele,z6wpDJxnklsYJk,sra.855,"+56 2 9751 6983",5015
@@ -3788,19 +3747,20 @@ x,9899117,4,ariadna8467@edubus.cal,5MhNQ99rSfqIDG,x,"+56 9 6793 7770",782
 "María Cristina Arenas Verdugo",2084803,0,macrarve@outluc.com,0NkHqmYzf,maría3458,"+56 9 7980 3481",8944
 "Mariana Palomino Ulibarri",1874579,8,mariana8888@marmol.com,oC2RLFwB,mapaul,"+56 2 4594 3955",2302
 "Daniela Nájera Zapata",22427641,9,daniela9220@tourket.com,AEtGLnPnct4n,Danielazapata,"+56 9 5672 7096",9777
-x,20652106,6,clara839@wass.com,1yoGUFxBat9,clara2342,+56-9-6821-4583,9830
+"Clara Barrera Solís",20652106,6,clara839@wass.com,1yoGUFxBat9,clara2342,"+56 9 6821 4583",9830
 "Adriana Sevilla Bonilla",10828135,9,adriana753@wass.com,RZI0FfQVlJ,Adrianabonilla,+56-2-7668-8286,8566
 "Guillermina Ocampo Mares",23852808,9,guocma@viajesanma.com,FMGKj1qd,Guillerminamares,"+56 9 3704 1665",7077
 "Sr. Jaime Figueroa Delgado",20125038,2,Sr.delgado@outluc.com,1AR0x2aY,sr.8281,"+56 9 4551 5575",4388
 "Julia Partida Velázquez",7208947,2,jupave@wass.ceele,qSeIZK5Fdigq,julia7156,+56-2-0697-4605,8407
 "Mario Delagarza Castellanos",8656848,9,mario2103@edubus.ceele,dv36s7F73jb2XJNw,madeca,"+56 2 5985 2746",7706
 "Mariana Sevilla Barrera",12492121,0,Marianabarrera@outluc.ceele,WjN4b22Ln7ksW,maseba,"+56 2 2717 7462",6480
-x,23518281,x,josefina7148@wass.com,yP9qdqxXsLnDC,Josefinafigueroa,"+56 2 1476 4363",x
+"Josefina Ramón Figueroa",23518281,5,josefina7148@wass.com,yP9qdqxXsLnDC,Josefinafigueroa,"+56 2 1476 4363",9726
 "Sra. Rosario Casárez Loera",24384782,6,Sra.loera@marmol.com,Phc2RpW6hGzhpqh,Sra.loera,"+56 2 7252 8034",600
 "Sta. Beatriz Peña Olmos",22370518,9,stbepeol@edubus.cal,cG760VXqvlE,stbepeol,"+56 9 5169 8631",2301
 "Yolanda Farías Montoya",2288545,6,Yolandamontoya@outluc.com,6VPCzlDjcUJZw,Yolandamontoya,"+56 9 8455 8308",6594
 "Cristobal Cardona Quintanilla",18334908,2,cristobal7737@viajesanma.ceele,xAVUmiaZl3q37n,cristobal7740,"+56 9 0307 9562",4919
 "Juan Carlos Montez Tejada",312505,0,juan6158@viajesanma.ceele,2oSACCRIQRHU,jucamote,"+56 9 3381 7290",6988
+"Isabel Tamez Irizarry",14838265,4,istair@wass.ceele,CyipY4bib8,isabel6644,"+56 2 0273 3936",384
 "Javier Heredia Galván",7531877,4,javier9310@marmol.com,6iNslG1rN,jahega,"+56 9 0448 3022",8767
 "Dorotea Ceballos Méndez",9855359,2,dorotea5055@viajesanma.com,PEJfxtDv6U9J,docemé,"+56 9 2725 0385",6518
 "Eva Delgadillo Rodríguez",28408662,7,eva9769@edubus.ceele,SpGGRC8XwihHzYe,evdero,"+56 9 5704 7312",8591
@@ -3849,14 +3809,14 @@ x,23518281,x,josefina7148@wass.com,yP9qdqxXsLnDC,Josefinafigueroa,"+56 2 1476 43
 "Francisca Sotelo Enríquez",13592272,2,francisca2353@marmol.com,0Pvjx5GJnUClg0,Franciscaenríquez,"+56 9 1797 4192",1375
 "Sancho Espinoza Montoya",23773122,0,saesmo@edubus.cal,3Y2WcVdA5g7Jct,saesmo,"+56 9 4392 8916",4552
 "Berta Muñoz Valentín",29046287,8,bemuva@outluc.com,QCRqUFue4d,bemuva,"+56 9 6030 2850",5000
+"Sra. Gilberto Yáñez Ponce",27444489,4,Sra.ponce@viajesanma.ceele,BXzuT5hBko1Zqm,srgiyápo,+56-2-1034-8725,5019
 "Sta. Gabriel Benítez Fernández",2196148,5,sta.5820@viajesanma.com,spkKXhutBheA24j,Sta.fernández,"+56 2 5388 3130",1452
 "Cristobal Menéndez Delvalle",7744951,5,cristobal6010@edubus.ceele,SYEZAKaAx9q,cristobal4474,"+56 9 4470 5597",6731
 "Florencia Saldaña Mata",4593577,9,Florenciamata@edubus.ceele,0jHILpc0RnPtUC,flsama,"+56 9 5856 0489",460
 "Sr. Carolina Tafoya Pantoja",18570739,3,Sr.pantoja@edubus.cal,EFNsvCl1,Sr.pantoja,"+56 2 8913 7292",6269
 "Elisa Lozada Jaime",20831720,2,Elisajaime@edubus.ceele,SUNf0vR1y,elloja,"+56 9 3278 7784",3362
 "Sta. César Jurado Ferrer",9822250,2,stcOojufe@edubus.cal,9fHXrNchGR,sta.3798,"+56 9 7097 6707",5130
-x,28532617,6,AlfredoolivOerez@marmol.com,GJOmK0KHrQ,x,"+56 9 2330 8044",x
-x,18191194,x,lopOega@outluc.ceele,3thgsaNez,x,x,2102
+"Alfredo Roque Olivárez",28532617,6,AlfredoolivOerez@marmol.com,GJOmK0KHrQ,Alfredoolivárez,"+56 9 2330 8044",389
 "Lola Páez Garibay",18191194,8,lopOega@outluc.com,3thgsaNez,lola5102,"+56 9 1988 8524",2102
 "Juan Hernández Laureano",23471663,8,juan2578@outluc.ceele,kv1jsinmUvzdCG7S,Juanlaureano,"+56 9 8656 4375",6646
 "Juan Hernández Laureano",23471663,8,juan2578@outluc.com,kv1jsinmUvzdCG7S,Juanlaureano,"+56 9 8656 4375",6646
@@ -3866,7 +3826,7 @@ x,18191194,x,lopOega@outluc.ceele,3thgsaNez,x,x,2102
 "Claudia Ceja Medina",5992927,5,Claudiamedina@outluc.ceele,2z6aVYYtn,Claudiamedina,"+56 9 2864 8074",7756
 "Claudia Ceja Medina",5992927,5,Claudiamedina@outluc.com,2z6aVYYtn,Claudiamedina,"+56 9 2864 8074",7756
 "Graciela Deleón Suárez",16905635,8,grdesu@tourket.com,I7HQuLbWu6Gjr,Gracielasuárez,"+56 9 3061 7557",2087
-"Sra. Virginia Partida Tijerina",29371061,9,sra.1916@marmol.com,5eJhsR4XG,x,x,5836
+"Sra. Virginia Partida Tijerina",29371061,9,sra.1916@marmol.com,5eJhsR4XG,Sra.tijerina,"+56 9 2001 1660",5836
 "María Soledad Puente Barrios",7829963,0,marOAa8538@wass.com,08FxXChSOuKT,Maríabarrios,"+56 2 8264 9484",2580
 "Soledad Deleón Carrasquillo",25917584,4,sodeca@tourket.com,8Cx6by0i,soledad6800,"+56 2 3826 9417",6991
 "Agustín Flores Rosales",7086077,5,AgustOAnrosales@edubus.ceele,eU5TlAkkncxH5gsu,agflro,"+56 9 8723 4960",5737
@@ -3884,7 +3844,6 @@ x,18191194,x,lopOega@outluc.ceele,3thgsaNez,x,x,2102
 "Sara Esquibel Melgar",28477042,0,sara1012@outluc.com,znVv1YUIdp0duY,sara6377,"+56 9 0809 4632",6534
 "Juan Montaño Laboy",14094180,8,Juanlaboy@viajesanma.com,w4LgyE2Z,Juanlaboy,"+56 9 5293 0583",9663
 "Cristobal Pérez Urrutia",24029446,0,crpOour@tourket.com,FFbxz0MjArL97AYr,cristobal6654,+56-2-8744-5158,5815
-"Ana María Véliz Vallejo",1287926,x,ana3723@tourket.ceele,x,Anavallejo,x,8135
 "Sta. Tomás Valdivia Espinoza",12662368,2,Sta.espinoza@wass.ceele,Gml8mT05dpeZX7,sta.8938,"+56 2 0192 7019",2360
 "Marcos Martínez Cadena",2573422,0,mamaca@viajesanma.com,E6bHrYd1r8,Marcoscadena,"+56 9 8761 3498",4252
 "Conchita Reyes Nava",23326433,4,corena@viajesanma.com,5rNo7b8EyGY,corena,"+56 9 9374 0827",3131
@@ -3905,13 +3864,11 @@ x,18191194,x,lopOega@outluc.ceele,3thgsaNez,x,x,2102
 "Hugo Sepúlveda Villegas",27285510,2,Hugovillegas@tourket.com,1ZofaovF,husevi,"+56 9 3852 5575",1030
 "Sr. Sara Luevano Pérez",8256197,8,srsalupOo@wass.com,508Rae7Mr4B,srsalupé,"+56 2 6561 8873",4332
 "Horacio Campos Báez",29365313,5,hocabOe@edubus.cal,8IlaTUBn7F,horacio8203,"+56 2 1088 8597",2714
-"Horacio Campos Báez",29365313,x,hocabOe@edubus.ceele,8IlaTUBn7F,x,"+56 2 1088 8597",x
 "Norma Salcedo Ortiz",27770834,5,Normaortiz@outluc.com,MmwXuczK6dZE3,norma1959,"+56 9 0996 1894",835
 "Mariana Orozco Armas",7563272,0,maorar@viajesanma.com,bd9gAY9f,mariana2088,"+56 9 8426 5300",4576
 "Gabriel Quintana Sisneros",2830377,7,Gabrielsisneros@outluc.com,sKdJUnWjfw0,gaqusi,"+56 9 9558 9438",4751
 "Sta. Rosalia Sauceda Maya",6951464,2,Sta.maya@edubus.cal,sGDJn3yF5g,Sta.maya,"+56 2 3519 8420",2103
 "Marilu Olivares Guerrero",12854478,0,Mariluguerrero@tourket.ceele,iXvTp7WywD,marilu9882,"+56 2 4307 6254",4196
-x,26111086,5,Sta.almaraz@outluc.ceele,x,sta.4175,x,5349
 "Sra. Ernesto Viera Duran",5940753,8,srervidu@edubus.cal,cWGuA2xBvoy1S0,sra.4232,"+56 2 4061 9725",6710
 "Sta. Arturo Urrutia Lugo",20536394,7,starurlu@wass.com,84lb4FnTV2B,Sta.lugo,"+56 9 4926 6698",7648
 "Armando Puga Lugo",26670498,4,armando8513@viajesanma.ceele,3LFNewPsJ,Armandolugo,"+56 2 2341 8400",5103
@@ -3927,7 +3884,6 @@ x,26111086,5,Sta.almaraz@outluc.ceele,x,sta.4175,x,5349
 "Isabela Alaniz Saucedo",8620573,4,Isabelasaucedo@viajesanma.com,lNJWYB5K,isalsa,"+56 9 6937 0527",8518
 "Sta. Jesús Gamez Pantoja",29871984,3,sta.6979@outluc.com,4h0XOIgmS,Sta.pantoja,"+56 9 0014 9989",5200
 "Luz Palacios Cordero",2074176,7,Luzcordero@outluc.ceele,Z6mRcjnaU8zf17l6,luz109,+56-2-1134-4658,6594
-"María del Carmen Padrón Farías",19227347,1,MarOAafarOAas@outluc.ceele,Mfx9K4YR5e1YZSx,maría5543,x,x
 "María del Carmen Padrón Farías",19227347,1,MarOAafarOAas@outluc.com,Mfx9K4YR5e1YZSx,maría5543,"+56 2 3234 9934",9772
 "Gustavo Terán Ponce",4870065,9,Gustavoponce@edubus.cal,5XGKcEtU0tuTm6,gutepo,"+56 9 0517 8350",7260
 "Gustavo Terán Ponce",4870065,9,Gustavoponce@edubus.ceele,5XGKcEtU0tuTm6,gutepo,"+56 9 0517 8350",7260
@@ -3953,7 +3909,6 @@ x,26111086,5,Sta.almaraz@outluc.ceele,x,sta.4175,x,5349
 "Andrés Torres Terán",16040475,2,antote@wass.com,ufQ24Yipi1OI,antote,"+56 9 2224 4789",2833
 "Cristian Barraza Luevano",4410847,0,cristian7625@tourket.com,UlHC2UEfnMKS,cristian2004,"+56 2 4130 8996",2445
 "Sr. Ana Luisa Cintrón Rodríquez",29706989,6,sranluciro@wass.com,ncrDx5KfCO2,sranluciro,"+56 9 6837 5229",4589
-"Nicolás Tórrez Padilla",29805254,7,NicolOespadilla@wass.ceele,loie04a2mKSOKOy,nicolás8125,x,8664
 "Sta. Timoteo Bustamante Jaimes",14236854,4,sta.7096@tourket.com,W9AwQ4vrvEanbbcs,sta.4773,"+56 9 3509 2654",1901
 "Alberto Piña Lomeli",541016,9,alpilo@edubus.cal,WdPY7BedIhk,Albertolomeli,"+56 9 0044 3889",251
 "Sta. Carlos Domínquez Olivas",24782477,4,stcadool@viajesanma.ceele,d1ijSclKSpg2iQ,stcadool,+56-9-5446-4174,4272
@@ -3984,6 +3939,7 @@ x,26111086,5,Sta.almaraz@outluc.ceele,x,sta.4175,x,5349
 "Sta. Marcos Rivero Raya",10287118,9,stmarira@viajesanma.com,Am6TVx3OuF5Afv,sta.8591,"+56 2 1482 7887",1468
 "Sr. Alejandra Toledo Llamas",23048855,0,sraltoll@edubus.cal,chcHR1pB,Sr.llamas,"+56 2 8641 7411",7260
 "Esperanza Portillo Lira",26411475,6,espoli@wass.com,0RpDXwZS,espoli,"+56 9 1981 1828",5826
+"Andrés Badillo Chávez",14912057,2,anbach@edubus.cal,N8rjvA7GsnriH9w,Andréschávez,"+56 2 4716 4885",6148
 "Sofia Arroyo Munguía",1530688,2,sofia1500@tourket.ceele,M0tsoVN5J4dqlf5,Sofiamunguía,"+56 2 1683 5803",7407
 "Horacio Chavarría Godoy",22101765,0,hochgo@edubus.ceele,y9hGXOlkSjn2Mt6,hochgo,+56-9-0997-9773,5823
 "Timoteo Roldán Araña",20611793,1,timoteo6652@outluc.com,yowBf8rT,Timoteoaraña,"+56 9 3395 5005",9140
@@ -3992,10 +3948,9 @@ x,26111086,5,Sta.almaraz@outluc.ceele,x,sta.4175,x,5349
 "Víctor Hidalgo Arreola",1343045,4,vOActor6611@outluc.ceele,03kg6nRwj,Víctorarreola,"+56 2 6189 0392",2841
 "Adriana Nava Ocasio",6050862,3,adriana6992@edubus.ceele,o5ZgIXB48C,adriana6073,"+56 9 2865 6701",977
 "Roberto Villarreal Garrido",2707134,1,roberto7039@tourket.com,b79FW6EypP,roviga,"+56 9 7081 7579",3449
-x,2707134,1,roberto7039@tourket.ceele,b79FW6EypP,roviga,"+56 9 7081 7579",x
 "Javier Muro Domínquez",20776639,9,JavierdomOAnquez@edubus.cal,6f0qlYyCf8B0H,javier3251,"+56 9 2684 4050",6113
 "Lilia Melgar Varela",4271314,7,limeva@marmol.ceele,bx3dTuqX0bDc1,Liliavarela,"+56 9 5936 5911",531
-x,4271314,x,limeva@marmol.com,bx3dTuqX0bDc1,x,x,531
+"Lilia Melgar Varela",4271314,7,limeva@marmol.com,bx3dTuqX0bDc1,Liliavarela,"+56 9 5936 5911",531
 "Sr. Roberto Sotelo Trujillo",11975607,3,srrosotr@viajesanma.ceele,5oIB2mAhfBRU,Sr.trujillo,"+56 2 9371 0162",8569
 "Lola Castillo Valadez",4949774,1,lola9556@tourket.ceele,PRKm2v4Lbw,Lolavaladez,"+56 2 1961 7006",1871
 "Sra. Adriana Gallegos Tijerina",12532688,9,sra.268@marmol.com,b6tNK2w0y,sra.7477,"+56 9 3486 5001",4573
@@ -4003,12 +3958,12 @@ x,4271314,x,limeva@marmol.com,bx3dTuqX0bDc1,x,x,531
 "Pedro Ballesteros Casas",23683753,0,pedro6532@edubus.cal,Fr6bC8uGD,pebaca,"+56 9 4981 4430",4874
 "Sancho Grijalva Lugo",21596112,5,sagrlu@outluc.com,LpZ0jDc6HEpal7Ct,Sancholugo,"+56 9 6524 6043",8638
 "Ramona Santillán Frías",9959618,0,ramona8337@outluc.com,4Nz0E2QUl2aoa5I8,Ramonafrías,"+56 2 7173 8698",5731
-"Sra. Cristian Arroyo Figueroa",15888394,x,sra.5096@wass.ceele,E4E7LBbjhQiMXAkU,srcrarfi,x,4448
 "Florencia Meza Pichardo",10857575,1,Florenciapichardo@viajesanma.com,qmRhZKr4R66,flmepi,"+56 9 6746 5730",1649
 "Federico Negrón Gaytán",25357477,1,federico7493@edubus.cal,tIWiz7lR73nF,fenega,"+56 9 5234 3668",4082
 "Juan Carlos Perea Fajardo",22812378,1,Juanfajardo@viajesanma.com,2b19joxzz4E,jucapefa,+56-2-0215-1978,7264
 "Margarita Maestas Almonte",15294587,6,margarita9475@marmol.com,bvsBedKXqqe65EJ7,mamaal,"+56 2 8665 7792",1336
 "Eduardo Guerra Lucio",799028,6,Eduardolucio@outluc.com,sluqwNfo6,Eduardolucio,+56-9-2010-8603,2092
+"Elena Solorio Padilla",9588537,3,Elenapadilla@wass.com,JDs3MGm5i0A9,elena7997,"+56 2 4109 3766",5449
 "Alicia Peres Garza",15592722,4,Aliciagarza@edubus.cal,U0eTG5mzI,alpega,"+56 2 5868 5727",4495
 "Jaime Bernal Regalado",5330166,5,jaime1015@marmol.com,sHOW3zPB1a,jabere,"+56 2 2990 5738",1856
 "Mayte Limón Serna",26047745,5,mayte8591@tourket.ceele,70BkxkSvGP3F,malise,"+56 9 5847 6972",1935
@@ -4064,7 +4019,7 @@ x,4271314,x,limeva@marmol.com,bx3dTuqX0bDc1,x,x,531
 "José Emilio Alcántar Lerma",18920728,0,JosOolerma@tourket.com,a4nWbnqlfBq9Tb,joemalle,"+56 9 3948 2713",5324
 "Marcela Bustos Ruelas",3903785,8,maburu@marmol.ceele,gc7pbohzLwYF3,maburu,"+56 2 5953 9398",4361
 "Ana María Díaz Elizondo",28195263,3,ana600@outluc.com,iOnYkGj2,Anaelizondo,"+56 2 5885 4016",9474
-x,29161118,x,beurqu@outluc.ceele,ZAGATX6q3SdJXvvM,beurqu,"+56 9 7962 9089",x
+"Berta Ureña Quezada",29161118,4,beurqu@outluc.ceele,ZAGATX6q3SdJXvvM,beurqu,+56-9-7962-9089,9549
 "Sra. Carlota Vera de Anda",8172655,8,sra.4482@marmol.ceele,ECnB643CfYPAO,Sra.anda,"+56 9 3228 1079",7267
 "Sra. Florencia Tello Aponte",20126178,3,Sra.aponte@marmol.com,sA8nLGZU1KS,sra.6467,"+56 9 3787 2906",8325
 "Mario Tamayo Delafuente",17687379,5,mario3524@outluc.com,cGw7OkR33,Mariodelafuente,"+56 2 6653 7947",4510
@@ -4079,7 +4034,7 @@ x,29161118,x,beurqu@outluc.ceele,ZAGATX6q3SdJXvvM,beurqu,"+56 9 7962 9089",x
 "Sta. Gregorio Pagan Irizarry",3935497,7,stgrpair@tourket.com,w9gGGNneJ2,stgrpair,+56-2-2188-5353,5360
 "Sra. Rosario Escalante Hurtado",28852229,4,sra.9793@outluc.com,IGokcSHsErA3,srroeshu,"+56 2 1174 0628",2408
 "Sra. Rosario Escalante Hurtado",28852229,4,sra.9793@outluc.ceele,IGokcSHsErA3,srroeshu,"+56 2 1174 0628",2408
-"Diego Villagómez Valentín",3184266,2,diviva@marmol.com,x,Diegovalentín,"+56 9 9061 0799",2761
+"Diego Villagómez Valentín",3184266,2,diviva@marmol.com,yMba2PBwhKKb,Diegovalentín,"+56 9 9061 0799",2761
 "Sr. Laura Saldaña Reynoso",25556748,9,srlasare@tourket.com,xNIKVMd5oRA3y69,Sr.reynoso,"+56 9 2457 0567",6858
 "Sra. Estela Tirado Toro",27006124,9,Sra.toro@wass.com,qSv4zKPYrxVDtgV,Sra.toro,"+56 9 0320 2323",5599
 "Sra. Agustín Valencia Lira",19595071,7,sragvali@wass.ceele,p7Gx6T72nl8Gc1u9,Sra.lira,"+56 2 8267 8218",5336
@@ -4089,13 +4044,13 @@ x,29161118,x,beurqu@outluc.ceele,ZAGATX6q3SdJXvvM,beurqu,"+56 9 7962 9089",x
 "Sta. Isabela Paredes Vergara",24220657,6,stispave@edubus.cal,iwz2ZF5dQFG,sta.965,"+56 9 6087 9482",1110
 "José Rivera Hurtado",17421546,4,josOo8300@edubus.ceele,hr3e1M94x,jorihu,"+56 9 7123 7844",7409
 "Francisco Escamilla Saldaña",29131292,6,fressa@viajesanma.com,DLpFxUhZMHxQ60l,fressa,"+56 9 1196 4924",4021
-x,11763418,x,memapa@marmol.ceele,XnbGZF4L9yprJfX1,mercedes8927,x,1415
+"Mercedes Madera Palacios",11763418,3,memapa@marmol.ceele,XnbGZF4L9yprJfX1,mercedes8927,+56-2-8460-1566,1415
 "Roberto Delatorre Montenegro",11974666,3,roberto6162@outluc.com,rE2BkzCeNXf1IK2,roberto9327,"+56 9 1121 2776",7207
 "Daniel Laboy Negrete",28539537,2,dalane@wass.ceele,Z7DKg684573y,Danielnegrete,"+56 9 8353 8242",1482
 "Marilu Cepeda Valladares",9092402,8,Mariluvalladares@wass.ceele,Sc61xTSjG,maceva,"+56 2 5526 7714",9090
 "Conchita Torres Garza",2727004,2,Conchitagarza@wass.com,8I6Tegj6THdjD,conchita4283,"+56 2 3664 3944",3599
 "Alicia Chapa Ocampo",25731047,7,alchoc@viajesanma.com,pntBLCfdEMfPryL6,alchoc,"+56 9 7072 4689",3977
-"Esteban Armenta Delatorre",10099554,x,Estebandelatorre@marmol.com,JoPtXvn5Qw,esarde,+56-2-2114-7524,x
+"Esteban Armenta Delatorre",10099554,9,Estebandelatorre@marmol.com,JoPtXvn5Qw,esarde,"+56 2 2114 7524",8102
 "Sra. Rubén Aguayo Téllez",17115933,4,Sra.tOollez@wass.ceele,91u3gZQgBG,sra.3424,"+56 9 8676 0040",8312
 "Sra. Francisco González Verduzco",15385708,3,sra.5806@edubus.cal,CHq1zdnfcGc,Sra.verduzco,"+56 2 2787 9510",10000
 "María Delacrúz Botello",24635580,0,MarOAabotello@wass.com,Uh5ZGKuW3i6,maría7846,"+56 9 1009 1169",9009
@@ -4125,7 +4080,6 @@ x,11763418,x,memapa@marmol.ceele,XnbGZF4L9yprJfX1,mercedes8927,x,1415
 "Sara Quiñones Huerta",6114691,1,sara8578@tourket.ceele,u61QZJrt,sara1722,"+56 9 1265 7493",2916
 "Pablo Corral Alejandro",12185616,6,Pabloalejandro@viajesanma.com,gD7GGp6EqmJqFlk,pablo6414,"+56 2 9873 6146",3070
 "Jerónimo Centeno Meraz",12008785,1,jeceme@edubus.cal,rMIWfnB75eLqr,jerónimo9879,"+56 9 9503 3870",4807
-"Diego Jurado Pacheco",12746570,x,Diegopacheco@marmol.com,x,diego5303,x,4919
 "Mercedes de Jesús Sarabia",5118252,9,Mercedessarabia@wass.ceele,9X1Cn7Y8liLcqM4J,mercedes8633,+56-9-2086-0356,9096
 "Alejandra Lebrón Jimínez",24110009,0,AlejandrajimOAnez@edubus.cal,geUn680XHjEc,alleji,"+56 2 9062 3689",6511
 "Alejandra Lebrón Jimínez",24110009,0,AlejandrajimOAnez@edubus.ceele,geUn680XHjEc,alleji,+56-2-9062-3689,6511
@@ -4156,7 +4110,6 @@ x,11763418,x,memapa@marmol.ceele,XnbGZF4L9yprJfX1,mercedes8927,x,1415
 "Gerardo Arevalo Oquendo",12899469,6,gearoq@wass.ceele,bZi0lxfAU,Gerardooquendo,"+56 2 8560 3901",9855
 "Fernando Fernández Tovar",9751787,8,fefeto@marmol.com,OgXMgcH0WOI5,fernando913,"+56 2 2353 0547",8033
 "Alfonso Miramontes Cotto",19184015,1,alfonso2089@outluc.com,24tkfCyP1,alfonso4887,"+56 2 6308 8639",7836
-"Horacio Mena Pelayo",20319615,6,homepe@viajesanma.ceele,x,Horaciopelayo,+56-2-6089-2994,x
 "Sta. Irene Ordóñez Meraz",9487691,5,sta.640@viajesanma.com,Sd39FZLHrNF,Sta.meraz,"+56 9 0898 4956",4342
 "Carlos Frías Beltrán",21577465,1,CarlosbeltrOen@wass.com,BesfU7KhceSdeK7R,carlos1697,"+56 9 6546 6565",9239
 "Federico Ruiz Rentería",26369125,3,ferure@outluc.com,mCX5Gewz,federico522,"+56 2 4971 0652",6095
@@ -4173,9 +4126,8 @@ x,11763418,x,memapa@marmol.ceele,XnbGZF4L9yprJfX1,mercedes8927,x,1415
 "Marisol Rivas Otero",9560023,9,Marisolotero@tourket.com,OYnO3DqQ,mariot,"+56 2 2525 9935",8233
 "Marisol Rivas Otero",9560023,9,Marisolotero@tourket.ceele,OYnO3DqQ,mariot,"+56 2 2525 9935",8233
 "Sra. Esperanza Arreola de Anda",18718736,2,sresardean@wass.com,tiMqnV8r4,Sra.anda,"+56 9 0550 6704",518
-x,13061103,x,maampr@wass.ceele,DvWv2QIWF05j,marilu7295,+56-9-6138-8096,x
 "Ana María Roque Merino",718183,3,ana3325@edubus.ceele,vhpfj8LhW1,Anamerino,"+56 2 1685 0052",6969
-"Sra. Claudio Riojas Posada",15978607,2,srclripo@wass.com,v0O4H4uQWza,x,x,3550
+"Sra. Claudio Riojas Posada",15978607,2,srclripo@wass.com,v0O4H4uQWza,srclripo,"+56 2 1415 4349",3550
 "Claudio Muñiz Miramontes",21551768,3,Claudiomiramontes@viajesanma.com,Xw6eArRF8Ny2,clmumi,"+56 2 9415 2249",494
 "Sr. Laura Briones Godínez",18513963,8,Sr.godOAnez@tourket.com,iAq4WTiqp,srlabrgo,"+56 2 4136 3897",9942
 "Cristobal Rodríquez Rodarte",29563332,8,crroro@outluc.ceele,4FBqjGJrg3ySjpZk,Cristobalrodarte,+56-2-6950-5508,1675
@@ -4193,7 +4145,7 @@ x,13061103,x,maampr@wass.ceele,DvWv2QIWF05j,marilu7295,+56-9-6138-8096,x
 "Sr. Teresa Leyva Cantú",6731407,7,sr.2943@edubus.cal,y7Sda88Vd,Sr.cantú,"+56 2 7640 4526",2172
 "Nicolás Cardenas Valdez",13866202,0,nicava@wass.ceele,UrIVkhcV4,Nicolásvaldez,"+56 9 6027 3867",873
 "Beatriz Maya Brito",10411524,1,Beatrizbrito@outluc.com,YYE7rVXavJ,Beatrizbrito,"+56 9 3760 0879",9956
-"Florencia Miramontes Orosco",4584211,8,flmior@marmol.com,G96wttvUlTPc94,x,x,x
+"Florencia Miramontes Orosco",4584211,8,flmior@marmol.com,G96wttvUlTPc94,florencia8231,"+56 2 0816 9346",7216
 "Claudia Espinosa Valles",4699628,3,Claudiavalles@tourket.ceele,VOMMIQ4g,claudia1288,+56-9-6477-8483,5292
 "Sr. Mónica Vásquez Batista",21068930,3,srmOIvOeba@tourket.com,RpSy0TWpQ7HAa,Sr.batista,"+56 9 0338 4616",7029
 "Lourdes Delapaz Chávez",19957834,0,lodech@tourket.com,SSGq1P5Ph1utsb,lourdes4183,"+56 9 2259 0012",3101
@@ -4225,7 +4177,6 @@ x,12445972,9,srveargu@edubus.ceele,x,sr.7458,"+56 9 5605 1526",5908
 "Bernardo Collado Pedraza",4426097,2,becope@outluc.com,rcJf0F7AwkTcZb,bernardo8654,"+56 2 4855 8764",7716
 "Sta. Juana Alonso Lucio",24515988,9,sta.7340@viajesanma.com,NgkHHjNIUy9d60s,Sta.lucio,"+56 2 4375 2102",345
 x,8285271,9,josOo2984@viajesanma.ceele,x,joemallo,"+56 2 9411 3027",x
-"Gonzalo Altamirano Covarrubias",1343279,1,gonzalo6192@edubus.ceele,SuHSGGfBoOi407Z,gonzalo2625,"+56 2 9542 3698",x
 "Sra. Florencia Patiño Menéndez",20919324,8,srflpame@outluc.ceele,M0SJfDtTt1YS,srflpame,"+56 9 5249 2042",1182
 "Timoteo Solano Banda",11112290,3,tisoba@edubus.cal,Vr5ukvfAA,Timoteobanda,"+56 9 6553 9624",1183
 "María Elena Montañez Arriaga",21985290,8,maelmoar@wass.com,X55mTMTODQTrWTyC,maría6443,"+56 2 7548 8807",9351
@@ -4236,7 +4187,6 @@ x,8285271,9,josOo2984@viajesanma.ceele,x,joemallo,"+56 2 9411 3027",x
 "Leonor Quintanilla Urías",15666531,2,LeonorurOAas@tourket.ceele,OIwH4IFMj,leonor3774,"+56 9 6618 8790",7293
 "Leonor Quintanilla Urías",15666531,2,LeonorurOAas@tourket.com,OIwH4IFMj,leonor3774,"+56 9 6618 8790",7293
 "Agustín Saldivar Guardado",23030324,0,agsagu@tourket.ceele,LbaY7MqPWRP5,agsagu,"+56 2 0546 7104",8346
-x,15105016,6,Felipepreciado@edubus.ceele,Qte8R1grC,x,"+56 9 0381 9489",7547
 "Raúl Uribe Ríos",29607301,6,raurrOA@viajesanma.com,ag4hMZ5OpX,Raúlríos,"+56 2 4075 8024",3529
 "Elvira Jaramillo Guzmán",29988096,6,ElviraguzmOen@tourket.ceele,vk88GDaj26OeP,Elviraguzmán,"+56 2 3814 0821",7725
 "Mariano Ávila Sierra",16409574,6,Marianosierra@viajesanma.com,S4dZq7mGejNmDP,maávsi,"+56 9 9137 6617",1585
@@ -4299,7 +4249,6 @@ x,15105016,6,Felipepreciado@edubus.ceele,Qte8R1grC,x,"+56 9 0381 9489",7547
 "Natalia Cedillo Domínguez",9688134,7,NataliadomOAnguez@edubus.cal,1tJtcriZV,Nataliadomínguez,"+56 2 9525 2791",7989
 "Sra. Guillermina Rentería Fuentes",3055936,3,Sra.fuentes@viajesanma.ceele,bsQuex4Eq,srgurefu,+56-9-5571-5037,2688
 "Alberto Arce Colón",27167694,8,AlbertocolOIn@tourket.com,wRRVTB83ydbGeJwx,alarco,"+56 9 1416 8438",9656
-"Alberto Arce Colón",27167694,8,AlbertocolOIn@tourket.ceele,x,alarco,x,9656
 "María Salas Vela",1199225,0,masave@wass.ceele,swRNJg5j,masave,"+56 9 0931 8290",7480
 "Benjamín Zambrano Banda",5163066,1,BenjamOAnbanda@tourket.com,G6pFdYgYOZDbhc,bezaba,"+56 9 6578 1394",3644
 "Sr. Pablo Bravo Altamirano",4670376,6,sr.2516@edubus.cal,71rguOmiKZwGV5p,srpabral,"+56 9 2374 4010",6127
@@ -4323,7 +4272,7 @@ x,15105016,6,Felipepreciado@edubus.ceele,Qte8R1grC,x,"+56 9 0381 9489",7547
 "Diego Mojica Barajas",29803292,9,diego2735@outluc.ceele,pLdgyODc5k2WAQM,Diegobarajas,"+56 2 4029 1434",1855
 "María Cristina Arenas Verdugo",2084803,0,macrarve@outluc.ceele,0NkHqmYzf,maría3458,+56-9-7980-3481,8944
 "Rodrigo Ordóñez Zelaya",24800124,0,roorze@tourket.com,GrAxVcW4b5zB9mg,roorze,"+56 2 3978 9046",9424
-"Victoria Miramontes Olivas",7027587,2,vimiol@viajesanma.com,x,x,"+56 2 7846 2886",8735
+"Victoria Miramontes Olivas",7027587,2,vimiol@viajesanma.com,bRXzgtzOxtz7uNF,vimiol,"+56 2 7846 2886",8735
 "Sra. Rodrigo León Reyna",26997275,0,sra.141@tourket.ceele,RKRKpha1VeR,srrolere,"+56 2 0949 4724",473
 "Amalia Corrales Santillán",21940336,4,amalia9531@marmol.com,6q1ZPmCRLzB,amalia4489,"+56 2 7093 7028",2919
 "María Teresa Raya Alejandro",18340133,5,MarOAaalejandro@wass.com,5cHo0oAtL8EQ,Maríaalejandro,"+56 9 6616 0431",6379
@@ -4377,6 +4326,7 @@ x,12273445,5,raallo@tourket.com,x,ramón9337,"+56 9 7220 4137",x
 "María Eugenia Cortés Ramón",15174910,0,MarOAaramOIn@wass.com,BdnumMm60fg,Maríaramón,"+56 9 2826 2279",311
 "Alicia Casanova Casares",23446499,0,alcaca@viajesanma.com,6t0KBWgZ,alicia4642,"+56 9 0197 9183",2363
 "Ramón Casas Apodaca",15904498,0,racaap@tourket.com,1NFqMsM1qgU,ramón7304,"+56 2 2138 3042",8320
+"Alberto Frías Gaitán",4098846,7,AlbertogaitOen@outluc.ceele,Eh484WYgHwyf,alfrga,"+56 9 6508 3119",2923
 "Daniel Llamas Espino",23174998,5,Danielespino@edubus.ceele,D9NiFftWewq4YEi,daniel115,+56-2-5851-6852,4979
 "Joaquín Carrero Adorno",29899748,7,joaquOAn4307@viajesanma.ceele,O60qTFXpY5C,jocaad,"+56 9 4842 1509",2997
 "Rosa Véliz Casares",23494414,2,Rosacasares@viajesanma.ceele,N1FexT78,rosa6733,"+56 9 9684 1624",9639
@@ -4386,7 +4336,6 @@ x,12273445,5,raallo@tourket.com,x,ramón9337,"+56 9 7220 4137",x
 "Sergio Polanco Guerra",1494674,8,Sergioguerra@wass.com,7CTURK1y4Lgo,sepogu,+56-2-8221-6416,1388
 "Alberto Iglesias Manzanares",8228972,0,Albertomanzanares@edubus.cal,tSh25ZG0,aligma,"+56 9 1040 8989",1444
 "Alberto Iglesias Manzanares",8228972,0,Albertomanzanares@edubus.ceele,tSh25ZG0,aligma,"+56 9 1040 8989",1444
-"Horacio Olivares Casárez",11078653,x,HoraciocasOerez@tourket.com,x,Horaciocasárez,"+56 2 6468 2603",x
 "Virginia Lozada Alcántar",2413329,0,viloal@marmol.ceele,BK5grO8F8,virginia722,"+56 2 2243 4536",6226
 "Vicente Maestas Lucero",17447417,6,Vicentelucero@marmol.com,vgWf75J1dV1Vh,vimalu,"+56 9 4789 3596",6561
 "Mariano Macías Olmos",9228571,5,mariano8603@wass.ceele,BCgWniV5,Marianoolmos,+56-9-6419-4424,264
@@ -4472,7 +4421,7 @@ x,12273445,5,raallo@tourket.com,x,ramón9337,"+56 9 7220 4137",x
 "Yolanda Farías Montoya",2288545,6,Yolandamontoya@outluc.ceele,6VPCzlDjcUJZw,Yolandamontoya,"+56 9 8455 8308",6594
 "Hugo Rodrígez Tijerina",11288347,9,hugo5670@edubus.cal,BaHoIE64n7tI,huroti,"+56 2 1107 2496",4357
 "Ana María Luna Canales",412722,6,anmaluca@viajesanma.ceele,e3P2LQPrc,Anacanales,"+56 9 3355 7815",6893
-x,7497367,1,amnade@wass.com,NGI9smIysJ,amnade,x,6267
+"Amalia Nazario Delapaz",7497367,1,amnade@wass.com,NGI9smIysJ,amnade,"+56 9 1936 1627",6267
 "Conchita Porras Ocampo",12264150,3,copooc@tourket.com,fgzwhJxd6DV46j5,conchita2731,"+56 2 6295 8268",942
 "Sta. Pedro Aranda Carmona",14493386,9,sta.9746@outluc.ceele,klq92TPQYCbBm2pO,stpearca,"+56 9 4873 8576",1657
 "Elisa Guzmán Verdugo",14611280,3,elisa6686@tourket.ceele,UuEitZ7ba,Elisaverdugo,"+56 2 2788 6341",8667
@@ -4487,11 +4436,10 @@ x,7497367,1,amnade@wass.com,NGI9smIysJ,amnade,x,6267
 "Sra. Andrés Tórrez Vallejo",25376967,0,sra.7619@outluc.ceele,wPr7J0cI1pYJ0V0,srantóva,"+56 9 7697 0616",4247
 "Alberto Estrada Valverde",7982855,6,alesva@outluc.ceele,q29loAQQ,alesva,"+56 2 1536 7173",1960
 "Sr. Sergio Delgadillo Zaragoza",1742539,0,srsedeza@wass.com,BAtf4VkR,sr.8584,"+56 9 7721 9253",2120
-"Sra. Alicia Covarrubias Delao",18265945,x,sra.5300@wass.ceele,1gIORKs8FwS9,Sra.delao,x,x
 "María Soledad Guerra Luevano",4289284,0,masogulu@tourket.com,fWc85UGJ,maría4262,"+56 2 5670 0732",7740
 "Sta. Benjamín Fuentes Corrales",22093426,8,sta.7650@viajesanma.com,6oPnpMTjKu8Z9ZvB,stbefuco,+56-9-5244-6489,6452
 "Mariana Rodríquez Díaz",14853078,5,mariana3965@edubus.ceele,iD95TGifpr,mariana7292,+56-2-7901-3142,2628
-"Guillermo Nevárez Rosas",1081472,3,gunero@viajesanma.com,x,gunero,"+56 2 7023 5706",2290
+"Guillermo Nevárez Rosas",1081472,3,gunero@viajesanma.com,X6vs57cn3Gf7,gunero,"+56 2 7023 5706",2290
 "Diego Montero Guerra",5170183,6,Diegoguerra@edubus.cal,OxXvpZkJ276mH,Diegoguerra,"+56 9 7422 4194",2606
 "Olivia Moya Garica",15389147,8,olmoga@edubus.ceele,6Ue64e5bdBsNmf,Oliviagarica,+56-9-0670-8179,7675
 "Sra. Adriana Gálvez Alvarez",25860839,9,Sra.alvarez@marmol.com,YLVQ9A0nOjr0,sra.2840,"+56 9 7926 8112",3889
@@ -4514,7 +4462,6 @@ x,7497367,1,amnade@wass.com,NGI9smIysJ,amnade,x,6267
 "Octavio Lozano Villa",322739,1,octavio6817@edubus.ceele,9yWugXxY,octavio8431,"+56 9 3249 3379",7939
 "Sra. Virginia Vera Arguello",21188429,0,srvivear@viajesanma.com,YqBgZwQP0qC9W,sra.4104,"+56 9 3747 4058",2680
 "Sta. Graciela Borrego Montaño",4730085,1,stgrbomo@outluc.ceele,XC3suu9PZCvdwXHV,Sta.montaño,"+56 9 8351 8987",1530
-"Alfonso Miramontes Cotto",19184015,x,alfonso2089@outluc.ceele,24tkfCyP1,x,"+56 2 6308 8639",x
 "Dorotea Marroquín Medrano",17975856,3,Doroteamedrano@outluc.com,3DZsQ4Uz,domame,"+56 2 4983 3542",7873
 "María Cristina Aguirre Casanova",26737470,8,MarOAacasanova@outluc.com,6U6PjTJy1,macragca,+56-9-2570-7091,9900
 "Mario Esparza Abeyta",17183252,7,Marioabeyta@marmol.com,AGbspc6o9EjMKgp2,maesab,"+56 2 7724 5639",6646
@@ -4525,7 +4472,6 @@ x,7497367,1,amnade@wass.com,NGI9smIysJ,amnade,x,6267
 "Ana Luisa Lugo Mata",15792016,2,Anamata@wass.ceele,2MTQ1gDHxP,Anamata,"+56 9 1693 8271",775
 "Débora Yáñez Leal",27856298,0,dOoyOele@wass.ceele,OUF8i9jsT52ni,débora5827,"+56 9 0999 0648",460
 "Sra. Diego Olvera Negrón",25759007,0,sra.8965@outluc.com,xP7O7ieisowvWGfK,sra.3469,"+56 9 4681 4388",7037
-x,25759007,0,sra.8965@outluc.ceele,xP7O7ieisowvWGfK,x,x,7037
 "Maricarmen Linares Urbina",13187167,8,maliur@tourket.ceele,mi0bJrMVwa,maricarmen3859,"+56 2 6043 7344",591
 "Federico Hernández Lozano",14554652,4,Federicolozano@tourket.com,OftUr52u31YOIfvB,federico9418,"+56 2 3342 1276",5098
 "Gregorio Ramírez Rico",1115482,4,grrari@viajesanma.com,Zp6f0N1pW2mN0GsE,grrari,"+56 2 5240 1681",5770
@@ -4540,7 +4486,6 @@ x,25759007,0,sra.8965@outluc.ceele,xP7O7ieisowvWGfK,x,x,7037
 "Mayte Godoy Soliz",7319490,3,magoso@viajesanma.ceele,BY075djn70E,mayte1995,"+56 2 3975 7273",7144
 "Sra. José Rosario Roque",18404645,8,Sra.roque@edubus.cal,DA4tDYlBEg,srjororo,"+56 2 6218 9190",586
 "Octavio Espinoza Delvalle",3609759,0,Octaviodelvalle@marmol.com,qcZBL04EgMesIVD,octavio6504,"+56 2 0146 8468",9132
-x,3609759,0,Octaviodelvalle@marmol.ceele,qcZBL04EgMesIVD,octavio6504,+56-2-0146-8468,x
 "Elsa Quintero Méndez",7885333,6,elsa9053@marmol.com,Dbz8fH1jFTOI8p,elsa9901,"+56 9 1322 2765",7511
 "Jacobo Ponce Gaitán",13867083,0,JacobogaitOen@edubus.ceele,n7eCIb6OdEIZ,japoga,+56-2-8921-7829,6106
 "Ana Luisa Pacheco Vergara",9047987,3,Anavergara@viajesanma.com,67NABbP5CPGsB,Anavergara,+56-9-5527-9353,3561
@@ -4573,6 +4518,7 @@ x,3609759,0,Octaviodelvalle@marmol.ceele,qcZBL04EgMesIVD,octavio6504,+56-2-0146-
 "Ernesto Zelaya Soliz",2338811,1,Ernestosoliz@outluc.ceele,EVQ1xNoLTA559j2M,ernesto4955,+56-9-7864-9269,1545
 "Horacio Rojo Segura",15241578,8,horacio1503@outluc.com,dOI6JgsbodnqJKHN,horose,"+56 2 5930 8675",523
 "Berta Ozuna Razo",984853,3,berta4174@edubus.ceele,2Dzai3ZuaHcQ,Bertarazo,+56-2-5618-4562,9239
+"Federico Ramírez Leyva",25913645,8,ferale@tourket.ceele,4Wo0JEYtpjDui,Federicoleyva,+56-9-6387-8968,6471
 "Sta. Jaime Pantoja Narváez",29645428,1,stjapana@wass.ceele,9hY49yKZeKMIql4,sta.5657,"+56 2 2946 4299",4441
 "Luis Miguel Velasco Aguirre",8323063,0,luis1008@edubus.cal,QtdsYrRro7VJ,luis5642,+56-9-8732-0258,146
 "Eva Padilla Escobar",17405089,9,Evaescobar@wass.ceele,gIqPJXAXCHEr3oS,evpaes,"+56 2 3052 3253",7340
@@ -4587,7 +4533,6 @@ x,3609759,0,Octaviodelvalle@marmol.ceele,qcZBL04EgMesIVD,octavio6504,+56-2-0146-
 "María José Carbajal Salcido",1129162,7,MarOAasalcido@viajesanma.ceele,SiM2aGZc0RpICT,maría6470,"+56 9 1064 7663",8435
 "Luisa Quintanilla Godoy",8918098,8,luisa8744@wass.com,KAv3MYfnSPA99zXK,luisa9629,"+56 9 5631 5127",4715
 "Daniel Vera Reséndez",16191407,0,davere@wass.com,6GCN272j3ayW,davere,"+56 9 7901 4430",5247
-x,10799521,8,sr.7664@marmol.ceele,9JlXdfsbhY0D2,sr.5746,+56-9-5450-6227,x
 "Joaquín Romero Gallegos",19183013,0,joroga@wass.ceele,lbZlPN71,Joaquíngallegos,"+56 2 5788 0388",9675
 "Nicolás Carmona Rincón",29731451,3,nicolOes3758@marmol.com,sJMFOHeK3,nicolás2874,"+56 9 1729 3173",5388
 "Pablo Delacrúz Valdés",17470617,4,pablo2148@marmol.com,O72T9bDQX6bncXH,pablo9523,"+56 2 6772 8176",5419
@@ -4618,7 +4563,6 @@ x,10799521,8,sr.7664@marmol.ceele,9JlXdfsbhY0D2,sr.5746,+56-9-5450-6227,x
 "Sr. José Mercado León",29887851,8,sr.5355@wass.ceele,WWjq6map9C,sr.2842,"+56 2 4587 9519",551
 "Carla Garica Urrutia",14354979,8,cagaur@tourket.com,1ImMVZomKd56Uf,cagaur,"+56 9 0815 6263",1498
 "Jaime Valverde Cotto",5102550,4,javaco@tourket.ceele,QT6vU8qliLps7WF,Jaimecotto,"+56 2 6937 6314",9645
-x,6876582,0,Marcohernandes@viajesanma.ceele,8UJOaaiSkQ,maancohe,x,9427
 "Sta. Emilio Mesa Cervántez",17678134,3,sta.3656@edubus.ceele,Crt0slx5,stemmece,"+56 9 5113 8087",4517
 "Antonio Villanueva Anaya",24341030,4,antonio9933@marmol.com,RMNi7bCqVe,anvian,"+56 9 8535 3989",3135
 "Gustavo Figueroa Acevedo",19914954,7,Gustavoacevedo@edubus.cal,u3z2w8KaUGQOzOHI,Gustavoacevedo,"+56 9 3346 7836",3466
@@ -4652,7 +4596,7 @@ x,6876582,0,Marcohernandes@viajesanma.ceele,8UJOaaiSkQ,maancohe,x,9427
 "Sta. Gustavo Ulloa de Jesús",7878370,2,stguuldeje@marmol.com,IT3VfEfB,Sta.jesús,"+56 2 7683 0486",7935
 "Diana Morales Orozco",23738398,2,Dianaorozco@viajesanma.ceele,z4bxo2zB,diana2439,"+56 2 9616 9479",8852
 "Manuel Mesa Mondragón",16541253,2,manuel4916@edubus.cal,mNNQf5c4,mamemo,"+56 2 4289 4607",3511
-"Teresa Elizondo Llamas",22616382,4,teelll@tourket.com,opRmQ6D8Vxr,teresa1986,+56-9-0870-9334,x
+"Teresa Elizondo Llamas",22616382,4,teelll@tourket.com,opRmQ6D8Vxr,teresa1986,"+56 9 0870 9334",8170
 "Lourdes Pizarro Delgadillo",20799411,1,lopide@viajesanma.com,50kWlIk5uKK,lopide,"+56 9 2710 0941",8550
 "Débora Centeno Valencia",19482073,9,DOoboravalencia@wass.ceele,IC7wZhoz4dkOAfV,débora6707,+56-2-2699-7281,4880
 "Alejandro Valenzuela Perales",26587448,7,Alejandroperales@tourket.com,OQLIlQo2ygO0E,alejandro8143,"+56 9 2205 3687",5204
@@ -4696,7 +4640,6 @@ x,6876582,0,Marcohernandes@viajesanma.ceele,8UJOaaiSkQ,maancohe,x,9427
 "Mónica Crespo Zelaya",10837527,2,mOIcrze@edubus.ceele,Gm4mFGiAd,mónica684,"+56 2 8098 1154",3440
 "Adán Paredes Balderas",28127526,7,adpaba@tourket.com,WjEsSC5eTE6cZr3f,adpaba,"+56 2 3238 0637",6872
 "Cecilia Soliz Arce",18337568,7,Ceciliaarce@wass.com,GUsNaxSgrYwA7q4,cesoar,"+56 9 2985 2425",9005
-x,18337568,7,Ceciliaarce@wass.ceele,GUsNaxSgrYwA7q4,cesoar,x,x
 "Octavio Estrada Aragón",7745903,0,OctavioaragOIn@tourket.com,FZ3D4XvwfQ,Octavioaragón,"+56 2 5888 6988",1823
 "Martín Bermúdez Saucedo",11030872,8,MartOAnsaucedo@viajesanma.com,75i2GFGv,mabesa,"+56 2 1560 7177",7760
 "Jorge Luis Duarte Matías",21889753,3,JorgematOAas@outluc.com,tyCT5r7z,Jorgematías,"+56 9 7593 8369",2869
@@ -4705,11 +4648,11 @@ x,18337568,7,Ceciliaarce@wass.ceele,GUsNaxSgrYwA7q4,cesoar,x,x
 "Barbara Montenegro Arevalo",4614026,5,bamoar@marmol.com,gUw6Ka1kw8,Barbaraarevalo,"+56 9 7072 7445",7931
 "Ester Madrigal Quintana",14146226,1,Esterquintana@viajesanma.ceele,lQyrYTe77XG4yup,Esterquintana,"+56 2 1523 2560",3380
 "Felipe Urías Méndez",29069139,7,FelipemOondez@viajesanma.com,Myqyqtp0i77,Felipeméndez,"+56 2 7526 1314",7967
-x,24759781,6,gagasa@marmol.ceele,8nKDPrSLuTJos,gagasa,x,x
 "Maricarmen Esquibel Garrido",29899570,0,maricarmen7798@outluc.ceele,9DrU3oWHTX,maricarmen5570,"+56 9 7401 4165",5942
 "José Luis Guajardo Pantoja",2392934,1,JosOopantoja@wass.ceele,7pMlBcvLFvlLm,jolugupa,+56-9-6122-2108,8721
 "Manuela Perea Delao",4886296,9,Manueladelao@viajesanma.ceele,qunKuvfv3oL7FtWZ,Manueladelao,"+56 2 5761 8955",6602
 "Marcos Bustos Madrigal",21755011,4,marcos3427@marmol.com,vo90qj9Of,Marcosmadrigal,+56-9-4094-5242,9091
+"Sta. Enrique Pineda Calderón",4729053,8,Sta.calderOIn@tourket.com,jCWoecqZt5,stenpica,"+56 2 2567 0088",4387
 "Sta. Enrique Pineda Calderón",4729053,8,Sta.calderOIn@tourket.ceele,jCWoecqZt5,stenpica,"+56 2 2567 0088",4387
 "Jorge Luis Dávila Alvarado",5861957,4,joludOeal@tourket.com,zBBEE1mXv0dTrzn,jorge5825,"+56 9 7969 5565",7505
 "Olivia Mejía Vega",21903205,6,olmeve@marmol.com,CHJCfsmn505hDF,Oliviavega,"+56 2 5864 4873",9669
@@ -4723,9 +4666,9 @@ x,24759781,6,gagasa@marmol.ceele,8nKDPrSLuTJos,gagasa,x,x
 "José Emilio Badillo Zelaya",10622797,7,joembaze@viajesanma.ceele,HMNWX5CR3gzY,Josézelaya,"+56 9 2313 4418",3174
 "Sr. Rosa Dávila Carrera",15366387,4,srrodOeca@outluc.com,okWhX4ksKgULylNz,srrodáca,"+56 2 8373 2245",7383
 "Mateo Rincón Ulloa",8492726,0,Mateoulloa@edubus.cal,CMCzBSOf4ru9,mariul,"+56 2 1753 8399",5444
-"José Eduardo Godínez Soto",10935825,8,JosOosoto@marmol.com,mBAiAGEp5Wg3B,Josésoto,x,1451
+"José Eduardo Godínez Soto",10935825,8,JosOosoto@marmol.com,mBAiAGEp5Wg3B,Josésoto,"+56 2 3879 2430",1451
 "Sofia Herrera Valles",21612621,1,Sofiavalles@outluc.com,rEZ6EE35Gw3md,soheva,"+56 9 4897 0627",3843
-x,4525749,5,ester9162@edubus.ceele,80nECSbb3,x,"+56 2 5855 2417",x
+"Marisol Barela Lozano",16613606,7,marisol224@edubus.ceele,9L5NzqOqS,Marisollozano,"+56 2 7346 7242",607
 "Francisco Ceballos Perea",8099605,5,Franciscoperea@edubus.ceele,5KRqIf1jlU5vWIH,Franciscoperea,"+56 2 4356 2332",5841
 "Ester Maya Vázquez",24719866,0,ester3479@outluc.ceele,1rXfdONz,ester6444,+56-9-8445-3130,4956
 "María Cristina Gonzales Otero",10040392,7,marOAa6547@outluc.com,kV8R4rNNuL,Maríaotero,"+56 2 2671 1380",3672
@@ -4734,7 +4677,6 @@ x,4525749,5,ester9162@edubus.ceele,80nECSbb3,x,"+56 2 5855 2417",x
 "Diego Osorio García",23569210,4,DiegogarcOAa@tourket.ceele,iZBskbt1xf,diosga,"+56 9 2240 0197",8903
 "Leonor Villalpando Collado",27044226,9,Leonorcollado@outluc.ceele,7WCi4vFf,leonor4819,"+56 2 1388 5872",6369
 "Mercedes Melgar Guerra",568299,1,Mercedesguerra@tourket.ceele,JtcBdKL53vbezQeC,mercedes7674,"+56 9 6860 0761",9806
-"César Cano Toro",878290,3,cOosar9028@marmol.com,ML5HCcE2JZ,cécato,"+56 9 0468 7533",5397
 "Sr. Verónica Estévez Vázquez",1009928,5,sr.2292@outluc.com,6yRhgM9tJ3T,Sr.vázquez,"+56 2 1083 5652",2522
 "Inés Aranda Arellano",298005,3,InOosarellano@viajesanma.ceele,a55lLG75,inés5033,"+56 2 7750 8291",2566
 "Jesús Escalante Zepeda",10843036,2,jesOUs9719@outluc.com,EDZST1CgJXUUV,jesús4307,"+56 2 0486 8340",7765
@@ -4784,7 +4726,7 @@ x,4525749,5,ester9162@edubus.ceele,80nECSbb3,x,"+56 2 5855 2417",x
 "Sr. Carmen Vera Porras",15744066,7,srcavepo@tourket.com,JC76PD4Y2m8S,srcavepo,"+56 2 8172 1849",7539
 "Francisco Acuña Sauceda",18103294,4,fracsa@viajesanma.ceele,4ikQ5XyOaa,Franciscosauceda,+56-2-5723-2623,905
 "Sta. Cristobal Mondragón Rentería",3186010,5,Sta.renterOAa@edubus.ceele,r1Cj04yAxc9eVT5g,Sta.rentería,"+56 2 4025 0076",6357
-x,28938140,6,graciela2986@outluc.com,Jv6BXdmf,x,+56-2-0630-6223,8858
+"Graciela Rolón Rendón",28938140,6,graciela2986@outluc.com,Jv6BXdmf,grrore,"+56 2 0630 6223",8858
 "Octavio Zarate Aguilera",8373508,2,Octavioaguilera@wass.com,3AHgxkZIM0Q,Octavioaguilera,"+56 9 6080 5483",2697
 "Jerónimo Mena Vela",22886966,0,JerOInimovela@marmol.com,rJtmwZBYedm6bb1,Jerónimovela,"+56 9 9851 0507",5995
 "Patricia Toledo Hernández",20541514,9,patricia5617@tourket.com,NLt2ZpME5D,patohe,"+56 9 9164 2492",5808
@@ -4817,6 +4759,7 @@ x,28938140,6,graciela2986@outluc.com,Jv6BXdmf,x,+56-2-0630-6223,8858
 "Ariadna Bernal Valdivia",26697368,3,Ariadnavaldivia@viajesanma.com,ukja4Lbu0fTuTkcI,ariadna7903,"+56 2 3851 0561",593
 "José Emilio Rangel Cornejo",13187777,3,joemraco@viajesanma.com,BuTRtR6HPAwu7t,josé790,"+56 2 1664 5499",1882
 "Arturo Castellanos Padrón",19798021,4,arcapa@edubus.cal,Y3RXwrMlL4puHK,arcapa,"+56 9 9408 7153",2133
+"Sr. Blanca Aranda Córdova",20717282,0,srblarcOI@edubus.ceele,zWb2QhUE,sr.5405,+56-9-7618-0235,2653
 "Jorge Laboy Salcido",26842933,6,jorge2902@tourket.ceele,Z0BPAf0ogyzOixD,jorge9830,"+56 9 3426 6612",2717
 "Sr. Marco Antonio Valentín Calderón",15570175,7,sr.6319@edubus.ceele,KmoI9N3GXlhkE2,Sr.calderón,"+56 2 5097 5705",5438
 "Homero Ojeda Farías",28248711,0,homero4099@marmol.com,S25rrXmOWGGUM,homero5652,"+56 9 2017 8343",3532
@@ -4861,13 +4804,12 @@ x,28783796,8,lumafe@outluc.ceele,qHUYImrhxr5NIFh,lucia9831,x,2072
 "Sr. Ignacio Casas Delacrúz",18138899,4,sr.2840@outluc.com,1gkBmEOc0UG,srigcade,"+56 9 3005 1145",6762
 "Sancho Escamilla Santacruz",13741840,1,Sanchosantacruz@tourket.ceele,UW8y5Chl,Sanchosantacruz,"+56 9 7560 2181",2925
 "Leticia Granados Carrasquillo",27451499,0,leticia3379@wass.com,FV0Xt73z,Leticiacarrasquillo,"+56 2 8068 9082",1736
-x,23511340,x,honaca@wass.ceele,hoYQOK7Zubl7xq3,honaca,x,1759
 "Rosa Jasso Rojas",25258047,6,rosa7826@marmol.com,hZeem4mWDsX,rojaro,"+56 2 6911 7832",4422
 "Julio Aponte Badillo",13672956,0,juapba@marmol.ceele,PXNV9vNr3,juapba,"+56 9 6298 9607",4271
 "Julio Aponte Badillo",13672956,0,juapba@marmol.com,PXNV9vNr3,juapba,"+56 9 6298 9607",4271
 "Sra. Bernardo Gallardo Bueno",15818703,5,sra.9232@marmol.com,4zpMoODE6Y,Sra.bueno,"+56 2 2714 1099",3958
 "Enrique Ledesma Santiago",7072777,3,enrique6723@viajesanma.ceele,qAfr1IURpQOZuM,enlesa,"+56 2 9247 0811",7612
-x,16861310,5,emrega@marmol.com,EtzBnb2I,Emiliogarcía,+56-9-3458-2990,1324
+"Emilio Reyna García",16861310,5,emrega@marmol.com,EtzBnb2I,Emiliogarcía,"+56 9 3458 2990",1324
 "Sra. Elsa Fierro Apodaca",4218524,8,Sra.apodaca@wass.com,7SouAsQM,sra.8183,+56-2-1680-3946,2866
 "Sra. Pedro Ríos Montez",5139475,5,sra.2249@tourket.com,rGAGkfEAi9VJDQ,Sra.montez,+56-2-8338-0932,6157
 "Julia Grijalva Vera",3916545,7,jugrve@wass.ceele,ccZQrAaIS7n,Juliavera,"+56 2 8775 8123",363
@@ -4904,6 +4846,7 @@ x,16861310,5,emrega@marmol.com,EtzBnb2I,Emiliogarcía,+56-9-3458-2990,1324
 "Tomás Sarabia Cavazos",487668,7,tomOes3229@tourket.com,8ePuKDoNa7DfT,tomás114,"+56 2 5367 6319",2813
 "José Emilio Angulo Véliz",27791488,3,josOo9538@wass.com,sM4twiPH81MfO,Josévéliz,+56-9-7320-0288,1453
 "Vicente Ulibarri Madrid",12735427,8,vicente8448@tourket.ceele,fjicbBh20oih8sW,vicente9694,"+56 2 2209 0818",7953
+"Clara Malave Lara",10614917,8,clara7557@wass.com,VEnub1DlFa,clmala,"+56 2 7016 9138",7716
 "Mateo Peralta Rivero",26961120,0,mateo8314@tourket.com,22l75kGxDEa8o0,Mateorivero,"+56 2 1082 8569",833
 "Beatriz Aguirre Terrazas",14237029,8,beatriz8073@edubus.cal,xshe4vsp0KRY,beatriz7491,"+56 9 2656 5551",1967
 "Sra. Ariadna Urbina Garibay",15018032,5,sra.2286@tourket.com,xvwx1dddKQGZK,srarurga,"+56 2 2924 5831",7392

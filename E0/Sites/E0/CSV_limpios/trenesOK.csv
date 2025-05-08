@@ -9,7 +9,6 @@ codigo_reserva,correo_empleado,numero_viaje,lugar_origen,lugar_llegada,capacidad
 536388,isallo@viajes.cl,28190,Algeciras,Barcelona,7,3789,479000,"SNCB (Bélgica)","{Wifi,Comida,Baño,Calefacción,TV,Agua,""Aire acondicionado""}","{""Hospitalet de LLobregat"",Sagunto}"
 536389,josefina2243@viajes.cl,48433,Barcelona,Benalmádena,73,3797,229000,"Deutsche Bahn (DB)","{Wifi,TV,Calefacción,Baño,""Aire acondicionado"",Comida,""Asientos reclinables""}","{Salamanca,Reus,Mérida,""Sanlúcar de Barrameda""}"
 536404,miguel4767@viajes.cl,83513,"Dos Hermanas",Vigo,93,2344,203000,"NSB (Noruega)","{Calefacción,Wifi,Comida,""Aire acondicionado"",Agua}","{""Collado Villalba"",Telde,Estepona,""Castellón de la Plana"",Coslada}"
-536415,Florenciaarias@viajes.cl,x,Gerona,"El Puerto de Santa María",82,x,354000,"TGV (SNCF)","{Calefacción,Agua,Comida,Baño,""Asientos reclinables"",TV,""Aire acondicionado""}","{Lorca,Ferrol,Mataró}"
 536416,Maricarmenfranco@viajes.cl,93383,Valencia,Fuengirola,58,1724,114000,Trenitalia,"{Wifi,Calefacción,""Asientos reclinables"",Agua}","{Estepona,Torrelavega,Calahorra,Vitoria}"
 536419,adriana2375@viajes.cl,42056,"Santa Lucía de Tirajana",Gecho,57,2927,101000,"CD (República Checa)","{Wifi,""Asientos reclinables"",""Aire acondicionado"",Comida,Baño,TV}","{Sevilla,""Jerez de la Frontera""}"
 536425,bernardo8297@viajes.cl,27791,Gecho,PONFERRADA!!!,49,660,35000,Trenitalia,{},"{Badajoz,Segovia,Ávila}"
@@ -17,7 +16,6 @@ codigo_reserva,correo_empleado,numero_viaje,lugar_origen,lugar_llegada,capacidad
 536457,paarfi@viajes.cl,46214,Ponferrada,Lugo,33,3503,298000,"ÖBB (Austria)","{Baño,Comida,TV,Calefacción,Agua,Wifi}","{Alcorcón,Gecho,Cuenta,Motril}"
 536474,Lourdesguerra@viajes.cl,49096,x,Lorca,51,2511,115000,"CP (Portugal)","{TV,""Aire acondicionado"",Baño,""Asientos reclinables"",Agua}","{Linares,Gijón}"
 536476,gaocce@viajes.cl,30481,Lorca,"Cornellá de Llobregat",8,2911,253000,"VRZ (Croacia)","{""Aire acondicionado"",""Asientos reclinables"",Comida,TV,Wifi,Baño}","{""El Prat de LLobregat"",""Sanlúcar de Barrameda"",Alicante,Avilés}"
-536478,Sta.negrete@viajes.cl,x,Ceuta,"La Línea de la Concepción",60,x,15000,"ZFBH (Bosnia y Herzegovina)",{},"{Irún,Bilbao,Murcia,Avilés}"
 536501,agpava@viajes.ceele,25409,Pamplona,x,94,x,333000,"VR (Finlandia)","{TV,Agua,""Asientos reclinables"",Baño,Comida,Wifi,""Aire acondicionado""}","{""Molina de Segura""}"
 536521,Franciscoalejandro@viajes.cl,85844,Avilés,Palencia,29,3838,181000,Amtrak,"{TV,Calefacción,Agua,""Asientos reclinables"",Wifi,Comida,Baño}",{Algeciras}
 536525,cOosar2050@viajes.cl,8272,Palencia,Guadalajara,1,1419,66000,"VRZ (Croacia)","{Comida,Calefacción,Wifi}","{Lorca,Reus}"
@@ -44,7 +42,6 @@ codigo_reserva,correo_empleado,numero_viaje,lugar_origen,lugar_llegada,capacidad
 536637,Mateopulido@viajes.cl,77010,Orihuela,Ávila,66,4038,371000,Eurostar,"{""Aire acondicionado"",Wifi,Baño,Agua,Comida,TV,""Asientos reclinables""}",{Zaragoza}
 536638,blpaga@viajes.cl,75170,Ávila,Parla,31,2230,265000,AVE,"{TV,Calefacción,""Aire acondicionado"",Wifi,Agua}","{""Santa Lucía de Tirajana"",Baracaldo,Telde,""San Fernando""}"
 536640,alejandra851@viajes.cl,25407,Cádiz,"TALAVERA DE LA REINA!!!",32,2155,184000,"VR (Finlandia)","{Calefacción,Baño,""Asientos reclinables"",""Aire acondicionado""}","{Alcobendas,Pamplona}"
-536645,bevava@viajes.cl,x,Puertollano,GANDíA!!!,84,2698,120000,"MÁV (Hungría)","{""Asientos reclinables"",Comida,TV,Agua,""Aire acondicionado""}",{Fuengirola}
 536653,Sta.valles@viajes.cl,13742,Gandía,"Ciudad Real",28,1534,140000,Amtrak,"{""Aire acondicionado"",TV,""Asientos reclinables"",Agua}","{Puertollano,Alicante,""San Sebastián""}"
 536683,raquel8972@viajes.cl,51428,Leganés,Pamplona,32,795,96000,"MÁV (Hungría)","{Baño,Comida,""Asientos reclinables""}","{Motril,Algeciras}"
 536686,andrea9809@viajes.cl,63442,Pamplona,Guadalajara,32,1976,174000,AVE,"{TV,Agua,""Aire acondicionado"",""Asientos reclinables""}","{Lugo,""Mollet del Vallés""}"
@@ -134,7 +131,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 537601,glmool@viajes.cl,83224,Cartagena,"Santa Lucía de Tirajana",91,1667,142000,"ŽSSK (Eslovaquia)","{Wifi,Comida,Baño,Calefacción}","{Elche,""Jerez de la Frontera"",Segovia,""Cerdañola del Vallés""}"
 537632,sr.9680@viajes.ceele,22930,Alcoy,Baracaldo,79,2488,163000,Renfe,"{Comida,TV,Agua,""Aire acondicionado"",Calefacción}","{Badajoz,Benidorm,León}"
 537633,Martacontreras@viajes.cl,56272,Baracaldo,Reus,28,722,92000,"CD (República Checa)","{TV,""Asientos reclinables"",Agua}","{""La Línea de la Concepción"",Logroño,Tarragona,Vigo,Toledo}"
-537634,ramite@viajes.cl,35853,Motril,Orense,2,4159,187000,x,"{Baño,""Aire acondicionado"",""Asientos reclinables"",Calefacción,Comida,TV,Agua}","{""Cerdañola del Vallés"",Granollers}"
 537638,claudio678@viajes.cl,35340,Orense,Telde,17,4173,275000,"NS International","{Wifi,""Asientos reclinables"",Calefacción,TV,Baño,""Aire acondicionado"",Comida}","{Avilés,Getafe,Málaga}"
 537646,AnitagarcOAa@viajes.ceele,38336,Telde,Calahorra,62,3320,296000,AVE,"{Comida,Baño,""Asientos reclinables"",Wifi,Agua,Calefacción}","{Gerona,Gandía}"
 537669,AdOenOeguilar@viajes.cl,97166,Móstoles,Ferrol,81,4280,285000,Thalys,"{""Asientos reclinables"",Baño,Agua,Calefacción,Comida,TV,""Aire acondicionado""}",{Granollers}
@@ -198,7 +194,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 538252,juestOI@viajes.cl,85280,Bilbao,"TALAVERA DE LA REINA!!!",61,3362,297000,"DSB (Dinamarca)","{Wifi,TV,Agua,Baño,""Aire acondicionado"",Comida}",{Zamora}
 538352,Sr.laboy@viajes.cl,81844,x,Paterna,5,1124,x,Trenitalia,"{""Asientos reclinables"",Comida,Agua}","{Pamplona,Coslada,Tarrasa,Ponferrada}"
 538353,Rosalira@viajes.cl,3094,Paterna,Alcobendas,97,3873,159000,"BDZ (Bulgaria)",x,{Rivas-Vaciamadrid}
-538388,sofia6992@viajes.ceele,x,"San Fernando",x,46,x,84000,"ZS (Eslovenia)","{""Asientos reclinables"",TV,Baño}","{""El Puerto de Santa María"",Majadahonda}"
 538391,ester8178@viajes.cl,98604,Alicante,Arrecife,31,1367,61000,"NSB (Noruega)","{Calefacción,""Asientos reclinables"",Wifi}",{Segovia}
 538408,gumovi@viajes.ceele,99151,Cáceres,Sagunto,5,2488,245000,Italo,"{TV,Comida,Agua,""Asientos reclinables"",Calefacción}","{""El Puerto de Santa María"",Fuenlabrada,Estepona}"
 538414,Gustavozamudio@viajes.cl,55367,Sagunto,LOGROñO!!!,86,1618,115000,Amtrak,"{Comida,Calefacción,Agua,""Aire acondicionado""}","{""Cornellá de Llobregat"",""Collado Villalba"",""La Coruña""}"
@@ -288,7 +283,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 539591,Sta.lOIpez@viajes.cl,67857,Paterna,Cádiz,25,3733,407000,"ŽSSK (Eslovaquia)","{Baño,Calefacción,Wifi,Agua,""Asientos reclinables"",Comida,""Aire acondicionado""}","{Ferrol,Irún,Viladecans}"
 539592,Eduardoviera@viajes.cl,13981,Cádiz,Gecho,54,2708,178000,"BDZ (Bulgaria)","{Baño,""Aire acondicionado"",Calefacción,Wifi,Agua}",{Avilés}
 539600,Rafaelterrazas@viajes.ceele,66854,"Santa Lucía de Tirajana",Alicante,56,4083,360000,"DSB (Dinamarca)","{Baño,""Aire acondicionado"",TV,Calefacción,""Asientos reclinables"",Comida,Wifi}","{Mataró,Vitoria,Benalmádena}"
-539602,benjamOAn1243@viajes.cl,88278,alicante#,Sagunto,x,2424,129000,"SJ (Suecia)",x,"{""Castellón de la Plana"",Alcorcón,""Roquetas de Mar"",Mataró}"
 539607,Leonorgallegos@viajes.cl,936,Sagunto,Granada,16,4002,498000,"VRZ (Croacia)","{Agua,Baño,""Asientos reclinables"",TV,Comida,Wifi,""Aire acondicionado""}",{Calahorra}
 539612,stsaheme@viajes.cl,96965,Ferrol,Mérida,51,243,92000,"SNCB (Bélgica)",{},"{Granada,""Mollet del Vallés"",Gerona,Tarragona}"
 539614,savOogo@viajes.cl,42093,"Chiclana de la Frontera",Gijón,31,3553,203000,"VRZ (Croacia)","{""Aire acondicionado"",Comida,Wifi,Baño,""Asientos reclinables"",Calefacción}","{""Torrejón de Ardoz"",Alicante}"
@@ -419,7 +413,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 541129,Reinabaeza@viajes.cl,2160,"La Coruña",ALBACETE!!!,66,2141,72000,"NSB (Noruega)","{""Asientos reclinables"",Calefacción,TV,Comida}","{Lérida,Leganés,""Alcalá de Guadaira"",Ávila,Alcoy}"
 541130,Lucastijerina@viajes.cl,23307,Albacete,"San Sebastián",14,1306,92000,Renfe,"{Wifi,Comida,Calefacción}",{Alcoy}
 541137,espagu@viajes.cl,43233,Sabadell,Mérida,55,1273,55000,"CFR (Rumania)","{Calefacción,Agua,Wifi}","{""Torrejón de Ardoz""}"
-541138,ripuva@viajes.cl,55023,Mérida,Gijón,30,3858,185000,"CP (Portugal)","{Agua,""Asientos reclinables"",""Aire acondicionado"",Wifi,Baño,TV,Comida}",{Irún}
 541145,lorena9926@viajes.cl,23066,Toledo,"Mollet del Vallés",53,1474,158000,"SBB (Suiza)","{Baño,TV,Comida,""Asientos reclinables""}","{Cádiz,Lérida}"
 541146,Juliobaeza@viajes.cl,18946,"Mollet del Vallés",Marbella,40,3528,160000,"SNCB (Bélgica)","{TV,""Asientos reclinables"",Agua,Baño,""Aire acondicionado"",Wifi}","{Logroño,Paterna,Pamplona,Reus,""Castellón de la Plana""}"
 541154,Cristobalmedrano@viajes.cl,28260,"El Prat de LLobregat",Estepona,71,850,44000,"SNCB (Bélgica)","{""Asientos reclinables"",Agua,TV}","{Zaragoza,Coslada,""Santa Coloma de Gramanet"",""Talavera de la Reina""}"
@@ -560,7 +553,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 543085,sr.4109@viajes.cl,99145,Sagunto,Torrevieja,27,3842,439000,"BDZ (Bulgaria)","{""Aire acondicionado"",Baño,Agua,Comida,""Asientos reclinables"",TV,Calefacción}","{Ponferrada,Ferrol,Gandía,Alcobendas,Gerona}"
 543151,sranlear@viajes.cl,41550,Orense,Sevilla,12,1080,59000,"RZD (Rusia)","{Calefacción,Comida,""Aire acondicionado""}","{""El Ejido"",Palencia,Toledo,""Chiclana de la Frontera""}"
 543152,Sta.uribe@viajes.cl,89002,Sevilla,Arrecife,94,1560,148000,"HŽ (Croacia)","{""Aire acondicionado"",TV,Comida,Calefacción}","{""Ciudad Real"",Manresa}"
-543168,micaela8113@viajes.cl,62155,Logroño,Logroño,24,838,80000,"ZSSK (Eslovaquia)","{Calefacción,Baño,Comida}","{Leganés,""Ciudad Real"",Cádiz,Reus,Lérida}"
 543170,ravian@viajes.cl,1787,logroño#,Almería,21,2657,259000,"ŽFBH (Bosnia y Herzegovina)","{Calefacción,Agua,""Asientos reclinables"",Wifi,""Aire acondicionado""}","{Motril,Algeciras}"
 543174,benito1429@viajes.cl,59589,"el prat de llobregat#","San Sebastían de los Reyes",81,176,115000,"HŽ (Croacia)",{},{Torrevieja}
 543178,Vicenteolivera@viajes.ceele,2507,Alcoy,BENALMáDENA!!!,53,781,87000,Amtrak,"{TV,""Aire acondicionado"",Agua}","{Reus,""La Coruña"",Pontevedra,Cádiz}"
@@ -622,7 +614,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 543933,Alejandrairizarry@viajes.cl,4943,Valencia,Inca,58,1242,93000,"BDZ (Bulgaria)","{Comida,""Asientos reclinables"",TV}","{Ferrol,Lorca}"
 543934,Sra.cervOentez@viajes.cl,46908,Inca,Logroño,3,2092,188000,"BDZ (Bulgaria)","{Baño,Wifi,""Aire acondicionado"",Agua}",{Ceuta}
 543989,Leonorgallegos@viajes.cl,74163,Valdemoro,"Roquetas de Mar",35,2564,115000,"CD (República Checa)","{Calefacción,Agua,""Asientos reclinables"",TV,Comida}","{Arrecife,Irún,Torrelavega,Toledo,Motril}"
-544023,vipana@viajes.cl,15692,Pontevedra,x,38,2971,199000,"SJ (Suecia)","{TV,""Aire acondicionado"",Wifi,Agua,Calefacción,Baño}","{Leganés,""San Fernando"",Majadahonda,Torrevieja,""Santiago de Compostela""}"
 544024,mariana7516@viajes.ceele,7815,Inca,Granollers,55,3821,453000,AVE,"{Wifi,Agua,Calefacción,TV,""Asientos reclinables"",Comida,Baño}",{Alicante}
 544025,sta.7226@viajes.ceele,18006,Granollers,LORCA!!!,56,2755,244000,"RZD (Rusia)","{Baño,Comida,TV,Calefacción,Wifi}","{""Santa Cruz de Tenerife"",Orense,""El Prat de LLobregat"",Oviedo}"
 544036,lurevi@viajes.cl,39346,Lérida,Almería,29,3760,439000,"DSB (Dinamarca)","{""Aire acondicionado"",Agua,Calefacción,""Asientos reclinables"",Comida,Baño,TV}","{Gijón,Coslada}"
@@ -770,7 +761,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 545795,LuisajuOerez@viajes.cl,45723,Sagunto,Getafe,92,3656,422000,Trenitalia,"{""Aire acondicionado"",Calefacción,Wifi,TV,""Asientos reclinables"",Agua,Comida}","{Salamanca,Arrecife}"
 545801,Antonioalvarado@viajes.cl,27280,Fuenlabrada,Ávila,74,2527,155000,"CP (Portugal)","{Baño,""Asientos reclinables"",Comida,TV,""Aire acondicionado""}","{Orihuela,Gecho}"
 545898,Reinacabrera@viajes.cl,56484,"Mollet del Vallés",Santander,4,4135,267000,"Deutsche Bahn (DB)","{Agua,""Aire acondicionado"",Wifi,""Asientos reclinables"",Baño,TV,Comida}","{Gerona,Rivas-Vaciamadrid,Vigo}"
-545921,srjucOorame@viajes.cl,17051,Mataró,"EL PUERTO DE SANTA MARíA!!!",x,4096,224000,"ŽSSK (Eslovaquia)","{Wifi,Comida,""Aire acondicionado"",""Asientos reclinables"",Calefacción,TV,Baño}","{""Collado Villalba""}"
 545922,sr.2940@viajes.cl,96307,"El Puerto de Santa María",Ponferrada,90,1518,92000,"SBB (Suiza)","{Wifi,""Asientos reclinables"",Comida,Calefacción}","{""Alcalá de Guadaira"",Alcobendas}"
 545934,jorge8096@viajes.cl,82278,Alcorcón,"Alcalá de Guadaira",6,1650,162000,"VR (Finlandia)","{Baño,""Asientos reclinables"",Wifi,Comida}",{Inca}
 545948,maesha@viajes.cl,21771,Santander,ELCHE!!!,96,438,186000,"PKP (Polonia)",{},{Algeciras}
@@ -944,7 +934,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 547783,cajice@viajes.cl,45048,Irún,Salamanca,56,3178,353000,"MÁV (Hungría)","{Comida,""Aire acondicionado"",Wifi,Baño,TV,Calefacción}","{Jaén,Ferrol}"
 547786,jorge9051@viajes.cl,28286,Salamanca,Mijas,56,1183,116000,"SBB (Suiza)","{Agua,TV,Wifi}","{Alcobendas,""La Línea de la Concepción"",Algeciras,""San Fernando"",Alcorcón}"
 547787,begrza@viajes.cl,18202,Baracaldo,SANTANDER!!!,66,834,55000,"SJ (Suecia)","{Agua,Baño,Calefacción}","{""Torrejón de Ardoz"",Linares}"
-547795,Albertosolano@viajes.cl,77946,Telde,x,89,138,93000,x,{},{Coslada}
 547802,Federicocasas@viajes.cl,99512,Marbella,Gecho,51,2643,155000,"HŽ (Croacia)","{TV,Comida,Calefacción,Wifi,""Aire acondicionado""}","{Torrelavega,Barcelona,Irún,Cáceres,León}"
 547861,srcacool@viajes.cl,55050,Lorca,Badajoz,57,x,198000,Renfe,x,"{Calahorra,""El Puerto de Santa María"",Elche,Mérida,""Santa Cruz de Tenerife""}"
 547866,roberto3912@viajes.ceele,55164,"Cerdañola del Vallés","ALCALá DE HENARES!!!",65,1891,131000,"ZFBH (Bosnia y Herzegovina)","{Baño,""Aire acondicionado"",Calefacción,Wifi}","{Lérida,Granada,""Las Palmas de Gran Canaria"",Vitoria}"
@@ -967,8 +956,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 547979,grhera@viajes.cl,93158,Mérida,Ponferrada,45,1151,139000,"CP (Portugal)","{TV,Calefacción,Wifi}","{""Sanlúcar de Barrameda""}"
 547982,Albertofigueroa@viajes.cl,16267,Arrecife,Alcorcón,6,3472,325000,"BDZ (Bulgaria)","{""Aire acondicionado"",Baño,Agua,Calefacción,Comida,TV}","{""Dos Hermanas"",Reus,Tarrasa}"
 547983,claudio1975@viajes.cl,94254,Huelva,JAéN!!!,69,3225,389000,"CP (Portugal)","{""Asientos reclinables"",Agua,Baño,Comida,Wifi,TV}","{Ávila,Cuenta,Algeciras}"
-547988,sr.7950@viajes.cl,x,Alcoy,x,69,3137,388000,"RZD (Rusia)","{TV,Agua,""Asientos reclinables"",Calefacción,Baño,Comida}","{Linares,Cádiz}"
-547989,srcrfrma@viajes.cl,x,Granollers,Vitoria,97,x,x,"ZFBH (Bosnia y Herzegovina)","{Comida,Wifi,Baño,""Aire acondicionado""}","{Telde,""Cornellá de Llobregat"",""Sanlúcar de Barrameda"",Bilbao}"
 547992,joluarsa@viajes.cl,71668,Pamplona,Estepona,19,999,98000,"ZFBH (Bosnia y Herzegovina)","{Agua,TV,Baño}","{""Dos Hermanas"",Estepona,Granada,Alicante,Avilés}"
 547993,rosa6323@viajes.cl,64142,Estepona,Elda,94,2292,207000,"TGV (SNCF)","{Wifi,""Aire acondicionado"",Agua,""Asientos reclinables"",TV}","{Paterna,Pamplona,""Palma de Mallorca"",Mataró}"
 548007,Sta.muro@viajes.cl,37699,lorca#,Mérida,83,3344,305000,"RZD (Rusia)","{Wifi,Comida,Calefacción,TV,""Aire acondicionado"",Baño}","{Toledo,Coslada,Santander,Reus,Benalmádena}"
@@ -1081,7 +1068,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 549582,Hugoelizondo@viajes.cl,66707,"San Fernando",Lérida,67,3271,122000,"CFR (Rumania)","{Agua,Calefacción,TV,Baño,Comida,""Asientos reclinables""}","{""Dos Hermanas"",Sabadell,Orihuela,Cuenta}"
 549585,elmoor@viajes.ceele,74043,Lérida,Sabadell,32,3642,256000,"ZSSK (Eslovaquia)","{""Asientos reclinables"",Calefacción,Comida,""Aire acondicionado"",TV,Agua,Wifi}","{Guadalajara,Motril,Vitoria,Calahorra,Valencia}"
 549591,srgeanma@viajes.cl,55608,Cádiz,"Cerdañola del Vallés",81,459,98000,"ŽFBH (Bosnia y Herzegovina)",{},"{""Dos Hermanas"",Orihuela,""Santa Cruz de Tenerife"",Cádiz,Málaga}"
-549603,stgrchli@viajes.cl,56178,segovia#,x,100,x,112000,"PKP (Polonia)","{TV,""Asientos reclinables"",Agua,""Aire acondicionado"",Baño}","{Gerona,Torremolinos,Parla}"
 549641,Rosabaca@viajes.cl,65793,Granada,Valencia,52,360,123000,Renfe,{},"{Pontevedra,Benalmádena,Sevilla,""Santa Cruz de Tenerife"",Badalona}"
 549650,Sergioorozco@viajes.cl,48638,Cartagena,Benidorm,45,3169,358000,"Nederlandse Sp","{Comida,Agua,TV,Wifi,Calefacción,""Aire acondicionado""}","{Marbella,Gijón,Majadahonda,Málaga}"
 549659,viOevgu@viajes.cl,6178,Irún,Viladecans,6,4031,440000,"SBB (Suiza)","{Calefacción,""Aire acondicionado"",TV,Wifi,Comida,Baño,Agua}","{""Roquetas de Mar""}"
@@ -1324,7 +1310,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 553076,Alejandrairizarry@viajes.cl,87408,Logroño,"San Sebastían de los Reyes",45,1579,166000,"NS International","{""Aire acondicionado"",Baño,Wifi,Agua}","{""El Ejido"",Ferrol,Barcelona,""San Sebastián"",Lérida}"
 553077,sra.1484@viajes.cl,28154,"San Sebastían de los Reyes","Castellón de la Plana",97,451,163000,"RZD (Rusia)",{},"{Salamanca,Cáceres,Benidorm,""Mollet del Vallés"",Valdemoro}"
 553097,ana514@viajes.cl,26074,Torremolinos,"Santiago de Compostela",50,2424,135000,"ZSSK (Eslovaquia)","{Baño,Comida,Agua,Wifi,Calefacción}","{Tarrasa,Getafe,""Talavera de la Reina"",Valdemoro}"
-553102,stlipeva@viajes.cl,62574,x,BILBAO!!!,x,387,90000,Eurostar,{},"{Valdemoro,Majadahonda,""Santa Lucía de Tirajana"",Valladolid}"
 553103,rosa6323@viajes.cl,57300,Bilbao,Barcelona,92,3996,340000,"SJ (Suecia)","{Baño,TV,Calefacción,""Aire acondicionado"",Agua,Wifi,""Asientos reclinables""}","{""El Ejido"",León}"
 553151,agustOAn6873@viajes.cl,78931,Elda,Coslada,15,2594,131000,"SBB (Suiza)","{""Aire acondicionado"",Calefacción,Wifi,TV,Baño}",{Torrelavega}
 553158,vOAcaco@viajes.cl,97556,Coslada,León,72,3898,222000,"MÁV (Hungría)","{Agua,Calefacción,""Asientos reclinables"",Wifi,Comida,Baño,""Aire acondicionado""}","{Ferrol,Córdoba,Torrelavega,Huelva,Valencia}"
@@ -1396,7 +1381,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 553937,felipe6550@viajes.cl,98624,Ceuta,Parla,19,2781,200000,AVE,"{Baño,TV,Wifi,Comida,""Aire acondicionado""}","{Segovia,Telde,Segovia,Pontevedra}"
 553973,MarOAaOevila@viajes.cl,925,Tarragona,"Alcalá de Guadaira",92,310,155000,"CP (Portugal)",{},"{Ceuta,Pontevedra,Barcelona,""Roquetas de Mar"",Pamplona}"
 553987,amalia5995@viajes.cl,36932,"Palma de Mallorca","Mollet del Vallés",83,1684,199000,"NS International","{Baño,Calefacción,Comida,""Aire acondicionado""}","{Torremolinos,Mijas,Orense,Sabadell,Lérida}"
-554018,rosalia2275@viajes.cl,27480,"Las Palmas de Gran Canaria",Logroño,63,x,88000,x,"{TV,Calefacción,Comida}","{Benidorm,Baracaldo,Alcobendas,Ávila}"
 554020,sr.7320@viajes.cl,60335,Toledo,"Las Palmas de Gran Canaria",45,4151,298000,"HŽ (Croacia)","{Agua,""Asientos reclinables"",Baño,""Aire acondicionado"",TV,Calefacción,Comida}","{Granollers,""Chiclana de la Frontera"",Telde,""El Ejido"",Orense}"
 554026,manuela4257@viajes.cl,78760,Ferrol,"Castellón de la Plana",70,2313,81000,"SNCB (Bélgica)","{""Aire acondicionado"",Baño,Agua,Calefacción,""Asientos reclinables""}","{Irún,Móstoles,Alcorcón,""Cerdañola del Vallés""}"
 554027,Alfredocortez@viajes.cl,66521,"Castellón de la Plana","Dos Hermanas",75,3230,400000,"ZSSK (Eslovaquia)","{""Asientos reclinables"",""Aire acondicionado"",Wifi,TV,Calefacción,Agua}","{Alcorcón,Avilés,Almería,""El Prat de LLobregat"",Barcelona}"
@@ -1408,7 +1392,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 554104,lourdes4557@viajes.cl,15910,"el prat de llobregat#",Huelva,45,791,123000,"CFR (Rumania)","{Baño,""Aire acondicionado"",Comida}","{Elche,""Ciudad Real"",""Talavera de la Reina"",Linares}"
 554111,gabriel3001@viajes.cl,11589,Sabadell,"Collado Villalba",29,583,25000,"CP (Portugal)",{},"{""Cornellá de Llobregat"",Córdoba,Burgos}"
 554181,Miguelregalado@viajes.cl,65666,Benalmádena,"Cornellá de Llobregat",65,2606,139000,"VR (Finlandia)","{""Asientos reclinables"",Comida,Wifi,Calefacción,Agua}",{Torrevieja}
-554183,silvia6632@viajes.ceele,x,x,Cuenta,56,649,13000,x,{},"{""Santa Coloma de Gramanet"",Vigo,Cádiz}"
 554201,yoaror@viajes.cl,89828,Sabadell,"Ciudad Real",94,191,11000,"ÖBB (Austria)",{},"{Ponferrada,Tarrasa}"
 554202,gabriela2800@viajes.cl,36558,"Ciudad Real",Torrelavega,57,919,139000,"MÁV (Hungría)","{TV,Wifi,""Aire acondicionado""}","{Ponferrada,Badajoz}"
 554265,hozavi@viajes.cl,45484,Rivas-Vaciamadrid,Gerona,72,1987,86000,"TGV (SNCF)","{Agua,Baño,Comida,Calefacción}","{""La Coruña"",Arrecife,""La Línea de la Concepción"",Baracaldo}"
@@ -1466,7 +1449,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 555055,crgapo@viajes.cl,40537,"Pozuelo de Alarcón",Estepona,68,3739,241000,"ŽSSK (Eslovaquia)","{Baño,Agua,""Asientos reclinables"",""Aire acondicionado"",TV,Wifi,Calefacción}","{Ceuta,Motril,Huelva,Granada,Parla}"
 555060,MarOAapuente@viajes.cl,25402,Estepona,Toledo,71,2813,169000,Eurostar,"{Baño,Wifi,Comida,TV,Calefacción}","{Puertollano,Rubí,Benalmádena,Mérida,Alicante}"
 555061,paceru@viajes.cl,37938,Toledo,Tarrasa,67,157,119000,"PKP (Polonia)",{},"{Córdoba,Manresa}"
-555080,sra.4397@viajes.cl,x,Sagunto,"COLLADO VILLALBA!!!",30,x,x,"ZS (Eslovenia)","{""Aire acondicionado"",Comida,TV,Baño,""Asientos reclinables"",Wifi}",{Badajoz}
 555097,glzaes@viajes.cl,17455,Fuenlabrada,Torremolinos,82,1870,191000,"MÁV (Hungría)","{""Aire acondicionado"",Calefacción,Comida,""Asientos reclinables""}","{Guadalajara,""El Puerto de Santa María"",Orihuela,Palencia}"
 555102,isabel4543@viajes.cl,76676,Baracaldo,"POZUELO DE ALARCóN!!!",2,770,100000,"NS International","{""Aire acondicionado"",""Asientos reclinables"",Wifi}","{Córdoba,Tarragona}"
 555157,horacio9994@viajes.cl,52092,Gandía,"El Puerto de Santa María",24,2105,89000,"ÖBB (Austria)","{Comida,""Aire acondicionado"",""Asientos reclinables"",Calefacción}","{Granada,Alcoy,Gijón}"
@@ -1557,13 +1539,11 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 556135,carmen2339@viajes.cl,15607,Mérida,"La Línea de la Concepción",77,2623,219000,"TGV (SNCF)","{Wifi,""Aire acondicionado"",Baño,TV,""Asientos reclinables""}","{Jaén,Tarrasa,Irún,""Collado Villalba"",Torremolinos}"
 556136,guabsa@viajes.cl,71672,Irún,Alcorcón,4,1140,148000,"SJ (Suecia)","{Comida,Baño,""Asientos reclinables""}","{Huelva,Santander,Albacete}"
 556137,roberto3912@viajes.cl,89196,Alcorcón,"La Línea de la Concepción",36,1328,123000,"NS International","{""Aire acondicionado"",Comida,TV}","{""Torrejón de Ardoz""}"
-556138,Claudiaraya@viajes.cl,x,x,Madrid,26,3081,128000,"ZSSK (Eslovaquia)","{Agua,Wifi,Comida,TV,Baño,Calefacción}","{""San Sebastián"",Linares,Bilbao}"
 556144,bemole@viajes.cl,36256,Madrid,Toledo,47,1178,46000,"MÁV (Hungría)","{Calefacción,""Aire acondicionado"",Agua}","{""La Línea de la Concepción""}"
 556152,raquel8972@viajes.cl,46149,Toledo,Marbella,72,1847,87000,"CFR (Rumania)","{Wifi,Comida,Calefacción,Baño}","{Elda,""Cornellá de Llobregat"",""Castellón de la Plana""}"
 556154,homero3606@viajes.cl,32198,"Santa Cruz de Tenerife",Tarrasa,14,503,21000,"ZSSK (Eslovaquia)",{},"{""San Sebastián"",Mataró,Sagunto}"
 556155,Lourdesguerra@viajes.cl,94031,Tarrasa,Irún,88,2756,139000,"HŽ (Croacia)","{Wifi,""Asientos reclinables"",Comida,Baño,TV}","{Guadalajara,Granollers,Ferrol,Baracaldo,Mérida}"
 556163,Estersaucedo@viajes.ceele,62383,Huelva,Jaén,16,3707,279000,"SBB (Suiza)","{""Aire acondicionado"",Agua,Calefacción,Comida,Baño,Wifi,""Asientos reclinables""}","{Motril,Mataró}"
-556164,teresa802@viajes.cl,x,x,"Dos Hermanas",1,2762,218000,"ZSSK (Eslovaquia)","{""Aire acondicionado"",Baño,Calefacción,Wifi,TV}","{Manresa,""San Sebastián"",Alcorcón,Elche}"
 556165,Isabelfigueroa@viajes.cl,2193,"Dos Hermanas",x,x,3751,x,"ŽFBH (Bosnia y Herzegovina)","{TV,Comida,Agua,""Aire acondicionado"",Wifi,Calefacción,""Asientos reclinables""}","{Pontevedra,Albacete,""San Fernando"",Parla,Oviedo}"
 556174,srpaalme@viajes.cl,7662,"Cornellá de Llobregat",Vitoria,9,2814,139000,"CFR (Rumania)","{Baño,""Asientos reclinables"",Wifi,Calefacción,TV}","{Granada,Arrecife,Marbella}"
 556175,mahaca@viajes.cl,77416,Vitoria,Sabadell,82,2600,196000,"MÁV (Hungría)","{Calefacción,TV,""Aire acondicionado"",Agua,Wifi}",{Mataró}
@@ -1661,7 +1641,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 557292,NormatOollez@viajes.cl,19279,Jaén,"Molina de Segura",86,3089,233000,"ÖBB (Austria)","{TV,Baño,Calefacción,Comida,Wifi,Agua}","{""La Línea de la Concepción"",Córdoba,Ferrol,Paterna,""Dos Hermanas""}"
 557306,LuisamunguOAa@viajes.cl,47521,"Chiclana de la Frontera","Sanlúcar de Barrameda",26,2427,222000,"Nederlandse Sp","{Wifi,""Aire acondicionado"",Baño,""Asientos reclinables"",Comida}","{""Talavera de la Reina"",""San Sebastían de los Reyes"",Valladolid}"
 557308,vOActor8567@viajes.cl,26699,"Sanlúcar de Barrameda",GIJóN!!!,97,2879,278000,"ŽFBH (Bosnia y Herzegovina)","{Wifi,TV,""Asientos reclinables"",Agua,Comida}","{Madrid,Almería}"
-557310,Rodrigoceja@viajes.cl,x,"San Sebastián",ZAMORA!!!,56,436,133000,"ŽFBH (Bosnia y Herzegovina)",{},"{Guadalajara,Cádiz}"
 557354,Robertoornelas@viajes.cl,77600,"El Prat de LLobregat",Badalona,27,4019,350000,"RZD (Rusia)","{Baño,Calefacción,Wifi,TV,""Asientos reclinables"",""Aire acondicionado"",Comida}","{Jaén,Benalmádena,""Santa Cruz de Tenerife"",Alcorcón}"
 557355,sra.2677@viajes.cl,37335,Badalona,Sagunto,92,1480,82000,"ZS (Eslovenia)","{Agua,""Aire acondicionado"",Comida,""Asientos reclinables""}","{Benidorm,Oviedo,Pontevedra,Torrelavega}"
 557358,claudio3752@viajes.cl,82059,Sagunto,Tarragona,86,3652,390000,Amtrak,"{""Asientos reclinables"",Baño,Calefacción,""Aire acondicionado"",Comida,Wifi,Agua}","{Paterna,Albacete,Jaén}"
@@ -1779,9 +1758,7 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 558677,Federicomadera@viajes.cl,71656,Parla,Ceuta,5,745,102000,Eurostar,"{Comida,""Asientos reclinables"",TV}","{Fuenlabrada,""Santa Cruz de Tenerife"",Elche,""Santa Cruz de Tenerife""}"
 558678,luz4383@viajes.cl,25702,Barcelona,"Dos Hermanas",39,3667,413000,"SNCB (Bélgica)","{TV,Calefacción,Agua,Wifi,""Asientos reclinables"",Comida,""Aire acondicionado""}","{Benidorm,Torrelavega,""Santiago de Compostela""}"
 558685,sta.9484@viajes.cl,46830,"Dos Hermanas","Pozuelo de Alarcón",50,1996,194000,"NSB (Noruega)","{""Aire acondicionado"",Comida,""Asientos reclinables"",Calefacción}","{Albacete,""Alcalá de Guadaira"",""Dos Hermanas"",""La Línea de la Concepción"",""El Puerto de Santa María""}"
-558708,maboes@viajes.cl,7276,"Roquetas de Mar",Inca,10,1766,121000,"PKP (Polonia)","{Comida,Calefacción,Wifi,Agua}","{Gijón,""Las Palmas de Gran Canaria"",Sabadell}"
 558711,Albertoarreola@viajes.cl,89754,Segovia,Córdoba,22,1534,165000,AVE,"{Agua,""Aire acondicionado"",Comida,Baño}","{Valencia,Gecho,""Alcalá de Guadaira"",Cartagena,""Cornellá de Llobregat""}"
-558718,Sr.curiel@viajes.cl,x,"Torrejón de Ardoz",Ponferrada,22,x,118000,"ZSSK (Eslovaquia)","{""Aire acondicionado"",Comida,""Asientos reclinables"",Wifi,Agua,TV}","{Oviedo,Viladecans}"
 558737,inlagu@viajes.cl,44125,Mataró,"Alcalá de Henares",80,744,83000,"NSB (Noruega)","{Wifi,Baño,""Asientos reclinables""}","{Irún,""Hospitalet de LLobregat"",Inca}"
 558750,OIsorba@viajes.cl,86819,Viladecans,Badalona,90,2071,92000,"BDZ (Bulgaria)","{Baño,Comida,""Aire acondicionado"",""Asientos reclinables""}",{Lugo}
 558753,magdalena7633@viajes.cl,94957,Badalona,"Collado Villalba",87,3174,260000,"PKP (Polonia)","{Calefacción,Baño,TV,Comida,""Aire acondicionado"",Wifi}","{""Jerez de la Frontera""}"
@@ -2059,7 +2036,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 562444,ramiro7137@viajes.cl,57119,"Hospitalet de LLobregat",Cartagena,2,1398,123000,Eurostar,"{Wifi,""Asientos reclinables"",""Aire acondicionado""}","{""Roquetas de Mar"",Badalona,Avilés}"
 562464,florencia2397@viajes.cl,81744,Sabadell,"El Puerto de Santa María",48,4232,334000,"ŽFBH (Bosnia y Herzegovina)","{Comida,Agua,Calefacción,TV,""Aire acondicionado"",Baño,""Asientos reclinables""}","{""Cornellá de Llobregat"",Paterna,""Las Palmas de Gran Canaria"",""Roquetas de Mar""}"
 562485,sta.8391@viajes.cl,1392,Torremolinos,"Cornellá de Llobregat",84,2071,57000,"ŽFBH (Bosnia y Herzegovina)","{Wifi,Comida,Baño,Calefacción}","{Telde,""La Línea de la Concepción""}"
-562492,federico4047@viajes.ceele,x,"cornellá de llobregat#","La Línea de la Concepción",87,x,238000,"ZS (Eslovenia)","{Baño,Comida,Calefacción,""Asientos reclinables"",Wifi}","{Ceuta,""Roquetas de Mar"",Zamora,Irún}"
 562499,sr.9680@viajes.cl,75064,"La Línea de la Concepción","San Fernando",68,3255,214000,"SJ (Suecia)","{""Asientos reclinables"",TV,Baño,Calefacción,""Aire acondicionado"",Agua}","{Ceuta,Rivas-Vaciamadrid,Huelva,Mataró}"
 562599,pedro2581@viajes.cl,65015,Torrevieja,MANRESA!!!,36,1539,115000,"Nederlandse Sp","{Calefacción,Wifi,""Aire acondicionado"",Baño}","{""Ciudad Real"",""Santiago de Compostela"",""Santa Lucía de Tirajana""}"
 562615,sra.2677@viajes.ceele,66836,Córdoba,Sevilla,74,2808,120000,"NSB (Noruega)","{Baño,Comida,""Asientos reclinables"",Calefacción,Wifi}","{Coslada,Huelva}"
@@ -2075,7 +2051,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 562743,Reinabaeza@viajes.cl,87348,"Mollet del Vallés",Majadahonda,84,2180,126000,"CFR (Rumania)","{Comida,Agua,Calefacción,Wifi,""Asientos reclinables""}","{""El Prat de LLobregat""}"
 562749,josOo3692@viajes.cl,43164,Marbella,TORREVIEJA!!!,39,3805,376000,Eurostar,"{""Aire acondicionado"",Baño,Wifi,""Asientos reclinables"",Comida,Agua,Calefacción}","{Getafe,Rubí,Parla}"
 562753,Sra.Oevila@viajes.cl,75062,"San Fernando",Pamplona,71,1902,128000,"MÁV (Hungría)","{""Aire acondicionado"",Wifi,Agua,Baño}",{Mijas}
-562811,AndrOoscintrOIn@viajes.cl,22017,fuenlabrada#,"Mollet del Vallés",29,3151,154000,"SNCB (Bélgica)",x,"{""Alcalá de Henares"",Tarrasa}"
 562819,srmatetega@viajes.cl,75524,"Mollet del Vallés",Avilés,93,2087,107000,"ÖBB (Austria)","{Comida,""Aire acondicionado"",TV,Calefacción}","{Orihuela,Bilbao,""Sanlúcar de Barrameda"",""Dos Hermanas"",""Roquetas de Mar""}"
 562824,Anapacheco@viajes.cl,59696,Cuenta,"Jerez de la Frontera",68,1486,72000,"RZD (Rusia)","{Agua,""Aire acondicionado"",Comida,""Asientos reclinables""}",{Marbella}
 562838,iscela@viajes.cl,76370,"hospitalet de llobregat#",Valdemoro,71,3047,302000,"NS International","{Calefacción,Wifi,""Asientos reclinables"",Agua,TV,Baño}","{Bilbao,""Mollet del Vallés"",""Torrejón de Ardoz""}"
@@ -2146,7 +2121,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 563682,grmuca@viajes.cl,93469,Baracaldo,Tarrasa,58,2639,128000,"ŽFBH (Bosnia y Herzegovina)","{Agua,""Aire acondicionado"",Baño,Wifi,Calefacción}","{""Pozuelo de Alarcón"",""Chiclana de la Frontera"",""Mollet del Vallés""}"
 563703,david8760@viajes.ceele,90639,"Santa Lucía de Tirajana",Pontevedra,15,2078,173000,Amtrak,"{""Aire acondicionado"",Agua,Calefacción,Comida}","{Vigo,""Santa Lucía de Tirajana""}"
 563704,stvOAesma@viajes.cl,68685,Pontevedra,Marbella,37,1748,142000,AVE,"{""Asientos reclinables"",Calefacción,TV,Comida}","{Alcobendas,Valencia,Alcorcón}"
-563720,Maricarmenfranco@viajes.cl,16724,Parla,"Jerez de la Frontera",16,2173,138000,"ZFBH (Bosnia y Herzegovina)","{Calefacción,""Aire acondicionado"",""Asientos reclinables"",Baño,Agua}","{Badajoz,Orihuela,""Chiclana de la Frontera""}"
 563721,maruch@viajes.cl,49075,"Jerez de la Frontera",Getafe,39,668,52000,Eurostar,{},"{Jaén,""Santa Lucía de Tirajana"",Madrid,Fuenlabrada}"
 563722,OIszaro@viajes.cl,15873,Getafe,"Cerdañola del Vallés",82,2890,258000,"RZD (Rusia)","{Wifi,Baño,Agua,TV,Comida,Calefacción}","{Parla,Fuenlabrada,Baracaldo,Rivas-Vaciamadrid}"
 563732,maesha@viajes.cl,20143,"La Línea de la Concepción",Bilbao,60,4125,193000,"SNCB (Bélgica)","{Calefacción,Comida,""Aire acondicionado"",Baño,TV,Agua,""Asientos reclinables""}","{Sagunto,Pamplona,Arrecife,Viladecans,Arrecife}"
@@ -2157,7 +2131,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 563748,jomaro@viajes.cl,84060,Jaén,Móstoles,38,169,98000,"ŽFBH (Bosnia y Herzegovina)",{},"{""Santa Cruz de Tenerife""}"
 563756,coelni@viajes.cl,17723,Móstoles,"El Ejido",77,3286,327000,"TGV (SNCF)","{Agua,Baño,""Aire acondicionado"",""Asientos reclinables"",TV,Comida}","{Coslada,Marbella,Calahorra,Cuenta}"
 563772,Lourdesgamez@viajes.cl,45399,Leganés,Viladecans,29,410,22000,"DSB (Dinamarca)",{},"{Barcelona,Granollers}"
-563773,pedro4478@viajes.cl,48735,x,Cuenta,28,638,76000,Italo,{},"{Elda,Gandía,Majadahonda}"
 563780,marOAa1272@viajes.cl,84887,Tarrasa,Badalona,66,2439,120000,"VR (Finlandia)","{Calefacción,Agua,""Asientos reclinables"",TV,""Aire acondicionado""}",{Puertollano}
 563793,Hugorazo@viajes.cl,24332,Estepona,"Cornellá de Llobregat",33,1117,149000,AVE,"{""Asientos reclinables"",""Aire acondicionado"",Calefacción}","{Fuenlabrada,Toledo,""Palma de Mallorca""}"
 563797,Guillermovaladez@viajes.cl,95506,"Cornellá de Llobregat",Puertollano,78,3375,226000,"VR (Finlandia)","{""Asientos reclinables"",Wifi,TV,Agua,Comida,Calefacción}","{Tarragona,Valencia,Algeciras,Elda}"
@@ -2338,7 +2311,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 565957,benjamOAn622@viajes.cl,30153,Algeciras,"Santa Lucía de Tirajana",95,518,71000,"NSB (Noruega)",{},{Torremolinos}
 566075,Maricarmencenteno@viajes.cl,62168,Avilés,Oviedo,79,483,42000,"ZSSK (Eslovaquia)",{},"{Jaén,Valencia,""Castellón de la Plana"",""Torrejón de Ardoz""}"
 566089,jesOUs8001@viajes.ceele,94723,Huelva,Valladolid,34,910,105000,"ŽSSK (Eslovaquia)","{Comida,Calefacción,TV}",{Málaga}
-566095,lorena3710@viajes.cl,x,Valladolid,"Mollet del Vallés",17,x,392000,x,"{Wifi,Baño,""Asientos reclinables"",Calefacción,Comida,""Aire acondicionado""}",{Coslada}
 566138,dialsa@viajes.cl,71221,Paterna,Zamora,70,3043,376000,"SJ (Suecia)","{TV,Baño,Calefacción,Agua,""Asientos reclinables"",Wifi}","{Mijas,""Chiclana de la Frontera""}"
 566142,roberto7144@viajes.cl,10027,Zamora,Santander,53,2548,188000,"ŽSSK (Eslovaquia)","{""Asientos reclinables"",Agua,Calefacción,Baño,TV}","{""Santa Cruz de Tenerife"",Fuengirola}"
 566148,LorenamacOAas@viajes.cl,85099,Santander,Estepona,17,3258,131000,"CFR (Rumania)","{""Aire acondicionado"",Wifi,Comida,Baño,Agua,""Asientos reclinables""}",{Zamora}
@@ -2390,7 +2362,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 566679,Sta.rojas@viajes.cl,1639,Huelva,"El Prat de LLobregat",30,3716,443000,Eurostar,"{TV,Wifi,Baño,Calefacción,Comida,""Asientos reclinables"",""Aire acondicionado""}","{""Torrejón de Ardoz"",Fuengirola}"
 566681,sra.5341@viajes.cl,49376,Elche,Torrelavega,74,3965,309000,"RZD (Rusia)","{TV,""Aire acondicionado"",Calefacción,Agua,Wifi,Comida,""Asientos reclinables""}",{Baracaldo}
 566699,sthoropa@viajes.cl,12526,Madrid,Santander,71,726,89000,Thalys,"{Comida,""Aire acondicionado"",""Asientos reclinables""}","{Torrelavega,Cáceres,Benalmádena,Orense}"
-566704,Juliobatista@viajes.cl,27347,Santander,Logroño,66,x,282000,"ZSSK (Eslovaquia)","{""Asientos reclinables"",Agua,""Aire acondicionado"",Comida,Baño}","{Orihuela,Sabadell,""Alcalá de Henares""}"
 566705,anlucogo@viajes.cl,15969,logroño#,"Sanlúcar de Barrameda",100,2243,181000,"ŽFBH (Bosnia y Herzegovina)","{Agua,""Asientos reclinables"",Comida,""Aire acondicionado"",TV}",{Alicante}
 566747,cldese@viajes.cl,12861,lugo#,Cartagena,72,1884,130000,"ŽSSK (Eslovaquia)","{TV,Baño,Calefacción,""Asientos reclinables""}","{""San Sebastían de los Reyes"",Jaén}"
 566778,Antonioalvarado@viajes.cl,83941,Vigo,Calahorra,80,219,134000,Amtrak,{},"{Cáceres,Badajoz,""Dos Hermanas"",""Molina de Segura""}"
@@ -2459,7 +2430,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 567586,sta.325@viajes.cl,79048,Sabadell,Mataró,41,1902,160000,"VRZ (Croacia)","{TV,Agua,Calefacción,Comida}",{Irún}
 567589,Gabrieladuarte@viajes.cl,77761,x,Rivas-Vaciamadrid,79,x,100000,"MÁV (Hungría)",{},"{Albacete,Badajoz,Zamora}"
 567590,sofia9256@viajes.cl,47392,Rivas-Vaciamadrid,"Alcalá de Guadaira",89,3741,294000,"RZD (Rusia)","{Baño,Wifi,Comida,Calefacción,TV,""Asientos reclinables"",Agua}","{Linares,Cádiz}"
-567591,cldepa@viajes.ceele,x,"alcalá de guadaira#",Badalona,85,1246,91000,"BDZ (Bulgaria)","{Comida,Agua,TV}","{""Ciudad Real"",""Dos Hermanas"",Motril}"
 567592,inOos7463@viajes.cl,10207,Pamplona,Santander,76,2618,172000,"ZFBH (Bosnia y Herzegovina)","{""Asientos reclinables"",""Aire acondicionado"",Comida,TV,Wifi}","{Logroño,Málaga,Sagunto,Granada}"
 567593,sra.1143@viajes.cl,50503,"Torrejón de Ardoz","El Ejido",65,3614,203000,Eurostar,"{Wifi,TV,Agua,""Aire acondicionado"",Comida,""Asientos reclinables"",Baño}","{Parla,""Ciudad Real""}"
 567602,sta.7694@viajes.cl,54553,Tarragona,Alcobendas,67,3458,245000,"ZS (Eslovenia)","{""Asientos reclinables"",TV,Wifi,Baño,Comida,Calefacción}","{Tarrasa,""Hospitalet de LLobregat"",Mijas,Jaén}"
@@ -2638,7 +2608,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 570044,samuel8942@viajes.cl,90033,Mérida,"Santa Cruz de Tenerife",81,364,51000,"NSB (Noruega)",{},{Baracaldo}
 570057,enrique2788@viajes.cl,5773,Algeciras,Barcelona,55,2548,203000,"BDZ (Bulgaria)","{Baño,""Aire acondicionado"",TV,Comida,Agua}",{Mijas}
 570058,javier4246@viajes.cl,40468,Barcelona,"Pozuelo de Alarcón",44,2820,275000,"Nederlandse Sp","{""Asientos reclinables"",TV,Comida,Baño,""Aire acondicionado""}","{Marbella,Alcoy,""El Ejido"",Murcia,Huelva}"
-570066,stjaurpa@viajes.cl,x,x,Logroño,42,2718,x,"HŽ (Croacia)","{Comida,Baño,TV,Calefacción,Wifi}","{Rivas-Vaciamadrid,Lugo,""Las Palmas de Gran Canaria"",""El Ejido"",Elda}"
 570067,Adrianajasso@viajes.cl,36952,Cádiz,"Collado Villalba",48,674,22000,Amtrak,{},"{Lérida,Torremolinos,Madrid,Majadahonda,""Molina de Segura""}"
 570068,Sta.quesada@viajes.cl,86741,"Collado Villalba",Cáceres,25,3591,383000,"ŽFBH (Bosnia y Herzegovina)","{Agua,""Asientos reclinables"",Wifi,Baño,""Aire acondicionado"",TV}",{Huelva}
 570073,adela7630@viajes.ceele,96908,Cáceres,Tarragona,86,1195,121000,"RZD (Rusia)","{Comida,""Asientos reclinables"",Calefacción}",{Burgos}
@@ -2669,7 +2638,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 570382,Sra.fernOendez@viajes.cl,8740,"Dos Hermanas","Torrejón de Ardoz",75,2444,176000,Trenitalia,"{Calefacción,Agua,Comida,Wifi,TV}","{Málaga,Palencia,Rivas-Vaciamadrid}"
 570408,bernardo8297@viajes.cl,51580,Orense,Barcelona,14,3773,288000,"HŽ (Croacia)","{""Aire acondicionado"",Agua,TV,Baño,Calefacción,Comida,""Asientos reclinables""}","{Elche,Motril}"
 570410,grmuca@viajes.cl,29661,Elda,Ferrol,74,1246,127000,Trenitalia,"{Wifi,TV,""Asientos reclinables""}","{Fuengirola,Oviedo,Vigo,Ceuta}"
-570446,josOo5340@viajes.cl,x,Pamplona,Córdoba,x,1803,110000,"ŽSSK (Eslovaquia)","{""Aire acondicionado"",Agua,Baño,""Asientos reclinables""}","{""Collado Villalba"",Segovia}"
 570447,ariadna6614@viajes.cl,18663,Córdoba,"Pozuelo de Alarcón",95,3825,265000,"Deutsche Bahn (DB)","{Agua,Wifi,Calefacción,TV,""Asientos reclinables"",""Aire acondicionado"",Baño}",{Benalmádena}
 570452,agrupe@viajes.cl,10836,Oviedo,Alcoy,46,2766,286000,"ŽFBH (Bosnia y Herzegovina)","{Calefacción,Agua,""Asientos reclinables"",TV,Baño}","{""Dos Hermanas"",Cartagena}"
 570453,mapivi@viajes.cl,30103,Alcoy,"Hospitalet de LLobregat",48,789,91000,"Deutsche Bahn (DB)","{""Aire acondicionado"",Comida,Baño}","{Mérida,Avilés,Paterna}"
@@ -2741,7 +2709,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 571236,sacuri@viajes.cl,92288,"Talavera de la Reina",Baracaldo,24,3703,332000,Eurostar,"{Comida,""Aire acondicionado"",Agua,Wifi,Baño,Calefacción,TV}","{Vitoria,Torrelavega,Marbella,Algeciras,Coslada}"
 571238,srclalor@viajes.cl,15095,Baracaldo,Parla,14,794,108000,"Nederlandse Sp","{""Aire acondicionado"",Wifi,Agua}","{Benalmádena,""El Ejido""}"
 571246,anlucogo@viajes.ceele,20809,Gijón,Alcorcón,5,4018,467000,"DSB (Dinamarca)","{Baño,Comida,TV,Wifi,""Aire acondicionado"",Calefacción,Agua}","{Mérida,Ferrol}"
-571274,sobove@viajes.cl,x,Tarrasa,Mijas,x,x,97000,"HŽ (Croacia)","{Baño,TV,Calefacción,Agua,Comida}","{Alcobendas,Almería,Logroño,Córdoba}"
 571300,LucasbenOAtez@viajes.cl,39608,Gijón,"Santa Coloma de Gramanet",87,3352,232000,"BDZ (Bulgaria)","{""Asientos reclinables"",Baño,Agua,Comida,TV,Calefacción}","{""Ciudad Real"",Ponferrada}"
 571314,Marisolsantacruz@viajes.cl,30242,albacete#,Santander,82,373,49000,"NSB (Noruega)",{},"{Alcobendas,Alcorcón,Cádiz,""Castellón de la Plana""}"
 571328,Rosabaca@viajes.cl,71295,"San Sebastían de los Reyes","LA LíNEA DE LA CONCEPCIóN!!!",24,3483,183000,"TGV (SNCF)","{""Aire acondicionado"",Calefacción,Comida,Wifi,""Asientos reclinables"",TV}","{Torrelavega,""Cornellá de Llobregat"",Alicante}"
@@ -2844,7 +2811,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 572864,andrea7429@viajes.ceele,55321,Alcobendas,"El Ejido",10,2104,87000,"BDZ (Bulgaria)","{Agua,""Aire acondicionado"",Calefacción,Baño}","{Ferrol,""La Línea de la Concepción""}"
 572871,Lorenzomalave@viajes.cl,76733,"El Ejido",Telde,39,2349,163000,Thalys,"{TV,Wifi,""Asientos reclinables"",Comida,Baño}","{Orense,Elche,""San Fernando"",""Alcalá de Henares""}"
 572876,Sra.vOezquez@viajes.cl,42586,Telde,Cartagena,94,3978,487000,Amtrak,"{Agua,Baño,Comida,""Aire acondicionado"",Wifi,""Asientos reclinables"",Calefacción}","{Toledo,Valladolid,""Chiclana de la Frontera""}"
-572894,pazaba@viajes.ceele,43475,Logroño,x,90,781,x,"NS International","{""Asientos reclinables"",Agua,Baño}","{""San Cristróbal de la Laguna"",Jaén}"
 572896,sr.8176@viajes.cl,68571,"Santiago de Compostela",Palencia,79,159,119000,Thalys,{},"{Alcorcón,Paterna}"
 572904,Leonorvallejo@viajes.cl,47768,Gerona,"Roquetas de Mar",99,3058,166000,"NS International","{Wifi,Calefacción,TV,""Aire acondicionado"",Agua,Baño}","{Bilbao,""Santiago de Compostela""}"
 572906,Patriciovillanueva@viajes.cl,46088,"Roquetas de Mar","Jerez de la Frontera",32,2621,186000,"NSB (Noruega)","{""Asientos reclinables"",Calefacción,Wifi,Agua,TV}","{Torrelavega,Getafe,Salamanca}"
@@ -2938,7 +2904,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 574136,Eloisagranado@viajes.cl,10988,Vigo,"San Fernando",86,2905,255000,"TGV (SNCF)","{Baño,Wifi,Calefacción,TV,Agua,""Aire acondicionado""}","{""Chiclana de la Frontera"",""Molina de Segura"",Ferrol,Segovia}"
 574144,gimapu@viajes.cl,15720,"San Fernando",Majadahonda,43,2926,363000,Trenitalia,"{""Asientos reclinables"",Agua,Baño,""Aire acondicionado"",TV,Comida}","{""Sanlúcar de Barrameda"",Ávila,Ponferrada,""La Línea de la Concepción""}"
 574145,bernardo9103@viajes.cl,70441,"Molina de Segura",Sevilla,49,687,21000,"ÖBB (Austria)",{},"{León,Valdemoro,Vitoria}"
-574150,sra.7488@viajes.cl,81082,Sevilla,Mijas,x,3211,315000,"RZD (Rusia)","{""Asientos reclinables"",Agua,""Aire acondicionado"",Baño,Wifi,TV}","{""Santiago de Compostela"",Bilbao,""San Sebastían de los Reyes""}"
 574161,EduardovOezquez@viajes.cl,72636,córdoba#,"Santiago de Compostela",76,350,10000,"BDZ (Bulgaria)",{},"{Badajoz,Benidorm,Avilés}"
 574162,EduardovOezquez@viajes.cl,76607,"Santiago de Compostela",Bilbao,97,3544,378000,"ŽFBH (Bosnia y Herzegovina)","{TV,Comida,""Aire acondicionado"",Agua,Baño,Wifi}","{Paterna,Jaén}"
 574208,agcato@viajes.cl,21849,Orihuela,Benidorm,33,3078,289000,"CP (Portugal)","{Calefacción,TV,""Aire acondicionado"",""Asientos reclinables"",Agua,Comida}","{Inca,Palencia,Arrecife,Valdemoro,Almería}"
@@ -3086,7 +3051,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 575908,gutolo@viajes.cl,40866,Avilés,Salamanca,48,2646,161000,"ŽSSK (Eslovaquia)","{Agua,Wifi,Calefacción,Comida,""Asientos reclinables""}",{Bilbao}
 575911,domavOe@viajes.cl,84932,Salamanca,"San Sebastían de los Reyes",74,182,55000,"DSB (Dinamarca)",{},"{""Hospitalet de LLobregat"",Huelva}"
 575978,sra.9207@viajes.cl,42150,irún#,"La Coruña",95,2210,299000,Trenitalia,"{Comida,""Aire acondicionado"",Baño,Calefacción,Wifi}","{Segovia,Gandía}"
-575981,roberto1161@viajes.cl,70169,"la coruña#",x,21,812,37000,"TGV (SNCF)","{Wifi,TV,Baño}","{""Alcalá de Guadaira"",Torrevieja,Gerona}"
 575994,framva@viajes.cl,78660,Toledo,Granollers,11,1477,100000,"Deutsche Bahn (DB)","{Baño,Comida,""Aire acondicionado"",Wifi}","{""Hospitalet de LLobregat"",Orihuela}"
 576010,lorena9926@viajes.cl,86433,"alcalá de henares#",Manresa,10,2569,163000,"Nederlandse Sp","{Baño,""Asientos reclinables"",Wifi,Calefacción,""Aire acondicionado""}","{Benalmádena,""Jerez de la Frontera"",Pamplona}"
 576055,Danielcarrero@viajes.cl,31011,vitoria#,Toledo,92,1588,135000,Thalys,"{Agua,Calefacción,""Aire acondicionado"",Wifi}","{Benalmádena,Torrevieja,""Alcalá de Guadaira"",""El Prat de LLobregat"",Calahorra}"
@@ -3099,7 +3063,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 576113,MarOAaviera@viajes.cl,29721,Marbella,"Cerdañola del Vallés",34,1620,136000,"ZFBH (Bosnia y Herzegovina)","{Calefacción,Wifi,Comida,TV}",{Reus}
 576144,Dianacuriel@viajes.cl,64614,Arrecife,Benidorm,61,1102,104000,"HŽ (Croacia)","{Calefacción,""Asientos reclinables"",TV}","{""Las Palmas de Gran Canaria""}"
 576196,Lilianaranjo@viajes.cl,42464,"Chiclana de la Frontera",Irún,1,1990,147000,Italo,"{""Asientos reclinables"",Wifi,Agua,Baño}","{""San Fernando"",Alcoy}"
-576197,Sr.badillo@viajes.cl,52378,x,Cáceres,1,2317,232000,"RZD (Rusia)","{Calefacción,Baño,""Asientos reclinables"",""Aire acondicionado"",Agua}","{Cartagena,Vigo,Viladecans,""Sanlúcar de Barrameda""}"
 576206,Sra.negrOIn@viajes.ceele,76867,Irún,León,73,3623,388000,"ZFBH (Bosnia y Herzegovina)","{Comida,Calefacción,""Aire acondicionado"",Agua,Baño,Wifi,""Asientos reclinables""}","{Cuenta,Ponferrada}"
 576240,addeve@viajes.cl,65560,Gandía,"Cerdañola del Vallés",26,1671,197000,"DSB (Dinamarca)","{""Asientos reclinables"",Baño,Comida,Wifi}",{Jaén}
 576247,Virginiaparedes@viajes.cl,70853,Albacete,BENALMáDENA!!!,69,821,50000,"ŽFBH (Bosnia y Herzegovina)","{Comida,TV,""Aire acondicionado""}","{Pamplona,""Jerez de la Frontera"",Zamora,Logroño,Telde}"
@@ -3127,7 +3090,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 576518,alberto8047@viajes.cl,14704,Cartagena,"Pozuelo de Alarcón",20,3931,247000,"CP (Portugal)","{Comida,""Asientos reclinables"",Calefacción,Wifi,Baño,""Aire acondicionado"",Agua}","{""Cerdañola del Vallés""}"
 576525,AdOentrejo@viajes.ceele,68693,Fuengirola,REUS!!!,78,3881,162000,Renfe,"{""Aire acondicionado"",Comida,""Asientos reclinables"",Agua,Calefacción,Wifi,Baño}","{Torremolinos,Orihuela}"
 576552,enrique2788@viajes.cl,91995,Mérida,"Collado Villalba",31,586,133000,"CFR (Rumania)",{},"{Valdemoro,Mérida,Ceuta,Cartagena,Badalona}"
-576554,Yolandasauceda@viajes.cl,x,"Molina de Segura",x,55,3548,280000,"ZFBH (Bosnia y Herzegovina)","{Wifi,Calefacción,Agua,TV,""Asientos reclinables"",""Aire acondicionado""}","{""Jerez de la Frontera"",Gandía,Telde,Madrid,Badajoz}"
 576570,raesam@viajes.ceele,10513,Cartagena,Mérida,22,2118,66000,"ŽFBH (Bosnia y Herzegovina)","{Agua,Comida,TV,Calefacción}","{Cartagena,Benidorm,""Roquetas de Mar""}"
 576583,josOo8782@viajes.cl,28018,Almería,Santander,32,2033,197000,"DSB (Dinamarca)","{Comida,""Aire acondicionado"",TV,Calefacción}","{Rubí,Vitoria,""Las Palmas de Gran Canaria"",Huelva}"
 576586,sra.7625@viajes.cl,24394,santander#,Lugo,1,4152,468000,AVE,"{TV,Baño,Agua,""Aire acondicionado"",Comida,Wifi,""Asientos reclinables""}",{Móstoles}
@@ -3163,7 +3125,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 576887,Susanaochoa@viajes.cl,8571,"Pozuelo de Alarcón",Baracaldo,90,382,96000,"NS International",{},{Orense}
 576900,sta.8315@viajes.ceele,12701,Arrecife,Benalmádena,46,160,100000,"BDZ (Bulgaria)",{},"{""Santa Cruz de Tenerife"",""Santa Cruz de Tenerife"",Lorca}"
 576908,Rosalira@viajes.cl,47798,Estepona,Salamanca,86,1160,95000,"ŽFBH (Bosnia y Herzegovina)","{TV,Calefacción,Agua}","{Ponferrada,""Alcalá de Henares""}"
-576988,irlini@viajes.cl,x,"Sanlúcar de Barrameda",x,70,3507,x,x,"{""Asientos reclinables"",Wifi,Baño,""Aire acondicionado"",TV,Calefacción}","{Alcorcón,Calahorra,""Alcalá de Henares"",Orense}"
 576989,paarfi@viajes.ceele,11659,Madrid,"Talavera de la Reina",49,1258,112000,"DSB (Dinamarca)","{Calefacción,""Asientos reclinables"",""Aire acondicionado""}","{""El Ejido"",Paterna,Torrelavega}"
 576990,Sta.valdez@viajes.cl,94743,"Talavera de la Reina",Jaén,68,805,118000,"VR (Finlandia)","{TV,Comida,""Asientos reclinables""}","{""Pozuelo de Alarcón""}"
 577004,pazeta@viajes.cl,50612,Avilés,Palencia,37,968,67000,"PKP (Polonia)","{TV,Agua,""Aire acondicionado""}","{Benalmádena,Elche,Ávila}"
@@ -3201,11 +3162,9 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 577290,Marisolsantacruz@viajes.cl,77408,"San Cristróbal de la Laguna","San Sebastián",59,588,163000,"NS International",{},{Telde}
 577316,anluroco@viajes.cl,53626,Estepona,"Las Palmas de Gran Canaria",28,2135,107000,Trenitalia,"{Calefacción,Comida,""Asientos reclinables"",Baño}","{Gerona,Gecho,Zamora}"
 577317,silvia552@viajes.cl,78174,"Las Palmas de Gran Canaria",Guadalajara,86,3620,443000,"ŽFBH (Bosnia y Herzegovina)","{Baño,Calefacción,""Aire acondicionado"",Agua,Wifi,""Asientos reclinables"",Comida}",{Santander}
-577343,Rosariodelagarza@viajes.cl,x,"Palma de Mallorca",x,67,2882,206000,AVE,"{Baño,""Aire acondicionado"",Agua,Comida,""Asientos reclinables"",Calefacción}","{""Palma de Mallorca"",""Las Palmas de Gran Canaria"",Salamanca,Córdoba}"
 577360,Homerooquendo@viajes.cl,98740,Rubí,Tarrasa,71,3193,197000,"RZD (Rusia)","{""Asientos reclinables"",Comida,Agua,Calefacción,Wifi,TV}","{León,Marbella,Manresa,Ferrol,Rivas-Vaciamadrid}"
 577364,Homerohidalgo@viajes.cl,68405,León,"El Prat de LLobregat",80,279,127000,"ZS (Eslovenia)",{},"{Almería,Leganés}"
 577365,marOAa1272@viajes.cl,6220,"El Prat de LLobregat",Gecho,84,1694,65000,"SBB (Suiza)","{Agua,Comida,Wifi,""Asientos reclinables""}","{Benalmádena,Leganés,""Collado Villalba"",""Santiago de Compostela""}"
-577366,Sra.avilOos@viajes.cl,x,x,León,76,1424,130000,"Nederlandse Sp",x,"{Cádiz,Fuengirola,Tarragona}"
 577444,Sergioceballos@viajes.ceele,12183,león#,Sevilla,28,3695,407000,Trenitalia,"{Agua,""Asientos reclinables"",Baño,Calefacción,TV,Wifi,""Aire acondicionado""}","{""Santa Cruz de Tenerife"",""San Cristróbal de la Laguna"",Paterna,Jaén,""El Puerto de Santa María""}"
 577445,joroar@viajes.ceele,26750,Sevilla,Coslada,70,3125,148000,AVE,"{Calefacción,Wifi,Agua,TV,Baño,""Asientos reclinables""}","{Pamplona,Granollers,Benalmádena,Linares}"
 577447,stadsial@viajes.cl,22605,"Alcalá de Guadaira",Leganés,56,2277,195000,Amtrak,"{Comida,""Asientos reclinables"",TV,Wifi,""Aire acondicionado""}","{Ceuta,Cuenta}"
@@ -3252,7 +3211,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 577958,sr.3517@viajes.cl,59588,Benalmádena,Alcoy,44,2401,170000,"DSB (Dinamarca)","{TV,Wifi,Calefacción,""Asientos reclinables"",Agua}","{""Collado Villalba"",Gerona,""Las Palmas de Gran Canaria""}"
 577964,sr.7869@viajes.cl,99063,"San Fernando",Granada,91,3325,232000,"Deutsche Bahn (DB)","{""Aire acondicionado"",Baño,Comida,TV,Wifi,Agua}","{""El Puerto de Santa María"",Marbella,Mérida,Gandía,Badajoz}"
 577971,adOen4388@viajes.cl,67473,Sagunto,Tarragona,50,3366,239000,"MÁV (Hungría)","{Agua,Wifi,Baño,Calefacción,""Aire acondicionado"",TV}",{Gerona}
-578005,Sta.lugo@viajes.ceele,x,Huelva,Oviedo,95,3694,370000,"RZD (Rusia)","{Comida,TV,""Aire acondicionado"",Agua,Calefacción,Wifi,Baño}",{Cáceres}
 578010,Lourdesgamez@viajes.cl,65892,Santander,Ávila,12,3167,120000,"Deutsche Bahn (DB)","{""Asientos reclinables"",Calefacción,Comida,Agua,Baño,""Aire acondicionado""}","{Salamanca,Mijas}"
 578011,AriadnagarcOAa@viajes.cl,13082,Baracaldo,Granada,1,309,162000,"ZFBH (Bosnia y Herzegovina)",{},{Valdemoro}
 578012,vininOU@viajes.cl,74574,Cartagena,Torrevieja,74,1980,162000,"DSB (Dinamarca)","{""Asientos reclinables"",""Aire acondicionado"",Baño,Agua}","{""La Coruña""}"
@@ -3269,7 +3227,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 578144,mariana7382@viajes.cl,3266,Sabadell,TARRAGONA!!!,63,1013,32000,Thalys,"{Agua,""Aire acondicionado"",Wifi}","{Cartagena,Paterna}"
 578145,elolza@viajes.cl,14558,tarragona#,Getafe,25,789,95000,"CP (Portugal)","{Comida,Baño,TV}","{Torremolinos,Sagunto,""Roquetas de Mar"",Albacete,Orense}"
 578178,Lorenzomalave@viajes.ceele,7297,Granada,Salamanca,78,2354,215000,x,"{Comida,Wifi,Agua,Baño,""Aire acondicionado""}","{Badalona,Calahorra,Elda,Linares,""Cerdañola del Vallés""}"
-578190,Susanasolorzano@viajes.cl,48676,x,Estepona,87,2980,339000,"PKP (Polonia)","{Wifi,Comida,""Asientos reclinables"",Agua,TV,Calefacción}","{Torremolinos,Cáceres,Segovia,Salamanca,Valladolid}"
 578196,paolor@viajes.cl,18732,Estepona,Salamanca,75,1974,173000,"SJ (Suecia)","{TV,Comida,Agua,Wifi}","{""Talavera de la Reina"",Avilés,Orihuela}"
 578199,algaar@viajes.cl,56239,Mérida,"San Cristróbal de la Laguna",51,178,123000,"ÖBB (Austria)",{},"{""La Línea de la Concepción"",""Collado Villalba"",Mérida}"
 578200,Luissisneros@viajes.cl,25858,"San Cristróbal de la Laguna",Córdoba,86,635,198000,Eurostar,{},"{""Talavera de la Reina"",""Santa Coloma de Gramanet"",Granada}"
@@ -3330,7 +3287,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 578961,stadmuvOe@viajes.cl,32141,Guadalajara,Parla,41,2128,134000,"ŽFBH (Bosnia y Herzegovina)","{Wifi,Agua,Comida,""Aire acondicionado""}","{Lorca,""Collado Villalba"",Viladecans}"
 578962,pablo4834@viajes.cl,71481,Cartagena,ORIHUELA!!!,15,2414,213000,"NS International","{""Asientos reclinables"",TV,""Aire acondicionado"",Calefacción,Agua}","{""Santa Cruz de Tenerife"",""Santa Coloma de Gramanet"",""Hospitalet de LLobregat"",Baracaldo,Pamplona}"
 578981,mahoqu@viajes.cl,66881,"Santa Lucía de Tirajana",Gijón,3,1548,148000,Thalys,"{TV,Calefacción,""Asientos reclinables"",""Aire acondicionado""}",{Valdemoro}
-578982,mariano1289@viajes.cl,x,Gijón,x,43,2467,272000,"ŽFBH (Bosnia y Herzegovina)","{Comida,""Asientos reclinables"",TV,Baño,Wifi}",{Vigo}
 578983,Gabrielavera@viajes.ceele,66241,Cáceres,Linares,15,586,149000,"ZSSK (Eslovaquia)",{},"{Sevilla,Badajoz}"
 578984,guabsa@viajes.cl,51433,"Santa Coloma de Gramanet",Granada,8,3548,167000,"NSB (Noruega)","{TV,Comida,Calefacción,""Asientos reclinables"",Wifi,""Aire acondicionado""}","{""Las Palmas de Gran Canaria"",Linares,Valladolid,Badajoz}"
 579058,grhera@viajes.cl,40700,Viladecans,Tarrasa,48,984,49000,Italo,"{""Asientos reclinables"",Wifi,Calefacción}","{Burgos,Ceuta}"
@@ -3433,7 +3389,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 580332,julio1585@viajes.cl,23629,Granada,Gerona,2,1813,154000,AVE,"{Baño,Wifi,Comida,""Aire acondicionado""}","{Lorca,Vitoria,Mijas}"
 580333,giralo@viajes.cl,88995,Gerona,"El Ejido",100,1781,106000,"PKP (Polonia)","{Baño,Agua,Comida,""Asientos reclinables""}","{Coslada,Logroño,""Palma de Mallorca"",Móstoles,Benalmádena}"
 580340,ragaca@viajes.cl,6988,Ávila,Getafe,99,1200,104000,"MÁV (Hungría)","{Agua,Baño,Wifi}","{Alcorcón,""Santa Cruz de Tenerife"",""Torrejón de Ardoz""}"
-580341,ester7366@viajes.cl,x,Getafe,"Cerdañola del Vallés",42,3675,161000,Amtrak,"{TV,Comida,Wifi,""Asientos reclinables"",""Aire acondicionado"",Calefacción,Agua}","{Alcobendas,Logroño,Alcobendas,Vigo}"
 580352,anlurade@viajes.cl,90605,Vitoria,"Collado Villalba",42,1936,81000,"HŽ (Croacia)","{Comida,Baño,TV,Calefacción}","{Benalmádena,Cáceres}"
 580359,Sta.rojas@viajes.cl,1781,"Collado Villalba","San Fernando",45,1240,122000,"ZSSK (Eslovaquia)","{Baño,""Asientos reclinables"",Comida}","{""La Coruña""}"
 580362,dopeal@viajes.cl,60760,Badalona,Málaga,7,3161,365000,"ZS (Eslovenia)","{Wifi,""Asientos reclinables"",TV,Comida,Agua,Baño}","{""Talavera de la Reina"",Móstoles,Segovia,Fuengirola}"
@@ -3569,7 +3524,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 582459,Salvadorlucero@viajes.cl,81921,Valladolid,Alicante,54,417,93000,Renfe,{},"{""San Sebastián"",Inca,""Mollet del Vallés"",""Cornellá de Llobregat""}"
 582473,Cristinatoledo@viajes.cl,39191,Guadalajara,Alcoy,58,637,192000,AVE,{},"{Elche,Ponferrada,""San Sebastían de los Reyes"",Benalmádena,Cartagena}"
 582474,Sta.nevOerez@viajes.cl,78265,Ponferrada,León,57,2312,283000,"VR (Finlandia)","{TV,Agua,Wifi,Baño,""Aire acondicionado""}","{Orihuela,Gijón}"
-582481,hodeag@viajes.cl,x,x,Telde,x,1896,78000,AVE,"{Calefacción,Baño,TV,""Aire acondicionado""}",{Sagunto}
 582485,JosOorivero@viajes.cl,50227,Zamora,"Palma de Mallorca",18,2805,203000,"ZSSK (Eslovaquia)","{Wifi,""Aire acondicionado"",Baño,Comida,""Asientos reclinables""}","{Gijón,Granollers,Guadalajara}"
 582531,beybvi@viajes.ceele,32813,Zamora,Bilbao,97,4184,183000,"HŽ (Croacia)","{Comida,""Aire acondicionado"",Baño,Agua,""Asientos reclinables"",Calefacción,Wifi}","{Getafe,""Santa Cruz de Tenerife"",Alcoy}"
 582536,srlivide@viajes.cl,1654,Vigo,"MOLINA DE SEGURA!!!",4,3946,279000,"CD (República Checa)","{Calefacción,Baño,Wifi,Comida,Agua,""Aire acondicionado"",""Asientos reclinables""}","{Salamanca,""Cornellá de Llobregat"",""San Sebastián"",Barcelona,Málaga}"
@@ -3672,7 +3626,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 583975,isallo@viajes.cl,7289,reus#,Gandía,31,288,15000,x,{},"{Manresa,Vitoria,""Alcalá de Guadaira""}"
 583983,LucasbenOAtez@viajes.cl,73884,gandía#,VIGO!!!,43,2508,158000,Italo,"{Baño,""Asientos reclinables"",TV,""Aire acondicionado"",Wifi}","{Benidorm,Elda}"
 583988,PablovalentOAn@viajes.cl,48456,Vigo,Cartagena,2,3378,254000,"CD (República Checa)","{Comida,Baño,Calefacción,TV,""Aire acondicionado"",""Asientos reclinables""}","{Mérida,""Mollet del Vallés"",Alicante,Getafe,Ceuta}"
-584004,Sr.cabrera@viajes.cl,x,x,x,77,4205,255000,"ZS (Eslovenia)","{Calefacción,Comida,""Aire acondicionado"",Wifi,TV,Baño,Agua}",{Jaén}
 584031,julio399@viajes.ceele,61336,Cádiz,"Jerez de la Frontera",50,3863,423000,"ZFBH (Bosnia y Herzegovina)","{Agua,Calefacción,""Aire acondicionado"",Baño,Comida,""Asientos reclinables"",Wifi}","{""Torrejón de Ardoz"",""Santa Coloma de Gramanet"",""Dos Hermanas"",Gijón}"
 584039,Carlotarosario@viajes.ceele,16257,"jerez de la frontera#",ESTEPONA!!!,27,3979,370000,"ÖBB (Austria)","{Agua,Wifi,Comida,TV,Baño,""Asientos reclinables"",""Aire acondicionado""}","{""Alcalá de Henares"",Paterna,""Jerez de la Frontera"",Jaén}"
 584055,MOInicaledesma@viajes.cl,70610,Benidorm,Linares,25,370,127000,"PKP (Polonia)",{},"{Parla,Palencia,Badajoz,Calahorra}"
@@ -3694,7 +3647,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 584200,Sta.mondragOIn@viajes.cl,46453,"talavera de la reina#",Inca,22,339,140000,"NS International",{},"{Mérida,Córdoba,Rubí,Vigo}"
 584212,timoteo4318@viajes.cl,43662,"Roquetas de Mar",Torremolinos,79,4198,169000,"CP (Portugal)","{Agua,Baño,""Aire acondicionado"",""Asientos reclinables"",Comida,Calefacción,Wifi}",{Parla}
 584213,cristian2042@viajes.cl,2704,Torremolinos,Inca,46,1784,139000,"DSB (Dinamarca)","{Baño,""Asientos reclinables"",""Aire acondicionado"",Comida}","{Albacete,Bilbao,Mataró,""Castellón de la Plana""}"
-584230,stsileor@viajes.cl,87380,Elda,Viladecans,48,2350,x,"NSB (Noruega)","{""Aire acondicionado"",Comida,""Asientos reclinables"",Agua,Baño}",{Cádiz}
 584231,Miguelperalta@viajes.cl,58376,Viladecans,Torremolinos,10,647,67000,"ZS (Eslovenia)",{},"{Zaragoza,""La Línea de la Concepción"",""Castellón de la Plana"",Jaén,""Cornellá de Llobregat""}"
 584236,lumiteOeg@viajes.cl,67072,Burgos,"San Sebastían de los Reyes",84,2496,80000,"VRZ (Croacia)","{""Aire acondicionado"",Baño,Calefacción,Comida,Agua}","{Rubí,Elda}"
 584250,joluarsa@viajes.cl,37386,Valencia,"Alcalá de Henares",19,679,198000,AVE,{},"{Sabadell,Bilbao}"
@@ -3732,7 +3684,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 584654,jedeoj@viajes.cl,21336,Zaragoza,"Cornellá de Llobregat",18,2045,170000,"CP (Portugal)","{Calefacción,""Aire acondicionado"",Comida,""Asientos reclinables""}","{Zamora,Zamora,Reus,""Talavera de la Reina""}"
 584655,horacio2141@viajes.ceele,43733,"Cornellá de Llobregat",RIVAS-VACIAMADRID!!!,14,747,78000,"HŽ (Croacia)","{Baño,Calefacción,""Asientos reclinables""}","{Sabadell,Coslada}"
 584660,gumovi@viajes.cl,74986,Parla,Zaragoza,44,3986,388000,Italo,"{Comida,""Asientos reclinables"",Wifi,Calefacción,Baño,""Aire acondicionado"",TV}",{Badajoz}
-584661,gerardo2336@viajes.cl,x,Zaragoza,FUENGIROLA!!!,34,1411,93000,"SBB (Suiza)","{Baño,Agua,""Aire acondicionado""}","{""Jerez de la Frontera"",Gerona,Motril,Ávila,Manresa}"
 584666,sranlear@viajes.cl,47934,Granada,Torrevieja,90,2850,230000,"BDZ (Bulgaria)","{Wifi,Agua,""Aire acondicionado"",Comida,Baño}","{Leganés,Ponferrada}"
 584674,Cristinacasares@viajes.cl,2470,Torrevieja,PAMPLONA!!!,48,x,65000,x,"{Comida,""Aire acondicionado"",""Asientos reclinables""}","{Elche,Reus}"
 584681,Sta.cardenas@viajes.cl,36258,Pamplona,Baracaldo,50,2745,124000,"NSB (Noruega)","{""Asientos reclinables"",TV,Baño,Comida,Wifi}","{""Castellón de la Plana""}"
@@ -3769,7 +3720,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 585184,sr.8176@viajes.cl,54235,León,Coslada,49,1745,68000,"ÖBB (Austria)","{Comida,""Aire acondicionado"",Agua,TV}","{Torremolinos,Ponferrada,Viladecans,Granada,Pontevedra}"
 585216,Jacobocabrera@viajes.cl,34236,Tarragona,"Ciudad Real",8,1545,146000,"MÁV (Hungría)","{""Asientos reclinables"",TV,Comida,""Aire acondicionado""}","{Huelva,Zaragoza,""Las Palmas de Gran Canaria"",Segovia}"
 585217,JorgeterOen@viajes.cl,25100,"Ciudad Real",Marbella,89,3989,489000,"VRZ (Croacia)","{Calefacción,Agua,""Asientos reclinables"",""Aire acondicionado"",Wifi,TV,Baño}","{Orihuela,""El Ejido"",Arrecife,Valencia,Valladolid}"
-585218,Rosariodelagarza@viajes.cl,x,x,x,86,1980,x,x,"{TV,Wifi,Agua,Baño}","{Granollers,Lorca,Paterna}"
 585220,alejandro4193@viajes.cl,46141,Torrevieja,Ávila,11,1667,135000,"TGV (SNCF)","{Comida,Calefacción,Wifi,""Asientos reclinables""}","{""San Cristróbal de la Laguna"",Toledo}"
 585242,daniela9768@viajes.cl,59632,Zamora,"San Sebastián",42,1264,148000,"ZSSK (Eslovaquia)","{""Aire acondicionado"",Wifi,TV}","{Zamora,""Dos Hermanas""}"
 585247,josOo1689@viajes.cl,2839,"San Sebastián",Rivas-Vaciamadrid,2,3561,118000,"VR (Finlandia)","{""Aire acondicionado"",Calefacción,""Asientos reclinables"",TV,Wifi,Comida}","{""Chiclana de la Frontera""}"
@@ -3957,7 +3907,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 587578,marOAa9219@viajes.cl,82925,Cáceres,Algeciras,12,3961,326000,"ŽSSK (Eslovaquia)","{Baño,Wifi,TV,Agua,""Aire acondicionado"",""Asientos reclinables"",Calefacción}","{""Palma de Mallorca"",Fuengirola,Cartagena}"
 587586,Rafaelolivera@viajes.cl,3599,"Molina de Segura","Santa Lucía de Tirajana",54,1158,80000,"Deutsche Bahn (DB)","{Baño,Calefacción,""Aire acondicionado""}","{Sevilla,""La Línea de la Concepción"",""Dos Hermanas"",""Santa Coloma de Gramanet"",Majadahonda}"
 587589,Sta.mondragOIn@viajes.cl,6927,Fuengirola,"Talavera de la Reina",49,3422,339000,Trenitalia,"{Baño,Calefacción,TV,Agua,Comida,""Aire acondicionado""}","{Motril,""La Coruña"",Córdoba,Torrevieja}"
-587597,cristobal3126@viajes.ceele,x,x,MóSTOLES!!!,92,1503,178000,Eurostar,"{Baño,Agua,Calefacción,""Aire acondicionado""}","{""Santa Coloma de Gramanet"",""La Coruña""}"
 587608,FlorenciajOequez@viajes.cl,87592,Huelva,Motril,80,3593,326000,"ŽFBH (Bosnia y Herzegovina)","{Comida,""Aire acondicionado"",Wifi,Baño,Calefacción,TV}","{Badajoz,""Torrejón de Ardoz"",""Palma de Mallorca"",Cartagena}"
 587614,camara@viajes.cl,92536,Motril,Torrevieja,66,3730,484000,Trenitalia,"{TV,Comida,Calefacción,Wifi,Agua,""Asientos reclinables"",Baño}","{Linares,Zamora}"
 587628,julio4678@viajes.cl,54190,Gerona,CARTAGENA!!!,84,1850,115000,"ÖBB (Austria)","{Baño,TV,Calefacción,Agua}","{Murcia,Ponferrada,Gecho}"
@@ -4024,7 +3973,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 588309,mariano6759@viajes.cl,41428,Gandía,Pontevedra,10,3543,141000,"Deutsche Bahn (DB)","{Agua,Wifi,""Asientos reclinables"",Comida,Calefacción,Baño}","{""San Sebastían de los Reyes"",""Palma de Mallorca"",Algeciras,""Talavera de la Reina""}"
 588310,Yolandasauceda@viajes.cl,94940,Pontevedra,Alcorcón,41,3722,499000,"TGV (SNCF)","{Wifi,""Asientos reclinables"",TV,Agua,Comida,Baño,""Aire acondicionado""}","{Fuengirola,Torremolinos,Gijón}"
 588314,vibuvOo@viajes.cl,63311,"Collado Villalba",Albacete,47,3779,373000,"ÖBB (Austria)","{""Aire acondicionado"",""Asientos reclinables"",Baño,Agua,Calefacción,Wifi,Comida}","{Puertollano,Huelva,Vitoria,""Alcalá de Henares""}"
-588315,ana997@viajes.cl,56107,Albacete,"La Línea de la Concepción",25,3742,476000,x,"{Wifi,""Aire acondicionado"",""Asientos reclinables"",Calefacción,Baño,Comida,Agua}","{Reus,Rivas-Vaciamadrid,""Las Palmas de Gran Canaria"",Calahorra}"
 588316,mapame@viajes.cl,75914,"la línea de la concepción#","TORREJóN DE ARDOZ!!!",11,4082,401000,"ŽFBH (Bosnia y Herzegovina)","{Comida,Wifi,""Aire acondicionado"",TV,Calefacción,Baño,Agua}",{Valladolid}
 588339,glabgOI@viajes.ceele,34670,Madrid,TOLEDO!!!,79,3010,317000,"ŽFBH (Bosnia y Herzegovina)","{Comida,Baño,TV,""Aire acondicionado"",Agua,""Asientos reclinables""}",{Rivas-Vaciamadrid}
 588340,Sra.carvajal@viajes.ceele,76695,Toledo,Cádiz,21,649,174000,"BDZ (Bulgaria)",{},"{Alcobendas,Cuenta,Sevilla,Torrelavega}"
@@ -4109,7 +4057,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 589389,Antonioalvarado@viajes.cl,15227,"cerdañola del vallés#",MáLAGA!!!,78,1222,121000,"CP (Portugal)","{TV,Calefacción,Wifi}","{""San Sebastían de los Reyes"",Logroño,Marbella,Badajoz}"
 589416,sttimeca@viajes.cl,38654,Torremolinos,Avilés,54,2058,156000,"TGV (SNCF)","{Comida,Baño,Agua,Calefacción}","{""Torrejón de Ardoz"",Elda,Leganés,Valladolid,Manresa}"
 589418,marOAa6426@viajes.cl,9578,"Jerez de la Frontera",Segovia,90,4140,255000,"HŽ (Croacia)","{""Aire acondicionado"",Baño,TV,Agua,Calefacción,Comida,""Asientos reclinables""}","{Madrid,""Cerdañola del Vallés"",Tarragona}"
-589419,viarba@viajes.cl,x,Segovia,PATERNA!!!,66,1823,154000,"SBB (Suiza)","{Agua,""Asientos reclinables"",""Aire acondicionado"",Baño}","{Manresa,Rubí,""San Sebastían de los Reyes""}"
 589422,mariano1289@viajes.ceele,3645,Reus,Barcelona,10,157,16000,Trenitalia,{},"{Vigo,Cáceres,Córdoba}"
 589457,razaji@viajes.cl,42878,"El Puerto de Santa María",Fuengirola,21,2466,112000,"HŽ (Croacia)","{""Aire acondicionado"",""Asientos reclinables"",Baño,Agua,Calefacción}","{Elche,Cáceres,Alcoy}"
 589493,Mercedesriojas@viajes.cl,97236,Viladecans,Gecho,75,1211,65000,"ÖBB (Austria)","{Wifi,TV,""Aire acondicionado""}","{""San Cristróbal de la Laguna"",Jaén,Valencia,Sabadell}"
@@ -4272,7 +4219,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 591474,saolma@viajes.cl,88796,Benalmádena,"Santiago de Compostela",21,3091,228000,Eurostar,"{""Asientos reclinables"",TV,Baño,Comida,""Aire acondicionado"",Agua}","{""Chiclana de la Frontera"",""Hospitalet de LLobregat"",Lérida}"
 591480,jaime2469@viajes.cl,738,Cuenta,Lorca,68,743,118000,AVE,"{TV,Baño,Wifi}","{Puertollano,""San Fernando""}"
 591487,ramiro7137@viajes.cl,46871,Puertollano,"El Puerto de Santa María",25,2880,131000,"SJ (Suecia)","{Wifi,""Asientos reclinables"",Calefacción,Baño,Agua}","{Salamanca,""Collado Villalba"",""Santa Lucía de Tirajana"",""Santa Lucía de Tirajana"",Tarragona}"
-591520,crgapo@viajes.cl,10696,x,x,8,4218,181000,"MÁV (Hungría)","{Baño,TV,Comida,""Asientos reclinables"",""Aire acondicionado"",Agua,Wifi}","{""La Coruña"",""Dos Hermanas"",Granollers}"
 591524,pazeta@viajes.cl,44510,Mataró,Rivas-Vaciamadrid,74,3549,213000,Thalys,"{Agua,""Asientos reclinables"",Wifi,TV,""Aire acondicionado"",Baño}",{Toledo}
 591539,sonasa@viajes.ceele,60387,"San Sebastián",Valladolid,38,3075,372000,"PKP (Polonia)","{Comida,""Aire acondicionado"",TV,Wifi,Baño,Calefacción}","{Logroño,Málaga,Gecho,Valladolid,Madrid}"
 591542,Patriciotello@viajes.cl,58921,Vitoria,Guadalajara,94,3815,265000,"MÁV (Hungría)","{Calefacción,TV,Comida,Baño,""Asientos reclinables"",Wifi,Agua}","{Segovia,Madrid,Almería}"
@@ -4309,13 +4255,11 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 591838,sr.7939@viajes.cl,61022,Benidorm,Irún,76,1294,79000,"ZFBH (Bosnia y Herzegovina)","{Agua,Baño,Calefacción}","{Almería,""Torrejón de Ardoz""}"
 591846,elsebe@viajes.cl,85454,granollers#,Vitoria,67,2062,146000,"Nederlandse Sp","{""Asientos reclinables"",Agua,TV,Wifi}","{Gerona,""Santiago de Compostela"",Irún,Sevilla,""El Ejido""}"
 591847,sta.8042@viajes.cl,43007,Vitoria,Elche,66,803,119000,"HŽ (Croacia)","{""Aire acondicionado"",Calefacción,Baño}","{Móstoles,Elda,""Mollet del Vallés"",Cáceres,Rubí}"
-591857,AlfonsopOorez@viajes.cl,72634,Alcorcón,Calahorra,70,x,178000,"DSB (Dinamarca)",{},"{Torrelavega,""El Puerto de Santa María""}"
 591858,JosOoalmanza@viajes.cl,31561,Calahorra,MOTRIL!!!,50,2384,293000,"ŽSSK (Eslovaquia)","{TV,Baño,""Aire acondicionado"",""Asientos reclinables"",Agua}","{Benidorm,Marbella,Bilbao,Gerona,""El Puerto de Santa María""}"
 591864,LorenamacOAas@viajes.cl,39158,"Hospitalet de LLobregat",Toledo,32,4106,348000,"PKP (Polonia)","{Comida,TV,Wifi,""Asientos reclinables"",Calefacción,""Aire acondicionado"",Baño}","{Zamora,""Roquetas de Mar"",Orihuela,Granollers}"
 591865,anita9356@viajes.cl,50352,Rivas-Vaciamadrid,Estepona,37,168,196000,AVE,{},"{Valdemoro,Alicante}"
 591868,VirginiajuOerez@viajes.cl,75117,Gijón,FUENLABRADA!!!,90,1199,57000,"SNCB (Bélgica)","{Agua,Baño,TV}","{""Roquetas de Mar"",Badalona,""La Línea de la Concepción"",Huelva,Gecho}"
 591870,LeonorconcepciOIn@viajes.cl,89979,"Cerdañola del Vallés",Toledo,9,3844,294000,"VRZ (Croacia)","{Comida,Agua,Wifi,TV,""Aire acondicionado"",Baño,Calefacción}","{Lugo,Marbella,Avilés}"
-591871,majoalav@viajes.cl,73413,"santa cruz de tenerife#",Ferrol,11,2580,118000,x,"{Agua,Wifi,""Aire acondicionado"",Baño,""Asientos reclinables""}","{Getafe,Baracaldo,""Chiclana de la Frontera"",""San Sebastián"",Madrid}"
 591876,rosa6323@viajes.cl,33335,Ferrol,Elda,30,953,102000,"CD (República Checa)","{TV,Baño,Agua}","{""Hospitalet de LLobregat"",Toledo}"
 591877,mariana7382@viajes.cl,36923,Elda,"Roquetas de Mar",21,3216,256000,"BDZ (Bulgaria)","{TV,Wifi,""Aire acondicionado"",Comida,""Asientos reclinables"",Calefacción}","{""Ciudad Real"",""Jerez de la Frontera""}"
 591889,florencia6345@viajes.cl,11005,Sevilla,"San Cristróbal de la Laguna",68,233,72000,"ZFBH (Bosnia y Herzegovina)",{},{Ceuta}
@@ -4333,7 +4277,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 592026,glabgOI@viajes.ceele,7537,león#,Cádiz,55,2286,260000,"ŽFBH (Bosnia y Herzegovina)","{Wifi,Baño,Agua,""Asientos reclinables"",""Aire acondicionado""}","{""Las Palmas de Gran Canaria"",Calahorra,Albacete}"
 592070,gregorio7743@viajes.cl,75932,badajoz#,Oviedo,12,3157,254000,"CP (Portugal)","{TV,Wifi,Calefacción,Agua,Comida,Baño}",{Marbella}
 592077,Sra.raya@viajes.cl,75511,Oviedo,Alcoy,20,3405,214000,"PKP (Polonia)","{Wifi,Calefacción,""Aire acondicionado"",TV,Baño,""Asientos reclinables""}","{""Pozuelo de Alarcón"",Badalona,Cartagena}"
-592078,ocpagi@viajes.ceele,x,Alcoy,SEGOVIA!!!,15,139,36000,"SJ (Suecia)",{},{Segovia}
 592167,Florenciaarias@viajes.cl,22188,"Jerez de la Frontera",Irún,20,836,91000,"VR (Finlandia)","{""Asientos reclinables"",Comida,Agua}","{Segovia,León,Valencia,Calahorra}"
 592199,homero7229@viajes.cl,30858,alicante#,"San Fernando",28,526,127000,"SBB (Suiza)",{},"{Rivas-Vaciamadrid,Mataró,Santander,Orense}"
 592204,leroco@viajes.cl,68728,"San Fernando","Collado Villalba",28,3681,264000,Italo,"{""Asientos reclinables"",Calefacción,TV,Wifi,""Aire acondicionado"",Baño,Comida}",{Telde}
@@ -4373,7 +4316,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 592683,rebeca1767@viajes.cl,37207,"Collado Villalba",Guadalajara,90,1660,149000,"CFR (Rumania)","{Agua,Baño,Wifi,TV}","{""La Coruña""}"
 592684,inOos6105@viajes.cl,94138,Guadalajara,León,42,2864,300000,AVE,"{Wifi,Agua,Comida,Baño,TV}","{Rubí,Móstoles}"
 592735,sizapr@viajes.cl,62085,Alicante,"CERDAñOLA DEL VALLéS!!!",97,2536,246000,"Nederlandse Sp","{""Aire acondicionado"",Agua,Wifi,TV,Baño}","{""Santa Coloma de Gramanet""}"
-592740,cedeza@viajes.cl,69682,"Talavera de la Reina","San Cristróbal de la Laguna",x,1892,62000,"SJ (Suecia)","{""Aire acondicionado"",""Asientos reclinables"",TV,Calefacción}","{Almería,Oviedo,Pontevedra}"
 592748,juOevle@viajes.cl,11063,Ávila,x,46,859,32000,"DSB (Dinamarca)","{Agua,Calefacción,TV}","{""San Sebastían de los Reyes""}"
 592863,Sra.trejo@viajes.cl,90153,"Dos Hermanas",Gandía,70,4042,356000,"SNCB (Bélgica)","{Agua,Wifi,Calefacción,TV,Baño,Comida,""Aire acondicionado""}","{Ponferrada,Baracaldo}"
 592868,anfrte@viajes.cl,31043,Gandía,"Palma de Mallorca",95,1501,169000,"PKP (Polonia)","{""Aire acondicionado"",Wifi,Comida,""Asientos reclinables""}","{Bilbao,Algeciras}"
@@ -4464,7 +4406,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 594185,sta.6769@viajes.cl,40376,Alicante,Lugo,48,3841,286000,"Nederlandse Sp","{Wifi,Baño,""Aire acondicionado"",Comida,Agua,Calefacción,TV}","{Logroño,Coslada,Linares,Vigo}"
 594194,daartr@viajes.cl,9763,"Talavera de la Reina",Gecho,9,311,41000,"VRZ (Croacia)",{},"{Paterna,Gerona,Sabadell,Segovia,Parla}"
 594201,federico7015@viajes.cl,83879,Gecho,Ávila,24,4061,491000,"SBB (Suiza)","{Baño,Calefacción,Wifi,""Aire acondicionado"",""Asientos reclinables"",Agua,TV}","{""Las Palmas de Gran Canaria""}"
-594210,ana4570@viajes.ceele,74412,Ávila,Reus,11,1618,157000,"ZFBH (Bosnia y Herzegovina)",x,"{""La Línea de la Concepción"",""La Línea de la Concepción"",Baracaldo,Córdoba,Puertollano}"
 594261,MarOAasolorio@viajes.cl,48566,"Cerdañola del Vallés","Cornellá de Llobregat",73,2946,194000,"VRZ (Croacia)","{TV,""Aire acondicionado"",""Asientos reclinables"",Calefacción,Agua,Baño}","{Rivas-Vaciamadrid,""El Prat de LLobregat"",""El Prat de LLobregat"",Salamanca,Badalona}"
 594268,rosa172@viajes.cl,83860,"Cornellá de Llobregat","El Prat de LLobregat",12,3484,191000,Thalys,"{Comida,""Asientos reclinables"",""Aire acondicionado"",Calefacción,TV,Wifi}","{""Sanlúcar de Barrameda"",Telde,Madrid}"
 594269,silvia6632@viajes.cl,50525,"El Prat de LLobregat","Castellón de la Plana",21,2758,209000,"ŽFBH (Bosnia y Herzegovina)","{Comida,""Aire acondicionado"",""Asientos reclinables"",Wifi,Calefacción}","{""Castellón de la Plana"",Barcelona,Segovia,Lérida,Valladolid}"
@@ -4477,7 +4418,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 594349,Virginiagarica@viajes.ceele,22274,Cuenta,Móstoles,76,3132,232000,"ZFBH (Bosnia y Herzegovina)","{Comida,Agua,Calefacción,""Aire acondicionado"",Wifi,""Asientos reclinables""}",{Algeciras}
 594398,sra.2684@viajes.cl,2581,"El Puerto de Santa María",Paterna,79,1339,110000,"RZD (Rusia)","{Baño,Wifi,Calefacción}",{Málaga}
 594419,miOenbrca@viajes.cl,88243,Lérida,"Chiclana de la Frontera",66,3884,296000,"ZSSK (Eslovaquia)","{Wifi,""Aire acondicionado"",Calefacción,Agua,TV,Baño,""Asientos reclinables""}","{Lérida,Gecho}"
-594420,ramite@viajes.cl,90563,"Chiclana de la Frontera",Torrelavega,73,x,309000,"ÖBB (Austria)","{Agua,Comida,TV,""Asientos reclinables"",Wifi,Baño,Calefacción}","{""Cerdañola del Vallés"",""Cerdañola del Vallés"",Estepona,""Mollet del Vallés""}"
 594428,micaela6140@viajes.cl,19713,pontevedra#,Lorca,21,481,76000,Amtrak,{},"{Fuengirola,Majadahonda,Málaga,Irún}"
 594441,srelpopa@viajes.cl,75936,Guadalajara,"Roquetas de Mar",14,1541,121000,Trenitalia,"{Agua,Baño,Calefacción,Wifi}","{Vitoria,Valladolid}"
 594442,coelni@viajes.cl,2836,Fuengirola,Santander,78,2637,187000,"DSB (Dinamarca)","{Wifi,Calefacción,Baño,Comida,TV}","{Benidorm,Logroño,Linares,Reus,Telde}"
@@ -4528,7 +4468,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 595153,maricarmen9617@viajes.cl,68977,Estepona,"Collado Villalba",100,3467,392000,Renfe,"{Wifi,TV,Comida,Baño,Agua,""Asientos reclinables""}",{Benalmádena}
 595159,sta.8454@viajes.cl,63342,"Collado Villalba",Badajoz,15,2573,151000,"SNCB (Bélgica)","{Baño,""Aire acondicionado"",Calefacción,""Asientos reclinables"",Agua}","{Santander,Orense,""Torrejón de Ardoz"",Burgos}"
 595173,straalna@viajes.ceele,38036,Valencia,Pontevedra,92,3862,489000,"CD (República Checa)","{Agua,""Asientos reclinables"",Comida,Calefacción,""Aire acondicionado"",Baño,Wifi}","{Alcobendas,Cartagena,""Palma de Mallorca"",""El Prat de LLobregat"",Irún}"
-595211,AnagodOAnez@viajes.cl,x,Elda,Manresa,92,4020,280000,"ZS (Eslovenia)","{Comida,Baño,""Aire acondicionado"",""Asientos reclinables"",Wifi,Calefacción,Agua}","{Pamplona,Granada}"
 595212,margarita9165@viajes.ceele,89769,manresa#,Cartagena,15,2919,165000,"BDZ (Bulgaria)","{""Asientos reclinables"",Baño,TV,Agua,Calefacción,""Aire acondicionado""}","{Telde,Gerona,Albacete,Segovia,Mataró}"
 595213,srlulour@viajes.cl,73001,Cartagena,Oviedo,85,2370,110000,Thalys,"{TV,Comida,Wifi,Baño,""Aire acondicionado""}",{Huelva}
 595215,RamOInvaldivia@viajes.cl,70572,Málaga,Ávila,89,2985,322000,AVE,"{""Asientos reclinables"",Wifi,Calefacción,Baño,Comida,TV}","{Oviedo,Murcia,Algeciras,Fuenlabrada}"
@@ -4596,7 +4535,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 596063,ana7543@viajes.cl,53210,Torrelavega,"Ciudad Real",60,563,79000,"NS International",{},"{Viladecans,Burgos,""Pozuelo de Alarcón""}"
 596064,agustOAn4940@viajes.cl,77812,"Ciudad Real","Palma de Mallorca",23,746,120000,"SBB (Suiza)","{Calefacción,Baño,Agua}","{Murcia,""Santa Lucía de Tirajana"",Valdemoro,Valencia}"
 596100,jomaOegca@viajes.ceele,34225,Alcobendas,Alicante,62,3273,382000,"NS International","{Wifi,Agua,""Asientos reclinables"",Calefacción,Comida,Baño}","{Salamanca,Vigo,Alcorcón}"
-596101,Sra.badillo@viajes.cl,6595,x,Benalmádena,x,955,92000,"SNCB (Bélgica)","{""Asientos reclinables"",Wifi,""Aire acondicionado""}",{Sabadell}
 596103,Maricarmenfranco@viajes.cl,30079,Cuenta,Mataró,94,3114,203000,"PKP (Polonia)","{Wifi,Comida,Calefacción,Agua,""Aire acondicionado"",Baño}","{Badajoz,""Mollet del Vallés""}"
 596116,sta.6091@viajes.cl,2580,Zamora,Valladolid,73,3839,459000,"ŽSSK (Eslovaquia)","{Comida,""Asientos reclinables"",Wifi,Baño,Calefacción,TV,Agua}","{Valladolid,Cádiz,""Castellón de la Plana""}"
 596119,srdagrpe@viajes.cl,59275,Valladolid,"Santiago de Compostela",41,3421,281000,x,"{Baño,Comida,Calefacción,""Asientos reclinables"",TV,""Aire acondicionado""}","{""Cornellá de Llobregat""}"
@@ -4620,7 +4558,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 596339,elbaja@viajes.cl,8183,Gecho,Alcorcón,90,1300,53000,"BDZ (Bulgaria)","{TV,Wifi,Agua}",{Ávila}
 596347,srsopies@viajes.cl,74443,Oviedo,Segovia,80,1581,94000,"ÖBB (Austria)","{Calefacción,TV,Baño,Wifi}","{Vigo,Rivas-Vaciamadrid,Lugo,""Santiago de Compostela"",Albacete}"
 596393,Luisceballos@viajes.ceele,17075,avilés#,Lugo,96,2417,118000,"SNCB (Bélgica)","{Baño,Agua,""Aire acondicionado"",Calefacción,""Asientos reclinables""}",{Avilés}
-596415,MigueltOollez@viajes.cl,x,Tarragona,"Alcalá de Guadaira",11,3474,265000,"ŽFBH (Bosnia y Herzegovina)","{Calefacción,""Aire acondicionado"",Wifi,Baño,TV,Comida}","{Orihuela,""San Sebastían de los Reyes""}"
 596450,Normagranados@viajes.cl,57308,Bilbao,Viladecans,46,1395,122000,"MÁV (Hungría)","{""Aire acondicionado"",Baño,""Asientos reclinables""}","{Badajoz,Segovia,Valladolid,Elda}"
 596455,soreol@viajes.ceele,47293,Cáceres,"Cerdañola del Vallés",7,242,129000,"SBB (Suiza)",{},"{""El Prat de LLobregat"",Mataró,Tarrasa,""Torrejón de Ardoz""}"
 596456,rafael7461@viajes.cl,52567,"Cerdañola del Vallés","El Puerto de Santa María",33,1852,51000,"Deutsche Bahn (DB)","{Comida,""Asientos reclinables"",""Aire acondicionado"",Agua}","{Valladolid,""La Coruña"",Badajoz}"
@@ -4804,7 +4741,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 598786,ercode@viajes.cl,18528,Alcoy,Telde,64,856,146000,"Deutsche Bahn (DB)","{Wifi,Agua,Comida}","{Jaén,Estepona,""Santa Coloma de Gramanet""}"
 598789,espagu@viajes.cl,89320,"Santa Cruz de Tenerife","Alcalá de Guadaira",36,3689,384000,"TGV (SNCF)","{Agua,Wifi,""Aire acondicionado"",TV,Calefacción,Comida,""Asientos reclinables""}","{""Castellón de la Plana"",Lorca,Fuengirola,Huelva}"
 598797,mapame@viajes.cl,31815,Torrelavega,Santander,40,3223,281000,"BDZ (Bulgaria)","{TV,Baño,""Aire acondicionado"",Wifi,Agua,""Asientos reclinables""}","{Cartagena,Lérida,Gandía}"
-598798,sra.3768@viajes.cl,x,Santander,"Pozuelo de Alarcón",64,2960,307000,"PKP (Polonia)","{""Aire acondicionado"",TV,Wifi,""Asientos reclinables"",Comida,Agua}","{""Dos Hermanas"",Albacete,León,""El Prat de LLobregat"",Madrid}"
 598800,germOen7524@viajes.cl,90227,Badajoz,Gijón,32,408,71000,"DSB (Dinamarca)",{},"{Alcoy,Lugo}"
 598803,josefina9872@viajes.cl,17064,Mijas,Fuengirola,63,1470,105000,"ZFBH (Bosnia y Herzegovina)","{Wifi,""Asientos reclinables"",Calefacción,""Aire acondicionado""}","{Baracaldo,Sevilla,""Dos Hermanas""}"
 598840,stfrraca@viajes.cl,59536,"Santiago de Compostela",Gandía,60,297,107000,"Nederlandse Sp",{},"{""Hospitalet de LLobregat""}"
@@ -4913,7 +4849,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 600185,macafo@viajes.cl,78561,Ávila,Arrecife,1,1781,196000,"ZSSK (Eslovaquia)","{Agua,TV,Calefacción,Baño}","{Viladecans,Gandía,Elda,Orihuela,Cádiz}"
 600219,joemmeco@viajes.cl,13409,Benidorm,Zaragoza,63,533,50000,"ŽFBH (Bosnia y Herzegovina)",{},{Getafe}
 600223,FlorenciajOequez@viajes.cl,98318,Zaragoza,Cartagena,50,2430,150000,"PKP (Polonia)","{Calefacción,Agua,""Aire acondicionado"",TV,Comida}",{Burgos}
-600235,claudia5131@viajes.cl,34306,Rivas-Vaciamadrid,Murcia,25,x,128000,Eurostar,x,"{Granada,""Pozuelo de Alarcón"",Alcoy,Irún,Alicante}"
 600246,JorgeterOen@viajes.cl,61952,Oviedo,"Ciudad Real",52,188,90000,"VRZ (Croacia)",{},"{Murcia,""Collado Villalba"",""La Coruña"",Getafe,Valdemoro}"
 600247,Gloriafonseca@viajes.cl,98218,"ciudad real#",Vitoria,44,2400,203000,"TGV (SNCF)","{""Aire acondicionado"",Baño,Agua,Calefacción,Wifi}","{Vitoria,Puertollano,""Palma de Mallorca"",Inca}"
 600249,beloar@viajes.cl,55046,Vitoria,Cáceres,98,3234,300000,"ÖBB (Austria)","{Comida,TV,Wifi,Agua,""Asientos reclinables"",Baño}","{Málaga,Valencia}"
@@ -5138,7 +5073,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 602674,raorri@viajes.cl,75876,Reus,Gerona,100,2880,134000,"SBB (Suiza)","{Calefacción,Baño,""Aire acondicionado"",Comida,""Asientos reclinables""}","{Granada,""Castellón de la Plana""}"
 602682,grpele@viajes.cl,25661,gerona#,Estepona,97,4140,341000,"Nederlandse Sp","{Wifi,TV,Calefacción,Comida,Baño,Agua,""Asientos reclinables""}","{""Torrejón de Ardoz"",""Alcalá de Henares""}"
 602698,Gracielavenegas@viajes.cl,17638,Linares,"San Sebastían de los Reyes",68,556,14000,"NSB (Noruega)",{},"{Oviedo,Torremolinos,Palencia,Sevilla}"
-602706,josOo586@viajes.cl,11112,x,Arrecife,31,2981,336000,"ÖBB (Austria)","{""Aire acondicionado"",Baño,Comida,""Asientos reclinables"",TV,Calefacción}","{Arrecife,Barcelona,""San Sebastían de los Reyes""}"
 602714,agustOAn4619@viajes.cl,52624,Arrecife,Murcia,19,1078,102000,"SBB (Suiza)","{Calefacción,TV,Wifi}","{""El Prat de LLobregat"",""Chiclana de la Frontera"",""Hospitalet de LLobregat"",Badajoz,León}"
 602715,ester8178@viajes.cl,55165,Cáceres,Salamanca,48,3990,160000,Thalys,"{""Aire acondicionado"",Wifi,Comida,Calefacción,""Asientos reclinables"",Baño,Agua}","{Mataró,Gerona}"
 602723,Josefinasoria@viajes.cl,37519,Salamanca,Zaragoza,37,2187,180000,"SNCB (Bélgica)","{Baño,""Asientos reclinables"",Calefacción,Wifi,""Aire acondicionado""}","{""Talavera de la Reina"",Pamplona,Parla}"
@@ -5150,7 +5084,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 602758,besear@viajes.cl,3418,Palencia,Barcelona,26,1119,56000,"ÖBB (Austria)","{Baño,Wifi,""Asientos reclinables""}","{""Collado Villalba"",Fuengirola}"
 602764,ramOIn6494@viajes.cl,54421,Barcelona,FERROL!!!,24,1977,109000,AVE,"{TV,""Asientos reclinables"",Calefacción,Baño}","{Logroño,Elche,Elche,Gerona,""Collado Villalba""}"
 602795,berta4644@viajes.cl,34696,Torrevieja,Córdoba,35,746,58000,Thalys,"{TV,Agua,Comida}","{Cádiz,""Torrejón de Ardoz"",Mataró}"
-602803,cecilia7335@viajes.cl,x,x,Inca,x,532,52000,"MÁV (Hungría)",{},"{Marbella,Elda}"
 602816,horacio279@viajes.cl,79392,Ávila,"Las Palmas de Gran Canaria",62,4004,172000,"HŽ (Croacia)","{TV,""Asientos reclinables"",Agua,Calefacción,""Aire acondicionado"",Wifi,Comida}","{Orihuela,""San Cristróbal de la Laguna"",Cuenta,Mijas,Jaén}"
 602817,luisa4534@viajes.cl,60410,"Las Palmas de Gran Canaria",Lugo,85,481,53000,Amtrak,{},"{Motril,Guadalajara,Granada,Linares}"
 602845,sr.7869@viajes.cl,46145,Irún,Valdemoro,66,977,62000,"NSB (Noruega)","{""Aire acondicionado"",Calefacción,""Asientos reclinables""}","{Avilés,Alcobendas}"
@@ -5497,7 +5430,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 607904,TimoteoguzmOen@viajes.ceele,26191,"castellón de la plana#","Pozuelo de Alarcón",43,4223,195000,Amtrak,"{Calefacción,""Asientos reclinables"",Comida,""Aire acondicionado"",Baño,Wifi,TV}","{Lérida,""San Cristróbal de la Laguna"",Oviedo,Algeciras,""Santa Lucía de Tirajana""}"
 607906,sta.8136@viajes.cl,12223,Elche,Granada,6,953,30000,"TGV (SNCF)","{Wifi,Baño,Agua}","{Toledo,Toledo}"
 607907,srpabame@viajes.cl,39670,"Cornellá de Llobregat","Cornellá de Llobregat",30,1604,104000,Italo,"{Comida,Wifi,""Aire acondicionado"",Calefacción}","{""San Sebastián"",""Palma de Mallorca""}"
-607908,sra.4397@viajes.cl,x,"Castellón de la Plana",Torremolinos,76,3823,421000,"SNCB (Bélgica)",x,"{Majadahonda,Valdemoro,""Santiago de Compostela""}"
 607909,Sra.fernOendez@viajes.cl,17448,Fuengirola,"Jerez de la Frontera",21,1729,59000,"MÁV (Hungría)","{""Aire acondicionado"",Agua,TV,Comida}","{Ávila,""Roquetas de Mar"",Logroño}"
 607910,blanca675@viajes.cl,13341,"El Prat de LLobregat",Murcia,64,1408,78000,"ŽSSK (Eslovaquia)","{Comida,""Asientos reclinables"",Calefacción}","{Granollers,""El Ejido"",""San Cristróbal de la Laguna""}"
 607912,Sr.ozuna@viajes.cl,57268,Cáceres,Gecho,53,3981,161000,"SJ (Suecia)","{""Aire acondicionado"",Baño,""Asientos reclinables"",Calefacción,Wifi,Agua,TV}","{Gerona,Gerona,Pontevedra,""Mollet del Vallés""}"
@@ -5675,7 +5607,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 608161,elsebe@viajes.cl,57557,"Sanlúcar de Barrameda",Toledo,27,3454,248000,"SBB (Suiza)","{""Aire acondicionado"",Comida,""Asientos reclinables"",Baño,TV,Calefacción}","{""Castellón de la Plana"",""Ciudad Real"",Rubí,Torrelavega,Guadalajara}"
 608162,Gabrielavera@viajes.cl,41090,"Talavera de la Reina",Almería,6,3079,130000,"DSB (Dinamarca)","{""Aire acondicionado"",Agua,Wifi,TV,Calefacción,Baño}",{Salamanca}
 608165,Gloriafonseca@viajes.cl,12638,Mérida,Segovia,7,2088,176000,"NSB (Noruega)","{Wifi,""Aire acondicionado"",""Asientos reclinables"",Comida}","{Inca,Pamplona,Calahorra}"
-608166,bernardo9103@viajes.cl,x,leganés#,Calahorra,72,4181,226000,"ÖBB (Austria)",x,"{Huelva,Móstoles,Granada}"
 608167,hegocr@viajes.ceele,92657,Sabadell,Torrelavega,93,1595,106000,"ÖBB (Austria)","{Wifi,Calefacción,""Aire acondicionado"",TV}","{Toledo,Fuengirola}"
 608168,Sr.pichardo@viajes.ceele,97348,Valencia,PAMPLONA!!!,3,253,57000,"ŽSSK (Eslovaquia)","{Wifi,Calefacción,""Aire acondicionado"",TV}","{Manresa,""Collado Villalba"",Zaragoza,Madrid}"
 608170,rosario4305@viajes.cl,84275,Málaga,"Collado Villalba",54,2518,95000,"ZFBH (Bosnia y Herzegovina)","{""Asientos reclinables"",Wifi,Calefacción,Agua,Comida}","{Huelva,Santander,Telde}"
@@ -5726,9 +5657,7 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 608230,natalia6194@viajes.cl,53418,Valdemoro,Cáceres,55,1677,70000,AVE,"{Calefacción,Comida,TV,Wifi}",{Almería}
 608231,sr.9956@viajes.cl,20625,Palencia,Córdoba,23,3159,326000,Renfe,"{Baño,Comida,""Aire acondicionado"",Calefacción,""Asientos reclinables"",Agua}","{Parla,Sagunto,""Santiago de Compostela""}"
 608232,Sra.fernOendez@viajes.cl,87470,"Alcalá de Henares",Coslada,90,3712,450000,"NS International","{Comida,TV,Baño,Wifi,""Aire acondicionado"",Calefacción,""Asientos reclinables""}","{Málaga,""San Sebastían de los Reyes""}"
-608234,stgagasa@viajes.cl,38980,Logroño,x,x,1651,159000,"NSB (Noruega)","{""Aire acondicionado"",""Asientos reclinables"",Agua,TV}","{Orense,Mijas,Badajoz,Málaga}"
 608236,srgumale@viajes.cl,87857,"Santa Cruz de Tenerife",Sevilla,37,1038,59000,"HŽ (Croacia)","{Baño,""Asientos reclinables"",Wifi}","{Valencia,Irún,Leganés,Ferrol}"
-608237,sr.7960@viajes.cl,73467,Marbella,Zaragoza,12,x,184000,"TGV (SNCF)",x,"{Torrelavega,Zamora,Elda}"
 608238,rebeca740@viajes.cl,69339,algeciras#,BURGOS!!!,82,4067,394000,"Nederlandse Sp","{Calefacción,Comida,Wifi,Agua,Baño,TV,""Aire acondicionado""}","{""El Puerto de Santa María""}"
 608240,concepciOIn1150@viajes.ceele,14744,salamanca#,Mataró,47,2638,222000,Trenitalia,"{Baño,Agua,""Asientos reclinables"",Wifi,Comida}","{Valladolid,""Dos Hermanas"",Badajoz,""Ciudad Real"",Bilbao}"
 608242,Sra.urrutia@viajes.cl,95552,guadalajara#,Rivas-Vaciamadrid,25,3363,229000,"CP (Portugal)","{Baño,Calefacción,""Asientos reclinables"",Comida,Wifi,""Aire acondicionado""}","{""Dos Hermanas"",Lugo,Orense,""Alcalá de Henares""}"
@@ -5921,12 +5850,10 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 608526,srlulour@viajes.cl,1802,Torrelavega,Málaga,64,1449,138000,"ŽFBH (Bosnia y Herzegovina)","{Agua,Calefacción,TV,Baño}","{""Roquetas de Mar"",Lugo,Telde,Valdemoro,""El Prat de LLobregat""}"
 608527,sta.9977@viajes.cl,55379,Logroño,"ALCALá DE GUADAIRA!!!",100,345,159000,"ÖBB (Austria)","{Agua,Calefacción,TV,Baño}","{Cuenta,Getafe,Alicante,Pontevedra,Sevilla}"
 608528,srcOobesa@viajes.cl,85004,"Alcalá de Guadaira",Marbella,43,1342,49000,"Nederlandse Sp","{Baño,""Aire acondicionado"",TV}","{""Alcalá de Guadaira"",Marbella,Almería,Mérida,Pontevedra}"
-608530,inOos6710@viajes.ceele,x,x,"Jerez de la Frontera",2,873,42000,"ZFBH (Bosnia y Herzegovina)","{Wifi,""Aire acondicionado"",Baño}","{""Molina de Segura"",""La Línea de la Concepción"",Mérida,""Alcalá de Henares""}"
 608531,sra.7947@viajes.cl,77142,Alcoy,Alcoy,73,3695,428000,"SJ (Suecia)","{TV,Calefacción,Baño,""Aire acondicionado"",Agua,""Asientos reclinables"",Wifi}","{Gerona,Vitoria,Torremolinos}"
 608532,magugi@viajes.cl,55469,Parla,Rubí,22,1080,39000,"PKP (Polonia)","{Calefacción,Baño,Agua}","{Mijas,""Dos Hermanas""}"
 608533,agustOAn6873@viajes.ceele,31439,viladecans#,Sagunto,29,3797,391000,"VR (Finlandia)","{Calefacción,""Aire acondicionado"",Agua,Wifi,TV,Comida,""Asientos reclinables""}","{Ceuta,""San Sebastián"",""Santiago de Compostela""}"
 608534,Marianaperales@viajes.cl,60119,Elche,"Sanlúcar de Barrameda",58,2367,122000,"SNCB (Bélgica)","{""Asientos reclinables"",Comida,Calefacción,Baño,Wifi}","{Badalona,Rivas-Vaciamadrid}"
-608535,Patriciovillanueva@viajes.cl,x,León,x,52,3945,333000,Trenitalia,"{Baño,""Asientos reclinables"",Comida,TV,Agua,Calefacción,""Aire acondicionado""}","{Gecho,""San Sebastían de los Reyes"",""Roquetas de Mar"",Gerona,Baracaldo}"
 608537,lumaca@viajes.cl,95341,Almería,Rubí,62,255,69000,Italo,"{TV,Wifi,Agua}",{Sagunto}
 608538,arsana@viajes.cl,95429,"Castellón de la Plana","Santa Lucía de Tirajana",13,1809,62000,"TGV (SNCF)","{Baño,""Asientos reclinables"",Wifi,Agua}","{Tarrasa,Burgos}"
 608539,Jorgealanis@viajes.cl,16079,"La Coruña","Dos Hermanas",49,3760,431000,"DSB (Dinamarca)","{Comida,""Asientos reclinables"",Wifi,Baño,""Aire acondicionado"",TV,Agua}","{Badajoz,Almería}"
@@ -5959,7 +5886,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 608578,sra.7161@viajes.ceele,10736,Vitoria,Calahorra,83,3993,177000,"HŽ (Croacia)","{Calefacción,""Asientos reclinables"",Baño,TV,Wifi,Comida,Agua}","{Pontevedra,""El Prat de LLobregat"",""Chiclana de la Frontera"",""Alcalá de Guadaira"",Avilés}"
 608579,sra.3499@viajes.ceele,16036,"Las Palmas de Gran Canaria",Badajoz,100,1964,135000,"CP (Portugal)","{Wifi,Comida,Agua,TV}","{Albacete,""Alcalá de Guadaira""}"
 608580,Jacobolucio@viajes.cl,51363,Gecho,Algeciras,21,522,127000,AVE,"{Wifi,Comida,Agua,TV}","{""San Sebastían de los Reyes"",Inca,Gijón}"
-608581,daniela9768@viajes.cl,7500,cartagena#,Palencia,77,2509,159000,x,"{Comida,Baño,TV,""Aire acondicionado"",Calefacción}","{""Torrejón de Ardoz""}"
 608583,maesha@viajes.cl,23079,Sabadell,Alcoy,89,4178,193000,Eurostar,"{""Aire acondicionado"",""Asientos reclinables"",Calefacción,TV,Agua,Baño,Comida}","{Mérida,Marbella}"
 608585,inOos6105@viajes.cl,14427,sagunto#,Benidorm,41,3788,354000,Italo,"{Baño,""Aire acondicionado"",TV,""Asientos reclinables"",Wifi,Calefacción,Comida}","{Pamplona,Gijón,Torremolinos}"
 608587,Santiagocardona@viajes.cl,15535,Palencia,Sabadell,87,4051,477000,"CFR (Rumania)","{""Asientos reclinables"",Comida,""Aire acondicionado"",TV,Calefacción,Baño,Agua}","{Fuenlabrada,Leganés,Tarragona,""El Puerto de Santa María"",Zamora}"
@@ -5989,7 +5915,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 608621,vOArimu@viajes.cl,85091,Torremolinos,Mijas,49,729,82000,"PKP (Polonia)","{Calefacción,Wifi,Agua}","{Valladolid,Móstoles,""San Sebastián"",Gijón,""Molina de Segura""}"
 608622,majosade@viajes.cl,19758,Tarrasa,Oviedo,43,3285,307000,"NSB (Noruega)","{""Asientos reclinables"",Calefacción,Agua,Comida,Baño,""Aire acondicionado""}",{Ávila}
 608623,Sta.leyva@viajes.cl,57191,"El Puerto de Santa María",Mérida,19,2298,249000,"MÁV (Hungría)","{Calefacción,Baño,Comida,TV,""Aire acondicionado""}","{Granada,Granada,""El Prat de LLobregat"",""San Sebastián"",Fuenlabrada}"
-608624,srpideme@viajes.cl,x,Inca,"PALMA DE MALLORCA!!!",58,2882,125000,x,"{Agua,Calefacción,Comida,TV,""Aire acondicionado"",""Asientos reclinables""}","{""Hospitalet de LLobregat"",Getafe}"
 608625,cristian6579@viajes.cl,16759,Baracaldo,Avilés,96,121,154000,"PKP (Polonia)","{Agua,Calefacción,Comida,TV,""Aire acondicionado"",""Asientos reclinables""}",{Tarrasa}
 608626,Patriciotello@viajes.cl,80122,"Palma de Mallorca",Fuenlabrada,83,198,162000,Amtrak,"{Agua,Calefacción,Comida,TV,""Aire acondicionado"",""Asientos reclinables""}","{Zaragoza,Tarrasa}"
 608627,armando9829@viajes.cl,32821,Getafe,Coslada,2,1643,92000,Italo,"{Calefacción,""Asientos reclinables"",Agua,Comida}","{Jaén,""Molina de Segura"",""Chiclana de la Frontera"",""Chiclana de la Frontera"",Sabadell}"
@@ -6027,7 +5952,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 608679,stvOAesma@viajes.cl,69765,Fuengirola,"Ciudad Real",55,626,93000,"ÖBB (Austria)","{Baño,Agua,Calefacción,TV,Wifi,""Aire acondicionado""}","{Pontevedra,Cartagena,""El Ejido"",Ponferrada,Logroño}"
 608680,maeuprse@viajes.cl,7528,Madrid,"Hospitalet de LLobregat",70,1659,92000,Eurostar,"{Wifi,Baño,""Aire acondicionado"",Calefacción}","{Gijón,Fuenlabrada,Albacete}"
 608682,Sr.badillo@viajes.cl,72972,Telde,"Alcalá de Henares",54,2532,212000,Italo,"{Calefacción,""Asientos reclinables"",Agua,Wifi,Comida}",{Valdemoro}
-608683,sacuri@viajes.ceele,x,x,VIGO!!!,11,x,72000,"HŽ (Croacia)",x,"{Móstoles,Valladolid,Lorca,""San Sebastían de los Reyes"",Burgos}"
 608685,patricio723@viajes.cl,29083,gerona#,MANRESA!!!,63,3396,252000,"NSB (Noruega)","{Agua,""Asientos reclinables"",""Aire acondicionado"",Baño,Wifi,Comida}",{Coslada}
 608686,Isabelbecerra@viajes.cl,99752,Fuenlabrada,Oviedo,68,3092,345000,"BDZ (Bulgaria)","{Calefacción,Comida,Agua,""Asientos reclinables"",Wifi,TV}","{Barcelona,""El Puerto de Santa María"",Palencia}"
 608687,sr.5449@viajes.cl,37439,Mataró,Arrecife,69,3810,226000,"MÁV (Hungría)","{Comida,Wifi,""Asientos reclinables"",Baño,""Aire acondicionado"",Agua,TV}","{Mérida,Fuengirola,Zaragoza,Salamanca}"
@@ -6093,21 +6017,18 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 608780,Sr.alonzo@viajes.cl,23465,Elda,Murcia,2,2081,166000,"HŽ (Croacia)","{Calefacción,Comida,Baño,Agua}","{""Santa Coloma de Gramanet"",Almería,Sabadell}"
 608781,sra.2025@viajes.cl,25931,Gecho,Ceuta,44,2251,223000,"BDZ (Bulgaria)","{Wifi,Calefacción,""Asientos reclinables"",""Aire acondicionado"",TV}",{Avilés}
 608782,Sta.henrOAquez@viajes.cl,1525,Arrecife,Madrid,99,2955,345000,"CFR (Rumania)","{Baño,Wifi,""Asientos reclinables"",Agua,Comida,""Aire acondicionado""}","{""Sanlúcar de Barrameda"",Palencia,Estepona,Sabadell,Orense}"
-608784,raOUl428@viajes.cl,x,x,Almería,5,1581,120000,"ZFBH (Bosnia y Herzegovina)","{TV,Agua,""Aire acondicionado"",Wifi}","{Baracaldo,""Palma de Mallorca""}"
 608786,margarita8473@viajes.cl,74228,Tarragona,Alicante,20,1765,157000,"VR (Finlandia)","{""Asientos reclinables"",""Aire acondicionado"",Comida,Calefacción}",{Benidorm}
 608787,Lorenzomalave@viajes.cl,10781,Tarragona,Lérida,37,2028,93000,Italo,"{Comida,Calefacción,Wifi,""Asientos reclinables""}","{Calahorra,Ávila,Rubí,""Santa Coloma de Gramanet""}"
 608788,gedeal@viajes.cl,45877,"Chiclana de la Frontera",Gecho,71,2604,277000,"ZS (Eslovenia)","{Comida,Agua,""Aire acondicionado"",""Asientos reclinables"",TV}","{Majadahonda,Reus,Málaga,Viladecans}"
 608789,Sr.nieves@viajes.cl,64832,"mollet del vallés#",Zaragoza,51,2290,233000,Trenitalia,"{Baño,""Asientos reclinables"",Wifi,""Aire acondicionado"",TV}","{Elda,Burgos,""Castellón de la Plana"",""San Fernando""}"
 608790,Robertoornelas@viajes.cl,94272,Pontevedra,Málaga,11,963,82000,"CFR (Rumania)","{Baño,TV,Calefacción}","{Alcorcón,Badajoz,Paterna}"
 608791,somanOU@viajes.cl,77526,Torrelavega,Badalona,3,3221,273000,AVE,"{Calefacción,TV,Agua,""Asientos reclinables"",""Aire acondicionado"",Comida}","{""San Sebastián"",Parla,Granollers,""Palma de Mallorca""}"
-608792,Guillermonieto@viajes.cl,x,ponferrada#,Estepona,92,656,49000,"NSB (Noruega)","{Calefacción,TV,Agua,""Asientos reclinables"",""Aire acondicionado"",Comida}","{""Jerez de la Frontera"",Valdemoro}"
 608793,rosario2602@viajes.cl,53575,Lérida,Leganés,55,1223,44000,"ÖBB (Austria)","{Baño,""Asientos reclinables"",TV}","{Inca,Sevilla,Almería,""Chiclana de la Frontera""}"
 608795,JoaquOAnmadera@viajes.cl,96261,Badajoz,"La Coruña",99,3249,176000,"SJ (Suecia)","{TV,Calefacción,""Asientos reclinables"",Baño,Agua,Comida}","{""El Ejido"",Vitoria,Cartagena,""Las Palmas de Gran Canaria"",Madrid}"
 608797,federico3486@viajes.cl,10030,"Palma de Mallorca","Collado Villalba",93,1412,40000,"HŽ (Croacia)","{""Aire acondicionado"",TV,Wifi}","{Barcelona,""San Sebastián""}"
 608798,Carolinalara@viajes.cl,68664,"Roquetas de Mar",Málaga,59,2068,158000,Italo,"{""Asientos reclinables"",""Aire acondicionado"",Wifi,TV}","{Granada,Salamanca,Majadahonda,Puertollano,Benalmádena}"
 608799,Oenvabe@viajes.cl,78846,Calahorra,"El Ejido",50,3279,281000,"CFR (Rumania)","{""Aire acondicionado"",Agua,Baño,Comida,""Asientos reclinables"",Calefacción}","{Guadalajara,Almería,""La Línea de la Concepción"",""La Línea de la Concepción"",""Hospitalet de LLobregat""}"
 608800,AndrOosybarra@viajes.cl,13987,"la coruña#",Salamanca,28,3415,318000,"TGV (SNCF)","{Wifi,""Asientos reclinables"",""Aire acondicionado"",Calefacción,TV,Comida}","{Rubí,Ávila,Toledo}"
-608803,esteban5882@viajes.cl,x,viladecans#,Pamplona,18,3873,395000,"SBB (Suiza)",x,"{Oviedo,Valladolid,Zamora,Granollers}"
 608804,Maricarmenbaeza@viajes.cl,88750,tarragona#,Móstoles,38,2994,226000,"VR (Finlandia)","{Wifi,""Asientos reclinables"",Agua,""Aire acondicionado"",Baño,Calefacción}","{""Mollet del Vallés""}"
 608806,Rosalira@viajes.cl,83082,Gerona,Torrevieja,59,811,31000,Eurostar,"{TV,""Aire acondicionado"",Baño}","{Gijón,""Molina de Segura""}"
 608807,clqume@viajes.cl,39289,Mijas,Reus,6,1942,119000,"NSB (Noruega)","{Comida,TV,Agua,Wifi}","{Torrelavega,Mérida,Torrevieja}"
@@ -6192,7 +6113,6 @@ x,clpeza@viajes.cl,56671,"Pozuelo de Alarcón",Ávila,49,1417,51000,x,"{""Asient
 608913,BenjamOAnfigueroa@viajes.cl,8326,Mijas,Fuengirola,66,392,19000,"MÁV (Hungría)","{Baño,""Asientos reclinables"",Agua,Comida,TV}","{Cartagena,Alcorcón,""Pozuelo de Alarcón"",Gecho}"
 608914,clemente8404@viajes.cl,9238,Granollers,Barcelona,30,1424,65000,"SJ (Suecia)","{Baño,""Asientos reclinables"",""Aire acondicionado""}","{""Collado Villalba"",Viladecans,Lérida,Sabadell,Vigo}"
 608915,gugugi@viajes.cl,5208,"Sanlúcar de Barrameda",Parla,55,3209,209000,"CFR (Rumania)","{TV,Comida,Wifi,Baño,""Asientos reclinables"",Agua}","{Getafe,Manresa}"
-608916,sr.7342@viajes.cl,70645,x,"San Cristróbal de la Laguna",10,1087,31000,"DSB (Dinamarca)","{TV,Calefacción,""Aire acondicionado""}","{León,Cartagena,""Dos Hermanas"",Orense}"
 608918,iszOUba@viajes.ceele,37449,bilbao#,LEóN!!!,95,714,75000,"HŽ (Croacia)","{Baño,Comida,""Asientos reclinables"",""Aire acondicionado"",Wifi}","{Madrid,Tarragona,""El Puerto de Santa María"",""Cornellá de Llobregat"",Zamora}"
 608920,DorotearodrOAgez@viajes.cl,6281,"Cornellá de Llobregat",Cáceres,66,1281,69000,AVE,"{TV,Agua,""Asientos reclinables""}","{Pontevedra,Zaragoza}"
 608921,Sta.valles@viajes.cl,40344,"San Sebastián",Mataró,4,2131,140000,"CP (Portugal)","{Baño,Wifi,Comida,Agua}","{Tarragona,Baracaldo,Algeciras,Santander}"

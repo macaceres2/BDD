@@ -52,24 +52,59 @@ function Encabezado($encabezado) {
 
 function Validar($fila, $archivo) {
     $valido = true;
-    if ($archivo == "usuarios_rescatados.csv") {
-        if (!isset($fila["correo"]) || trim($fila["correo"]) === "" || !filter_var($fila["correo"], FILTER_VALIDATE_EMAIL)) {
-            $valido = false;
-        }
-        if (!isset($fila["run"]) || trim($fila["run"]) === "" || !is_numeric($fila["run"])) {
-            $valido = false;
-        }
-        return $valido;
-    } elseif ($archivo == "empleados_rescatados.csv") {
-        if (!isset($fila["correo"]) || trim($fila["correo"]) === "" || !filter_var($fila["correo"], FILTER_VALIDATE_EMAIL)) {
-            $valido = false;
-        }
-        if (!isset($fila["run"]) || trim($fila["run"]) === "" || !is_numeric($fila["run"])) {
-            $valido = false;
-        }
-        return $valido;
+    if (!isset($fila["correo"]) || trim($fila["correo"]) === "" || !filter_var($fila["correo"], FILTER_VALIDATE_EMAIL)) {
+        return false;
     }
-    return false;
+    if (!isset($fila["run"]) || trim($fila["run"]) === "" || !is_numeric($fila["run"]) || intval($fila["run"]) <= 0) {
+        return false;
+    }
+    if (!isset($fila["nombre"]) || trim($fila["nombre"]) === "") {
+        return false;
+    }
+    if (!isset($fila["dv"]) || trim($fila["dv"]) === "" || !preg_match('/^[0-9Kk]$/', $fila["dv"])) {
+        return false;
+    }
+    
+    if ($archivo == "usuarios_rescatados.csv") {
+        if (!isset($fila["codigo_agenda"]) || trim($fila["codigo_agenda"]) === "" || !is_numeric($fila["codigo_agenda"])) {
+            return false;
+        }
+        if (!isset($fila["etiqueta"]) || trim($fila["etiqueta"]) === "") {
+            return false;
+        }
+        if (!isset($fila["cantidad_personas"]) || !is_numeric($fila["cantidad_personas"]) || intval($fila["cantidad_personas"]) <= 0) {
+            return false;
+        }
+        
+    } elseif ($archivo == "empleados_rescatados.csv") {
+        if (!isset($fila["jornada"]) || trim($fila["jornada"]) === "") {
+            return false;
+        }
+        if (!isset($fila["contrato"]) || trim($fila["contrato"]) === "") {
+            return false;
+        }
+        if (!isset($fila["numero_viaje"]) || trim($fila["numero_viaje"]) === "" || !is_numeric($fila["numero_viaje"])) {
+            return false;
+        }
+        if (!isset($fila["lugar_origen"]) || trim($fila["lugar_origen"]) === "") {
+            return false;
+        }
+        if (!isset($fila["lugar_llegada"]) || trim($fila["lugar_llegada"]) === "") {
+            return false;
+        }
+        if (isset($fila["tipo_de_bus"]) && trim($fila["tipo_de_bus"]) !== "") {
+        } 
+        else if (isset($fila["paradas"]) && trim($fila["paradas"]) !== "" && $fila["paradas"] !== "{}") {
+        }
+        else if ((isset($fila["escalas"]) && trim($fila["escalas"]) !== "" && $fila["escalas"] !== "{}") || 
+                 (isset($fila["clase"]) && trim($fila["clase"]) !== "")) {
+            if (!isset($fila["escalas"]) || trim($fila["escalas"]) === "" || $fila["escalas"] === "{}") {
+                return false;
+            }
+        }
+    }
+    
+    return $valido;
 }
 
 function Limpiar($fila) {
@@ -94,6 +129,7 @@ function NormalizarFecha($fecha) {
     }
     return $fecha;
 }
+
 
 function ManejoDatos($fila, $archivo) {
     global $personas, $usuarios, $empleados, $agendas, $reservas, $transportes, $buses, $trenes, $aviones;
@@ -203,7 +239,7 @@ function ManejoDatos($fila, $archivo) {
             ) {
                 $avion = $transporte_general;
                 $avion["escalas"] = $fila["escalas"];
-                $avion["clase"] = $fila["clase"];
+                $avion["clase"] = $fila["clase"] ?? "";;
                 $aviones[$fila["codigo_reserva"]] = $avion;
             }
         }

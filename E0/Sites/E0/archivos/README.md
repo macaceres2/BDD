@@ -37,7 +37,7 @@ Archivo `empleados_rescatados.csv`:
 
 
 Archivo `agendasOK.csv`:
-- Correos asociados a agendas incorrectas: Existían correos los cuales debían asociarse a agendas inexistenteso incorrectas.
+- Correos asociados a agendas incorrectas: Existían correos los cuales debían asociarse a agendas inexistentes o incorrectas.
     - Solución: Se descartan y se envían a `datos_descartados.csv`
 
 Archivo `reservasOK.csv`:
@@ -45,13 +45,6 @@ Archivo `reservasOK.csv`:
     - Solución: Se normaliza al formato YYYY-MM-DD. Se utiliza este formato por comodidad de archivos sucios.
 - Montos negativos: Existían montos en las reservas negativos.
     - Solución: Se descartan y se envían a `datos_descartados.csv`
-
-
-
-TOY CHATO DESPUÉS SIGO AQUI PARÉ
-
-
-
 
 
 ### 3. Nombre de los archivos de salida y explicación de su contenido
@@ -71,6 +64,16 @@ Carpeta CSV_limpios
 - Archivo `trenesOK.csv` tiene la siguiente forma: `correo_empleado`, `codigo_reserva`, `numero_viaje`, `lugar_origen`, `lugar_llegada`, `capacidad`, `tiempo_estimado`, `precio_asiento`, `empresa`, `comodidades`, `paradas`
 - Archivo `usuariosOK.csv` tiene la siguiente forma: `nombre`, `run`, `dv`, `correo`, `nombre_usuario`, `contrasena`, `telefono_contacto`, `puntos`
 - Archivo `datos_descartados.csv` tiene la siguiente forma: `nombre`, `run`, `dv`, `correo`, `nombre_usuario`, `contrasena`, `telefono_contacto`, `puntos`, `codigo_agenda`, `etiqueta`, `codigo_reserva`, `fecha`, `monto`, `cantidad_personas` 
+
+- personasOK: nombre, run y dv no pueden estar vacío
+- usuariosOK: nombre, run y dv no pueden estar vacíos 
+- empleadosOK: nombre, run y dv, contrato y jornada no pueden estar vacíos 
+- agendaOK: nada puede estar vacío 
+- reservasOK: codigo_agenda, codigo_reserva y cantidad_personas no pueden estar vacíos 
+- transportesOK: codigo_reserva, numero_viaje, lugar_origen y lugar_llegada no pueden estar vacíos 
+- busesOK: codigo_reserva, numero_viaje, lugar_origen y lugar_llegada no pueden estar vacíos 
+- trenesOK: codigo_reserva, numero_viaje, lugar_origen y lugar_llegada no pueden estar vacíos 
+- avionesOK: codigo_reserva, numero_viaje, lugar_origen, lugar_llegada y escalas, no pueden estar vacíos
 
 ### 4. Instrucciones para ejecutar el programa
 Es fundamental proporcionar instrucciones claras para ejecutar el programa (absolutamente todos los pasos necesarios, como si fueras a ejecutarlo de cero). Por ejemplo:
